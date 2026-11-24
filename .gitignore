@@ -1,0 +1,68 @@
+# =========================================================
+# For1Sight .gitignore (deployment version)
+# Goal: push the source code + the small read-only warehouse
+# snapshot the Streamlit dashboard needs. Raw data, Spark/HDFS
+# runtime files and caches stay on the local machine only.
+# =========================================================
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ---------- Virtual environments ----------
+.venv/
+venv/
+env/
+
+# ---------- Credentials and secrets ----------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# ---------- Logs, temp files, backups ----------
+*.log
+*.out
+*.tmp
+*.bak
+*_backup.py
+- Copy.gitignore
+
+# ---------- Big Data: raw data and Spark/Hadoop runtime (local only) ----------
+raw_hf_data/
+hf_upload/
+spark_temp/
+for1sight_runtime/
+hadoop_data/
+spark-warehouse/
+metastore_db/
+*.crc
+
+# ---------- API / FastF1 caches (rebuilt automatically when needed) ----------
+f1_cache/
+cache/
+
+# ---------- Unused legacy copies of Ergast-style CSVs ----------
+csv/
+
+# ---------- Data warehouse: ignore everything EXCEPT what the dashboard reads ----------
+for1sight_warehouse/*
+!for1sight_warehouse/hf_laptimes.parquet/
+!for1sight_warehouse/prediction_training_v2_8_prerace.parquet
+!for1sight_warehouse/prediction_training_v2_8_prerace_manifest.json
+!for1sight_warehouse/*.json
+!for1sight_warehouse/recent_results.csv
+!for1sight_warehouse/tyre_stints/
+!for1sight_warehouse/telemetry_gold/
+
+# ---------- Models: keep only what the dashboard loads ----------
+models/quali_model_xgb.joblib
+
+# ---------- Editor / OS files ----------
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

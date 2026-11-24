@@ -1,0 +1,341 @@
+Season,Event,Session,Has_Session_Lap_File,Session_Lap_Records,Session_Schema_Valid,Driver_Count,Individual_Lap_Records,Telemetry_Files,Missing_Telemetry,Extra_Telemetry,Lap_Record_Mismatches
+2024,Abu Dhabi Grand Prix,Practice 1,True,471,True,20,471,471,0,0,0
+2024,Abu Dhabi Grand Prix,Practice 2,True,507,True,20,507,507,0,0,0
+2024,Abu Dhabi Grand Prix,Practice 3,True,342,True,20,342,342,0,0,0
+2024,Abu Dhabi Grand Prix,Qualifying,True,261,True,20,261,261,0,0,0
+2024,Abu Dhabi Grand Prix,Race,True,1035,True,20,1035,1035,0,0,0
+2024,Australian Grand Prix,Practice 1,True,436,True,20,436,434,2,0,0
+2024,Australian Grand Prix,Practice 2,True,532,True,19,532,532,0,0,0
+2024,Australian Grand Prix,Practice 3,True,397,True,19,397,397,0,0,0
+2024,Australian Grand Prix,Qualifying,True,310,True,19,310,310,0,0,0
+2024,Australian Grand Prix,Race,True,998,True,19,998,998,0,0,0
+2024,Austrian Grand Prix,Practice 1,True,599,True,20,599,512,87,0,0
+2024,Austrian Grand Prix,Qualifying,True,320,True,20,320,320,0,0,0
+2024,Austrian Grand Prix,Race,True,1405,True,20,1405,1405,0,0,0
+2024,Austrian Grand Prix,Sprint,True,460,True,20,460,460,0,0,0
+2024,Austrian Grand Prix,Sprint Qualifying,True,195,True,20,195,195,0,0,0
+2024,Azerbaijan Grand Prix,Practice 1,True,354,True,20,354,354,0,0,0
+2024,Azerbaijan Grand Prix,Practice 2,True,470,True,20,470,470,0,0,0
+2024,Azerbaijan Grand Prix,Practice 3,True,290,True,20,290,290,0,0,0
+2024,Azerbaijan Grand Prix,Qualifying,True,311,True,20,311,311,0,0,0
+2024,Azerbaijan Grand Prix,Race,True,973,True,20,973,973,0,0,0
+2024,Bahrain Grand Prix,Practice 1,True,449,True,20,449,449,0,0,0
+2024,Bahrain Grand Prix,Practice 2,True,511,True,20,511,511,0,0,0
+2024,Bahrain Grand Prix,Practice 3,True,311,True,20,311,308,3,0,0
+2024,Bahrain Grand Prix,Qualifying,True,267,True,20,267,267,0,0,0
+2024,Bahrain Grand Prix,Race,True,1129,True,20,1129,1129,0,0,0
+2024,Belgian Grand Prix,Practice 1,True,417,True,20,417,417,0,0,0
+2024,Belgian Grand Prix,Practice 2,True,462,True,20,462,462,0,0,0
+2024,Belgian Grand Prix,Practice 3,True,84,True,20,84,84,0,0,0
+2024,Belgian Grand Prix,Qualifying,True,348,True,20,348,348,0,0,0
+2024,Belgian Grand Prix,Race,True,841,True,20,841,841,0,0,0
+2024,British Grand Prix,Practice 1,True,459,True,20,459,459,0,0,0
+2024,British Grand Prix,Practice 2,True,477,True,20,477,476,1,0,0
+2024,British Grand Prix,Practice 3,True,438,True,20,438,438,0,0,0
+2024,British Grand Prix,Qualifying,True,368,True,20,368,368,0,0,0
+2024,British Grand Prix,Race,True,961,True,20,961,961,0,0,0
+2024,Canadian Grand Prix,Practice 1,True,133,True,20,133,133,0,0,0
+2024,Canadian Grand Prix,Practice 2,True,437,True,20,437,435,2,0,0
+2024,Canadian Grand Prix,Practice 3,True,578,True,20,578,578,0,0,0
+2024,Canadian Grand Prix,Qualifying,True,408,True,20,408,408,0,0,0
+2024,Canadian Grand Prix,Race,True,1272,True,20,1272,1272,0,0,0
+2024,Chinese Grand Prix,Practice 1,True,453,True,20,453,453,0,0,0
+2024,Chinese Grand Prix,Qualifying,True,279,True,20,279,279,0,0,0
+2024,Chinese Grand Prix,Race,True,1032,True,20,1032,1032,0,0,0
+2024,Chinese Grand Prix,Sprint,True,378,True,20,378,378,0,0,0
+2024,Chinese Grand Prix,Sprint Qualifying,True,218,True,20,218,218,0,0,0
+2024,Dutch Grand Prix,Practice 1,True,285,True,20,285,285,0,0,0
+2024,Dutch Grand Prix,Practice 2,True,589,True,20,589,589,0,0,0
+2024,Dutch Grand Prix,Practice 3,True,109,True,20,109,109,0,0,0
+2024,Dutch Grand Prix,Qualifying,True,290,True,19,290,290,0,0,0
+2024,Dutch Grand Prix,Race,True,1426,True,20,1426,1426,0,0,0
+2024,Emilia Romagna Grand Prix,Practice 1,True,463,True,20,463,463,0,0,0
+2024,Emilia Romagna Grand Prix,Practice 2,True,571,True,20,571,571,0,0,0
+2024,Emilia Romagna Grand Prix,Practice 3,True,329,True,20,329,329,0,0,0
+2024,Emilia Romagna Grand Prix,Qualifying,True,286,True,20,286,286,0,0,0
+2024,Emilia Romagna Grand Prix,Race,True,1238,True,20,1238,1238,0,0,0
+2024,Hungarian Grand Prix,Practice 1,True,515,True,20,515,515,0,0,0
+2024,Hungarian Grand Prix,Practice 2,True,431,True,20,431,431,0,0,0
+2024,Hungarian Grand Prix,Practice 3,True,350,True,20,350,349,1,0,0
+2024,Hungarian Grand Prix,Qualifying,True,334,True,20,334,334,0,0,0
+2024,Hungarian Grand Prix,Race,True,1355,True,20,1355,1355,0,0,0
+2024,Italian Grand Prix,Practice 1,True,426,True,20,426,426,0,0,0
+2024,Italian Grand Prix,Practice 2,True,454,True,20,454,454,0,0,0
+2024,Italian Grand Prix,Practice 3,True,389,True,20,389,389,0,0,0
+2024,Italian Grand Prix,Qualifying,True,276,True,20,276,276,0,0,0
+2024,Italian Grand Prix,Race,True,1008,True,20,1008,1008,0,0,0
+2024,Japanese Grand Prix,Practice 1,True,384,True,20,384,384,0,0,0
+2024,Japanese Grand Prix,Practice 2,True,71,True,13,71,70,1,0,0
+2024,Japanese Grand Prix,Practice 3,True,435,True,20,435,435,0,0,0
+2024,Japanese Grand Prix,Qualifying,True,223,True,20,223,221,2,0,0
+2024,Japanese Grand Prix,Race,True,907,True,20,907,907,0,0,0
+2024,Las Vegas Grand Prix,Practice 1,True,511,True,20,511,511,0,0,0
+2024,Las Vegas Grand Prix,Practice 2,True,502,True,20,502,502,0,0,0
+2024,Las Vegas Grand Prix,Practice 3,True,312,True,20,312,311,1,0,0
+2024,Las Vegas Grand Prix,Qualifying,True,347,True,20,347,347,0,0,0
+2024,Las Vegas Grand Prix,Race,True,938,True,20,938,938,0,0,0
+2024,Mexico City Grand Prix,Practice 1,True,395,True,20,395,394,1,0,0
+2024,Mexico City Grand Prix,Practice 2,True,562,True,19,562,562,0,0,0
+2024,Mexico City Grand Prix,Practice 3,True,425,True,20,425,425,0,0,0
+2024,Mexico City Grand Prix,Qualifying,True,289,True,20,289,289,0,0,0
+2024,Mexico City Grand Prix,Race,True,1215,True,20,1215,1215,0,0,0
+2024,Miami Grand Prix,Practice 1,True,464,True,20,464,464,0,0,0
+2024,Miami Grand Prix,Qualifying,True,318,True,20,318,318,0,0,0
+2024,Miami Grand Prix,Race,True,1111,True,20,1111,1111,0,0,0
+2024,Miami Grand Prix,Sprint,True,344,True,20,344,344,0,0,0
+2024,Miami Grand Prix,Sprint Qualifying,True,230,True,20,230,230,0,0,0
+2024,Monaco Grand Prix,Practice 1,True,620,True,20,620,620,0,0,0
+2024,Monaco Grand Prix,Practice 2,True,676,True,20,676,676,0,0,0
+2024,Monaco Grand Prix,Practice 3,True,496,True,20,496,496,0,0,0
+2024,Monaco Grand Prix,Qualifying,True,426,True,20,426,424,2,0,0
+2024,Monaco Grand Prix,Race,True,1237,True,20,1237,1237,0,0,0
+2024,Pre-Season Testing,Practice 1,False,0,True,18,1236,1235,1,0,0
+2024,Pre-Season Testing,Practice 2,False,0,True,17,1219,1217,2,0,0
+2024,Pre-Season Testing,Practice 3,False,0,True,19,1240,1232,8,0,0
+2024,Qatar Grand Prix,Practice 1,True,536,True,20,536,536,0,0,0
+2024,Qatar Grand Prix,Qualifying,True,374,True,20,374,374,0,0,0
+2024,Qatar Grand Prix,Race,True,943,True,20,943,943,0,0,0
+2024,Qatar Grand Prix,Sprint,True,380,True,20,380,380,0,0,0
+2024,Qatar Grand Prix,Sprint Qualifying,True,283,True,20,283,283,0,0,0
+2024,Saudi Arabian Grand Prix,Practice 1,True,471,True,20,471,471,0,0,0
+2024,Saudi Arabian Grand Prix,Practice 2,True,528,True,20,528,528,0,0,0
+2024,Saudi Arabian Grand Prix,Practice 3,True,280,True,20,280,280,0,0,0
+2024,Saudi Arabian Grand Prix,Qualifying,True,316,True,20,316,316,0,0,0
+2024,Saudi Arabian Grand Prix,Race,True,901,True,20,901,901,0,0,0
+2024,Singapore Grand Prix,Practice 1,True,488,True,20,488,488,0,0,0
+2024,Singapore Grand Prix,Practice 2,True,521,True,20,521,521,0,0,0
+2024,Singapore Grand Prix,Practice 3,True,355,True,20,355,355,0,0,0
+2024,Singapore Grand Prix,Qualifying,True,276,True,20,276,276,0,0,0
+2024,Singapore Grand Prix,Race,True,1177,True,20,1177,1177,0,0,0
+2024,Spanish Grand Prix,Practice 1,True,540,True,20,540,540,0,0,0
+2024,Spanish Grand Prix,Practice 2,True,571,True,20,571,570,1,0,0
+2024,Spanish Grand Prix,Practice 3,True,371,True,20,371,368,3,0,0
+2024,Spanish Grand Prix,Qualifying,True,257,True,20,257,254,3,0,0
+2024,Spanish Grand Prix,Race,True,1310,True,20,1310,1310,0,0,0
+2024,São Paulo Grand Prix,Practice 1,True,559,True,20,559,559,0,0,0
+2024,São Paulo Grand Prix,Qualifying,True,425,True,20,425,425,0,0,0
+2024,São Paulo Grand Prix,Race,True,1135,True,19,1135,1135,0,0,0
+2024,São Paulo Grand Prix,Sprint,True,476,True,20,476,476,0,0,0
+2024,São Paulo Grand Prix,Sprint Qualifying,True,221,True,20,221,221,0,0,0
+2024,United States Grand Prix,Practice 1,True,485,True,20,485,485,0,0,0
+2024,United States Grand Prix,Qualifying,True,281,True,20,281,281,0,0,0
+2024,United States Grand Prix,Race,True,1059,True,20,1059,1059,0,0,0
+2024,United States Grand Prix,Sprint,True,380,True,20,380,380,0,0,0
+2024,United States Grand Prix,Sprint Qualifying,True,206,True,20,206,205,1,0,0
+2025,Abu Dhabi Grand Prix,Practice 1,True,532,True,20,532,532,0,0,0
+2025,Abu Dhabi Grand Prix,Practice 2,True,584,True,20,584,584,0,0,0
+2025,Abu Dhabi Grand Prix,Practice 3,True,326,True,20,326,326,0,0,0
+2025,Abu Dhabi Grand Prix,Qualifying,True,286,True,20,286,286,0,0,0
+2025,Abu Dhabi Grand Prix,Race,True,1156,True,20,1156,1156,0,0,0
+2025,Australian Grand Prix,Practice 1,True,421,True,20,421,421,0,0,0
+2025,Australian Grand Prix,Practice 2,True,552,True,19,552,552,0,0,0
+2025,Australian Grand Prix,Practice 3,True,352,True,20,352,352,0,0,0
+2025,Australian Grand Prix,Qualifying,True,297,True,20,297,297,0,0,0
+2025,Australian Grand Prix,Race,True,927,True,20,927,927,0,0,0
+2025,Austrian Grand Prix,Practice 1,True,639,True,20,639,639,0,0,0
+2025,Austrian Grand Prix,Practice 2,True,664,True,20,664,664,0,0,0
+2025,Austrian Grand Prix,Practice 3,True,416,True,20,416,416,0,0,0
+2025,Austrian Grand Prix,Qualifying,True,310,True,20,310,310,0,0,0
+2025,Austrian Grand Prix,Race,True,1127,True,20,1127,1127,0,0,0
+2025,Azerbaijan Grand Prix,Practice 1,True,325,True,20,325,325,0,0,0
+2025,Azerbaijan Grand Prix,Practice 2,True,434,True,20,434,434,0,0,0
+2025,Azerbaijan Grand Prix,Practice 3,True,377,True,20,377,376,1,0,0
+2025,Azerbaijan Grand Prix,Qualifying,True,335,True,20,335,335,0,0,0
+2025,Azerbaijan Grand Prix,Race,True,968,True,20,968,968,0,0,0
+2025,Bahrain Grand Prix,Practice 1,True,426,True,20,426,426,0,0,0
+2025,Bahrain Grand Prix,Practice 2,True,522,True,20,522,522,0,0,0
+2025,Bahrain Grand Prix,Practice 3,True,308,True,20,308,307,1,0,0
+2025,Bahrain Grand Prix,Qualifying,True,277,True,20,277,277,0,0,0
+2025,Bahrain Grand Prix,Race,True,1128,True,20,1128,1128,0,0,0
+2025,Belgian Grand Prix,Practice 1,True,437,True,20,437,437,0,0,0
+2025,Belgian Grand Prix,Qualifying,True,292,True,20,292,292,0,0,0
+2025,Belgian Grand Prix,Race,True,879,True,20,879,879,0,0,0
+2025,Belgian Grand Prix,Sprint,True,297,True,20,297,297,0,0,0
+2025,Belgian Grand Prix,Sprint Qualifying,True,185,True,20,185,185,0,0,0
+2025,British Grand Prix,Practice 1,True,506,True,20,506,506,0,0,0
+2025,British Grand Prix,Practice 2,True,536,True,20,536,536,0,0,0
+2025,British Grand Prix,Practice 3,True,286,True,20,286,286,0,0,0
+2025,British Grand Prix,Qualifying,True,291,True,20,291,291,0,0,0
+2025,British Grand Prix,Race,True,826,True,20,826,826,0,0,0
+2025,Canadian Grand Prix,Practice 1,True,550,True,20,550,550,0,0,0
+2025,Canadian Grand Prix,Practice 2,True,598,True,19,598,598,0,0,0
+2025,Canadian Grand Prix,Practice 3,True,458,True,20,458,458,0,0,0
+2025,Canadian Grand Prix,Qualifying,True,390,True,20,390,390,0,0,0
+2025,Canadian Grand Prix,Race,True,1349,True,20,1349,1349,0,0,0
+2025,Chinese Grand Prix,Practice 1,True,459,True,20,459,459,0,0,0
+2025,Chinese Grand Prix,Qualifying,True,314,True,20,314,314,0,0,0
+2025,Chinese Grand Prix,Race,True,1065,True,20,1065,1065,0,0,0
+2025,Chinese Grand Prix,Sprint,True,380,True,20,380,380,0,0,0
+2025,Chinese Grand Prix,Sprint Qualifying,True,217,True,20,217,217,0,0,0
+2025,Dutch Grand Prix,Practice 1,True,560,True,20,560,560,0,0,0
+2025,Dutch Grand Prix,Practice 2,True,449,True,20,449,449,0,0,0
+2025,Dutch Grand Prix,Practice 3,True,415,True,20,415,414,1,0,0
+2025,Dutch Grand Prix,Qualifying,True,290,True,20,290,290,0,0,0
+2025,Dutch Grand Prix,Race,True,1364,True,20,1364,1364,0,0,0
+2025,Emilia Romagna Grand Prix,Practice 1,True,421,True,20,421,421,0,0,0
+2025,Emilia Romagna Grand Prix,Practice 2,True,519,True,20,519,519,0,0,0
+2025,Emilia Romagna Grand Prix,Practice 3,True,361,True,20,361,360,1,0,0
+2025,Emilia Romagna Grand Prix,Qualifying,True,281,True,20,281,281,0,0,0
+2025,Emilia Romagna Grand Prix,Race,True,1207,True,20,1207,1207,0,0,0
+2025,Hungarian Grand Prix,Practice 1,True,520,True,20,520,520,0,0,0
+2025,Hungarian Grand Prix,Practice 2,True,565,True,20,565,565,0,0,0
+2025,Hungarian Grand Prix,Practice 3,True,380,True,20,380,380,0,0,0
+2025,Hungarian Grand Prix,Qualifying,True,264,True,20,264,264,0,0,0
+2025,Hungarian Grand Prix,Race,True,1368,True,20,1368,1368,0,0,0
+2025,Italian Grand Prix,Practice 1,True,481,True,20,481,480,1,0,0
+2025,Italian Grand Prix,Practice 2,True,531,True,20,531,531,0,0,0
+2025,Italian Grand Prix,Practice 3,True,419,True,20,419,419,0,0,0
+2025,Italian Grand Prix,Qualifying,True,315,True,20,315,315,0,0,0
+2025,Italian Grand Prix,Race,True,975,True,20,975,975,0,0,0
+2025,Japanese Grand Prix,Practice 1,True,497,True,20,497,497,0,0,0
+2025,Japanese Grand Prix,Practice 2,True,220,True,20,220,220,0,0,0
+2025,Japanese Grand Prix,Practice 3,True,330,True,20,330,330,0,0,0
+2025,Japanese Grand Prix,Qualifying,True,292,True,20,292,292,0,0,0
+2025,Japanese Grand Prix,Race,True,1059,True,20,1059,1059,0,0,0
+2025,Las Vegas Grand Prix,Practice 1,True,535,True,20,535,535,0,0,0
+2025,Las Vegas Grand Prix,Practice 2,True,313,True,20,313,313,0,0,0
+2025,Las Vegas Grand Prix,Practice 3,True,406,True,20,406,406,0,0,0
+2025,Las Vegas Grand Prix,Qualifying,True,375,True,20,375,375,0,0,0
+2025,Las Vegas Grand Prix,Race,True,886,True,20,886,886,0,0,0
+2025,Mexico City Grand Prix,Practice 1,True,589,True,20,589,589,0,0,0
+2025,Mexico City Grand Prix,Practice 2,True,620,True,20,620,620,0,0,0
+2025,Mexico City Grand Prix,Practice 3,True,453,True,20,453,453,0,0,0
+2025,Mexico City Grand Prix,Qualifying,True,307,True,20,307,307,0,0,0
+2025,Mexico City Grand Prix,Race,True,1263,True,20,1263,1263,0,0,0
+2025,Miami Grand Prix,Practice 1,True,429,True,20,429,428,1,0,0
+2025,Miami Grand Prix,Qualifying,True,314,True,20,314,314,0,0,0
+2025,Miami Grand Prix,Race,True,1005,True,20,1005,1005,0,0,0
+2025,Miami Grand Prix,Sprint,True,331,True,19,331,331,0,0,0
+2025,Miami Grand Prix,Sprint Qualifying,True,213,True,20,213,213,0,0,0
+2025,Monaco Grand Prix,Practice 1,True,610,True,20,610,610,0,0,0
+2025,Monaco Grand Prix,Practice 2,True,612,True,20,612,612,0,0,0
+2025,Monaco Grand Prix,Practice 3,True,485,True,20,485,485,0,0,0
+2025,Monaco Grand Prix,Qualifying,True,433,True,20,433,432,1,0,0
+2025,Monaco Grand Prix,Race,True,1425,True,20,1425,1425,0,0,0
+2025,Pre-Season Testing,Practice 1,False,0,True,20,1326,1325,1,0,0
+2025,Pre-Season Testing,Practice 2,False,0,True,18,1257,1250,7,0,0
+2025,Pre-Season Testing,Practice 3,False,0,True,18,1290,1278,12,0,0
+2025,Qatar Grand Prix,Practice 1,True,556,True,20,556,556,0,0,0
+2025,Qatar Grand Prix,Qualifying,True,358,True,20,358,357,1,0,0
+2025,Qatar Grand Prix,Race,True,1067,True,20,1067,1067,0,0,0
+2025,Qatar Grand Prix,Sprint,True,380,True,20,380,380,0,0,0
+2025,Qatar Grand Prix,Sprint Qualifying,True,297,True,20,297,297,0,0,0
+2025,Saudi Arabian Grand Prix,Practice 1,True,472,True,20,472,472,0,0,0
+2025,Saudi Arabian Grand Prix,Practice 2,True,394,True,19,394,394,0,0,0
+2025,Saudi Arabian Grand Prix,Practice 3,True,357,True,20,357,357,0,0,0
+2025,Saudi Arabian Grand Prix,Qualifying,True,289,True,20,289,288,1,0,0
+2025,Saudi Arabian Grand Prix,Race,True,898,True,20,898,898,0,0,0
+2025,Singapore Grand Prix,Practice 1,True,472,True,20,472,472,0,0,0
+2025,Singapore Grand Prix,Practice 2,True,353,True,20,353,353,0,0,0
+2025,Singapore Grand Prix,Practice 3,True,440,True,20,440,440,0,0,0
+2025,Singapore Grand Prix,Qualifying,True,298,True,20,298,298,0,0,0
+2025,Singapore Grand Prix,Race,True,1229,True,20,1229,1229,0,0,0
+2025,Spanish Grand Prix,Practice 1,True,515,True,20,515,515,0,0,0
+2025,Spanish Grand Prix,Practice 2,True,581,True,20,581,581,0,0,0
+2025,Spanish Grand Prix,Practice 3,True,312,True,20,312,272,40,0,0
+2025,Spanish Grand Prix,Qualifying,True,247,True,20,247,247,0,0,0
+2025,Spanish Grand Prix,Race,True,1203,True,19,1203,1203,0,0,0
+2025,São Paulo Grand Prix,Practice 1,True,628,True,20,628,628,0,0,0
+2025,São Paulo Grand Prix,Qualifying,True,316,True,19,316,316,0,0,0
+2025,São Paulo Grand Prix,Race,True,1251,True,20,1251,1251,0,0,0
+2025,São Paulo Grand Prix,Sprint,True,444,True,20,444,444,0,0,0
+2025,São Paulo Grand Prix,Sprint Qualifying,True,253,True,20,253,253,0,0,0
+2025,United States Grand Prix,Practice 1,True,478,True,20,478,478,0,0,0
+2025,United States Grand Prix,Qualifying,True,285,True,20,285,285,0,0,0
+2025,United States Grand Prix,Race,True,1067,True,20,1067,1067,0,0,0
+2025,United States Grand Prix,Sprint,True,320,True,20,320,320,0,0,0
+2025,United States Grand Prix,Sprint Qualifying,True,204,True,20,204,204,0,0,0
+2026,Australian Grand Prix,Practice 1,True,487,True,21,487,486,1,0,0
+2026,Australian Grand Prix,Practice 2,True,544,True,22,544,544,0,0,0
+2026,Australian Grand Prix,Practice 3,True,377,True,21,377,377,0,0,0
+2026,Australian Grand Prix,Qualifying,True,355,True,20,355,355,0,0,0
+2026,Australian Grand Prix,Race,True,1008,True,21,1009,1008,2,1,0
+2026,Austrian Grand Prix,Practice 1,True,500,True,22,500,500,0,0,0
+2026,Austrian Grand Prix,Practice 2,True,631,True,22,631,631,0,0,0
+2026,Austrian Grand Prix,Practice 3,True,464,True,22,464,458,6,0,0
+2026,Austrian Grand Prix,Qualifying,True,290,True,22,290,289,1,0,0
+2026,Austrian Grand Prix,Race,True,1340,True,22,1340,1341,0,1,0
+2026,Azerbaijan Grand Prix,Practice 1,True,466,True,22,466,467,0,1,0
+2026,Azerbaijan Grand Prix,Practice 2,True,456,True,22,456,456,0,0,0
+2026,Azerbaijan Grand Prix,Practice 3,True,447,True,22,447,446,1,0,0
+2026,Azerbaijan Grand Prix,Qualifying,True,373,True,22,373,372,1,0,0
+2026,Azerbaijan Grand Prix,Race,True,986,True,22,986,984,4,2,0
+2026,Bahrain Grand Prix,Practice 1,True,506,True,22,506,506,0,0,0
+2026,Bahrain Grand Prix,Practice 2,True,615,True,22,615,615,1,1,0
+2026,Bahrain Grand Prix,Practice 3,True,347,True,22,347,347,0,0,0
+2026,Bahrain Grand Prix,Qualifying,True,239,True,22,239,239,0,0,0
+2026,Bahrain Grand Prix,Race,True,1148,True,22,1148,1148,3,3,0
+2026,Barcelona Grand Prix,Practice 1,True,544,True,21,544,544,0,0,0
+2026,Barcelona Grand Prix,Practice 2,True,586,True,22,586,586,0,0,0
+2026,Barcelona Grand Prix,Practice 3,True,337,True,22,337,337,0,0,0
+2026,Barcelona Grand Prix,Qualifying,True,255,True,22,255,255,0,0,0
+2026,Barcelona Grand Prix,Race,True,1238,True,22,1238,1239,1,2,0
+2026,Belgian Grand Prix,Practice 1,True,486,True,22,486,486,0,0,0
+2026,Belgian Grand Prix,Practice 2,True,394,True,22,394,394,0,0,0
+2026,Belgian Grand Prix,Practice 3,True,417,True,22,417,417,0,0,0
+2026,Belgian Grand Prix,Qualifying,True,269,True,22,269,269,0,0,0
+2026,Belgian Grand Prix,Race,True,872,True,22,872,872,0,0,0
+2026,British Grand Prix,Practice 1,True,613,True,22,613,613,0,0,0
+2026,British Grand Prix,Qualifying,True,309,True,22,309,309,0,0,0
+2026,British Grand Prix,Race,True,1115,True,22,1115,1114,2,1,0
+2026,British Grand Prix,Sprint,True,372,True,22,372,372,0,0,0
+2026,British Grand Prix,Sprint Qualifying,True,236,True,22,236,236,0,0,0
+2026,Canadian Grand Prix,Practice 1,True,620,True,22,620,620,1,1,0
+2026,Canadian Grand Prix,Qualifying,True,456,True,22,456,456,0,0,0
+2026,Canadian Grand Prix,Race,True,1214,True,22,1215,1217,1,3,0
+2026,Canadian Grand Prix,Sprint,True,491,True,22,491,491,0,0,0
+2026,Canadian Grand Prix,Sprint Qualifying,True,300,True,20,300,300,0,0,0
+2026,Chinese Grand Prix,Practice 1,True,540,True,22,540,539,1,0,0
+2026,Chinese Grand Prix,Qualifying,True,325,True,22,325,325,0,0,0
+2026,Chinese Grand Prix,Race,True,921,True,22,925,924,1,0,0
+2026,Chinese Grand Prix,Sprint,True,398,True,22,398,397,1,0,0
+2026,Chinese Grand Prix,Sprint Qualifying,True,257,True,21,257,257,0,0,0
+2026,Dutch Grand Prix,Practice 1,True,693,True,22,693,693,0,0,0
+2026,Dutch Grand Prix,Qualifying,True,377,True,22,377,376,1,0,0
+2026,Dutch Grand Prix,Race,True,1369,True,22,1369,1368,1,0,0
+2026,Dutch Grand Prix,Sprint,True,506,True,22,506,506,0,0,0
+2026,Dutch Grand Prix,Sprint Qualifying,True,254,True,22,254,254,0,0,0
+2026,Hungarian Grand Prix,Practice 1,True,545,True,22,545,545,0,0,0
+2026,Hungarian Grand Prix,Practice 2,True,572,True,21,572,572,0,0,0
+2026,Hungarian Grand Prix,Practice 3,True,392,True,21,392,390,2,0,0
+2026,Hungarian Grand Prix,Qualifying,True,297,True,22,297,296,1,0,0
+2026,Hungarian Grand Prix,Race,True,1432,True,22,1432,1433,0,1,0
+2026,Italian Grand Prix,Practice 1,True,545,True,22,545,545,0,0,0
+2026,Italian Grand Prix,Practice 2,True,618,True,22,618,618,0,0,0
+2026,Italian Grand Prix,Practice 3,True,471,True,22,471,471,0,0,0
+2026,Italian Grand Prix,Qualifying,True,307,True,22,307,307,0,0,0
+2026,Italian Grand Prix,Race,True,1055,True,22,1055,1054,1,0,0
+2026,Japanese Grand Prix,Practice 1,True,529,True,22,529,529,0,0,0
+2026,Japanese Grand Prix,Practice 2,True,547,True,22,547,547,0,0,0
+2026,Japanese Grand Prix,Practice 3,True,436,True,22,436,435,1,0,0
+2026,Japanese Grand Prix,Qualifying,True,324,True,22,324,324,0,0,0
+2026,Japanese Grand Prix,Race,True,1108,True,22,1108,1108,1,1,0
+2026,Miami Grand Prix,Practice 1,True,757,True,22,757,757,0,0,0
+2026,Miami Grand Prix,Qualifying,True,324,True,22,324,324,0,0,0
+2026,Miami Grand Prix,Race,True,1042,True,22,1042,1042,1,1,0
+2026,Miami Grand Prix,Sprint,True,380,True,22,382,382,0,0,0
+2026,Miami Grand Prix,Sprint Qualifying,True,237,True,22,237,237,0,0,0
+2026,Monaco Grand Prix,Practice 1,True,621,True,22,621,622,0,1,0
+2026,Monaco Grand Prix,Practice 2,True,713,True,22,713,714,1,2,0
+2026,Monaco Grand Prix,Practice 3,True,519,True,22,519,519,1,1,0
+2026,Monaco Grand Prix,Qualifying,True,484,True,22,484,484,0,0,0
+2026,Monaco Grand Prix,Race,True,1455,True,22,1455,1452,3,0,0
+2026,Pre-Season Testing,Practice 1,False,0,True,18,1128,1128,0,0,0
+2026,Pre-Season Testing,Practice 2,False,0,True,16,1063,1060,3,0,0
+2026,Pre-Season Testing,Practice 3,False,0,True,17,1265,1241,24,0,0
+2026,Pre-Season Testing 1,Practice 1,False,0,True,18,1128,1128,0,0,0
+2026,Pre-Season Testing 1,Practice 2,False,0,True,16,1063,1060,3,0,0
+2026,Pre-Season Testing 1,Practice 3,False,0,True,17,1265,1241,24,0,0
+2026,Pre-Season Testing 2,Practice 1,False,0,True,21,1069,1068,1,0,0
+2026,Pre-Season Testing 2,Practice 2,False,0,True,16,1278,1278,0,0,0
+2026,Pre-Season Testing 2,Practice 3,False,0,True,17,1334,1333,1,0,0
+2026,Singapore Grand Prix,Practice 1,True,568,True,22,568,568,0,0,0
+2026,Singapore Grand Prix,Qualifying,True,363,True,22,363,363,0,0,0
+2026,Singapore Grand Prix,Race,True,1243,True,22,1243,1242,3,2,0
+2026,Singapore Grand Prix,Sprint,True,315,True,22,315,314,1,0,0
+2026,Singapore Grand Prix,Sprint Qualifying,True,286,True,22,286,286,0,0,0
+2026,Spanish Grand Prix,Practice 1,True,560,True,22,560,560,0,0,0
+2026,Spanish Grand Prix,Practice 2,True,481,True,22,481,481,0,0,0
+2026,Spanish Grand Prix,Practice 3,True,258,True,22,258,258,0,0,0
+2026,Spanish Grand Prix,Qualifying,True,312,True,21,312,312,0,0,0
+2026,Spanish Grand Prix,Race,True,1107,True,22,1107,1107,1,1,0

@@ -1,0 +1,17 @@
+event_id,event_name,actual_winner,actual_winner_grid,predicted_winner,top1_correct,top3_correct
+2026_australian,Australian Grand Prix,RUS,1.0,RUS,True,True
+2026_austrian,Austrian Grand Prix,RUS,1.0,RUS,True,True
+2026_azerbaijan,Azerbaijan Grand Prix,RUS,1.0,RUS,True,True
+2026_barcelona,Barcelona Grand Prix,HAM,2.0,RUS,False,True
+2026_belgian,Belgian Grand Prix,ANT,1.0,ANT,True,True
+2026_british,British Grand Prix,LEC,2.0,ANT,False,True
+2026_canadian,Canadian Grand Prix,ANT,2.0,RUS,False,True
+2026_chinese,Chinese Grand Prix,ANT,1.0,ANT,True,True
+2026_dutch,Dutch Grand Prix,NOR,1.0,NOR,True,True
+2026_hungarian,Hungarian Grand Prix,NOR,1.0,NOR,True,True
+2026_italian,Italian Grand Prix,ANT,19.0,GAS,False,False
+2026_japanese,Japanese Grand Prix,ANT,1.0,ANT,True,True
+2026_miami,Miami Grand Prix,ANT,1.0,ANT,True,True
+2026_monaco,Monaco Grand Prix,ANT,1.0,ANT,True,True
+2026_singapore,Singapore Grand Prix,VER,1.0,VER,True,True
+2026_spanish,Spanish Grand Prix,ANT,2.0,NOR,False,True

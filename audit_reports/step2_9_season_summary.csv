@@ -1,0 +1,4 @@
+Season,Total_Sessions,Total_Drivers,Session_Lap_Records,Individual_Lap_Records,Total_Telemetry_Files,Missing_Telemetry,Extra_Telemetry,Lap_Record_Mismatches,Sessions_Without_Consolidated_Laps
+2024,123,2440,64043,67738,67616,122,0,0,3
+2025,123,2450,65655,69528,69459,69,0,0,3
+2026,94,2014,49546,60147,60070,103,26,0,9

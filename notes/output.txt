@@ -1,0 +1,183 @@
+Python 3.12.10
+Name: streamlit
+Version: 1.63.0
+Summary: A faster way to build and share data apps
+Home-page: https://streamlit.io
+Author: 
+Author-email: Snowflake Inc <hello@streamlit.io>
+License-Expression: Apache-2.0
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: altair, anyio, click, httptools, itsdangerous, numpy, packaging, pandas, pillow, protobuf, pyarrow, pydeck, python-multipart, requests, starlette, toml, typing-extensions, uvicorn, watchdog, websockets
+Required-by: 
+---
+Name: pandas
+Version: 2.3.3
+Summary: Powerful data structures for data analysis, time series,and statistics
+Home-page: https://pandas.pydata.org
+Author: 
+Author-email: The Pandas Development Team <pandas-dev@python.org>
+License: BSD 3-Clause License
+
+ Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
+ All rights reserved.
+
+ Copyright (c) 2011-2023, Open source contributors.
+
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+
+ * Redistributions of source code must retain the above copyrightnotice, this
+   list of conditions and the following disclaimer.
+
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+ * Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: numpy, python-dateutil, pytz, tzdata
+Required-by: fastf1, fastparquet, seaborn, streamlit
+---
+Name: numpy
+Version: 2.5.3
+Summary: Fundamental package for array computing in Python
+Home-page: https://numpy.org
+Author: Travis E. Oliphant et al.
+Author-email: 
+License-Expression: BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: 
+Required-by: contourpy, fastf1, fastparquet, matplotlib, pandas, pydeck, scikit-learn, scipy, seaborn, streamlit, timple, xgboost
+---
+Name: scikit-learn
+Version: 1.9.0
+Summary: A set of python modules for machine learning and data mining
+Home-page: https://scikit-learn.org
+Author: 
+Author-email: 
+License-Expression: BSD-3-Clause
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: joblib, narwhals, numpy, scipy, threadpoolctl
+Required-by: 
+---
+Name: joblib
+Version: 1.6.0
+Summary: Lightweight pipelining with Python functions
+Home-page: https://joblib.readthedocs.io
+Author: 
+Author-email: Gael Varoquaux <gael.varoquaux@normalesup.org>
+License-Expression: BSD-3-Clause
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: cloudpickle
+Required-by: scikit-learn
+---
+Name: pyarrow
+Version: 25.0.1
+Summary: Python library for Apache Arrow
+Home-page: https://arrow.apache.org/
+Author: 
+Author-email: 
+License-Expression: Apache-2.0
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: 
+Required-by: streamlit
+---
+Name: fastf1
+Version: 3.8.3
+Summary: Python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry.
+Home-page: 
+Author: Philipp Schaefer
+Author-email: oehrly@mailbox.org
+License: MIT License
+
+Copyright (c) 2026 Philipp Schäfer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitationthe rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENTSHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: cryptography, matplotlib, numpy, pandas, platformdirs, pydantic, pyjwt, python-dateutil, rapidfuzz, requests, requests-cache, scipy, signalrcore, timple, websockets
+Required-by: 
+---
+Name: pyspark
+Version: 3.5.9
+Summary: Apache Spark Python API
+Home-page: https://github.com/apache/spark/tree/master/python
+Author: Spark Developers
+Author-email: dev@spark.apache.org
+License: http://www.apache.org/licenses/LICENSE-2.0
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: py4j
+Required-by: 
+---
+Name: pillow
+Version: 12.3.0
+Summary: Python Imaging Library (fork)
+Home-page: https://python-pillow.github.io
+Author: 
+Author-email: Jeffrey 'Alex' Clark <aclark@aclark.net>
+License-Expression: MIT-CMU
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: 
+Required-by: matplotlib, streamlit
+---
+Name: requests
+Version: 2.34.2
+Summary: Python HTTP for Humans.
+Home-page: 
+Author: 
+Author-email: Kenneth Reitz <me@kennethreitz.org>
+License: Apache-2.0
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: certifi, charset_normalizer, idna, urllib3
+Required-by: fastf1, jupyterlab_server, requests-cache, streamlit
+---
+Name: plotly
+Version: 7.0.0
+Summary: An open-source interactive data visualization library for Python
+Home-page: https://plotly.com/python/
+Author: 
+Author-email: Chris P <chris@plot.ly>
+License-Expression: MIT
+Location: C:\Users\ayepd\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages
+Requires: narwhals, packaging
+Required-by:
+
+Scikit-learn version: 1.9.0
+
+Model: gradient_boosting_deployment_v2_8.joblib
+Exists: False
+
+Model: logistic_regression_deployment_v2_8.joblib
+Exists: False
+
+Model: random_forest_deployment_v2_8.joblib
+Exists: False

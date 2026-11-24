@@ -1,0 +1,17 @@
+# For1Sight - Streamlit dashboard runtime dependencies (deployment)
+# PySpark / Hadoop are NOT listed: they are used only by the offline ETL pipeline.
+streamlit
+pandas
+numpy
+pyarrow
+plotly
+requests
+joblib
+# Downloads only the selected race partition of the Silver telemetry dataset
+huggingface_hub
+# Must match the version that trained the V2.8 .joblib models
+scikit-learn==1.9.0
+fastf1
+orjson
+psutil
+ratelimit

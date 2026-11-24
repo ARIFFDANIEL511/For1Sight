@@ -1,0 +1,58 @@
+{
+  "project": "For1Sight",
+  "version": "V2.8",
+  "stage": "Stage 2 - pre-race feature engineering",
+  "source_dataset": "C:\\Users\\ayepd\\Desktop\\For1Sight Project\\for1sight_warehouse\\prediction_training_v2_6.parquet",
+  "output_dataset": "C:\\Users\\ayepd\\Desktop\\For1Sight Project\\for1sight_warehouse\\prediction_training_v2_8_prerace.parquet",
+  "historical_seasons": [
+    2024,
+    2025,
+    2026
+  ],
+  "training_season": 2024,
+  "validation_season": 2025,
+  "final_test_season": 2026,
+  "excluded_2026_event_keys": [
+    "bahraininmalaysia",
+    "unitedstates"
+  ],
+  "prediction_objective": "race_winner_classification",
+  "prediction_input": "user_supplied_hypothetical_starting_grid",
+  "numeric_features": [
+    "starting_grid",
+    "driver_prior_avg_finish_3",
+    "driver_prior_avg_points_3",
+    "driver_circuit_prior_avg_finish",
+    "driver_circuit_prior_starts",
+    "constructor_prior_avg_finish_3",
+    "constructor_prior_avg_points_3",
+    "constructor_circuit_prior_avg_finish",
+    "constructor_circuit_prior_starts"
+  ],
+  "categorical_features": [
+    "driver_code_norm",
+    "constructor",
+    "event_norm"
+  ],
+  "feature_columns": [
+    "starting_grid",
+    "driver_prior_avg_finish_3",
+    "driver_prior_avg_points_3",
+    "driver_circuit_prior_avg_finish",
+    "driver_circuit_prior_starts",
+    "constructor_prior_avg_finish_3",
+    "constructor_prior_avg_points_3",
+    "constructor_circuit_prior_avg_finish",
+    "constructor_circuit_prior_starts",
+    "driver_code_norm",
+    "constructor",
+    "event_norm"
+  ],
+  "prior_feature_temporal_provenance_verified": true,
+  "notes": [
+    "Practice and qualifying features excluded to match current simulator inputs.",
+    "Round excluded because the future prediction UI does not require race-round input.",
+    "Prior driver and constructor features were independently rebuilt from earlier eligible event results using shifted chronological sequences.",
+    "2026 remains reserved for final testing and must not be used for model selection."
+  ]
+}

@@ -1,0 +1,1790 @@
+FOR1SIGHT V2.8 - CLOUD COMPATIBILITY REPORT
+=================================================================
+
+PySpark imports: 123 matches
+-----------------------------------------------------------------
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 137
+  from pyspark.sql import types as T
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 210
+  from pyspark.sql import SparkSession, functions as F
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 215
+  SparkSession.builder
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 77
+  from pyspark.sql import functions as F
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 99
+  from pyspark.sql import functions as F
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 137
+  from pyspark.sql import types as T
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 201
+  from pyspark.sql import SparkSession, functions as F
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 203
+  emit(f"PySpark import failed: {type(exc).__name__}: {exc}")
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 209
+  SparkSession.builder
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 215
+  from pyspark.sql import functions as F
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 346
+  from pyspark.sql import SparkSession
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 349
+  emit(f"PySpark import failed: {type(exc).__name__}: {exc}")
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 350
+  emit("Install/use the same Python environment that currently runs your For1Sight PySpark scripts.")
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 356
+  SparkSession.builder
+
+build_prediction_training_v2_6.py | Line 169
+  from pyspark.sql import functions as F
+
+build_prediction_training_v2_6.py | Line 170
+  from pyspark.sql import types as T
+
+build_prediction_training_v2_6.py | Line 171
+  from pyspark.sql.window import Window
+
+build_prediction_training_v2_6.py | Line 385
+  from pyspark.sql import SparkSession, functions as F
+
+build_prediction_training_v2_6.py | Line 402
+  SparkSession.builder
+
+etl_pipeline.py | Line 4
+  from pyspark.sql import SparkSession
+
+etl_pipeline.py | Line 5
+  from pyspark.sql.functions import col
+
+etl_pipeline.py | Line 8
+  # 1. INITIALIZE (Set up PySpark within your 16GB limits)
+
+etl_pipeline.py | Line 10
+  spark = SparkSession.builder \
+
+etl_pipeline.py | Line 56
+  # then convert it to a distributed PySpark DataFrame.
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 21
+  from pyspark.sql import SparkSession
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 121
+  SparkSession.builder
+
+inspect_cloud_compatibility.py | Line 22
+  "PySpark imports": r"pyspark|SparkSession",
+
+inspect_for1sight_deployment.py | Line 150
+  # 7. HDFS and PySpark indicators
+
+inspect_for1sight_deployment.py | Line 154
+  "hdfs", "spark", "pyspark",
+
+inspect_race_telemetry_warehouse.py | Line 19
+  from pyspark.sql import SparkSession
+
+inspect_race_telemetry_warehouse.py | Line 56
+  SparkSession.builder
+
+race_telemetry_audit.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit.py | Line 69
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit.py | Line 70
+  from pyspark.sql.types import (
+
+race_telemetry_audit.py | Line 110
+  # PySpark performance settings suitable for a local Windows development machine.
+
+race_telemetry_audit.py | Line 809
+  SparkSession.builder
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 69
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 70
+  from pyspark.sql.types import (
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 110
+  # PySpark performance settings suitable for a local Windows development machine.
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 809
+  SparkSession.builder
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 69
+  # Keep Python/PySpark temporary files in a dedicated project runtime folder.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 72
+  PYSPARK_TEMP_ROOT = RUNTIME_ROOT / "python_temp"
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 75
+  PYSPARK_TEMP_ROOT.mkdir(parents=True, exist_ok=True)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 78
+  os.environ["TEMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 79
+  os.environ["TMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 80
+  os.environ["TMPDIR"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 81
+  tempfile.tempdir = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 83
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 84
+  from pyspark.sql.types import (
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 124
+  # PySpark performance settings suitable for a local Windows development machine.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 823
+  SparkSession.builder
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 837
+  # PySpark uses this private directory when serializing local Python data
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 841
+  logger.info("Stable runtime temp root : %s", PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 843
+  logger.info("PySpark context temp dir : %s", spark_python_temp_dir)
+
+race_telemetry_audit_HDFS_V4.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit_HDFS_V4.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit_HDFS_V4.py | Line 71
+  # Keep Python/PySpark temporary files in a dedicated project runtime folder.
+
+race_telemetry_audit_HDFS_V4.py | Line 74
+  PYSPARK_TEMP_ROOT = RUNTIME_ROOT / "python_temp"
+
+race_telemetry_audit_HDFS_V4.py | Line 77
+  PYSPARK_TEMP_ROOT.mkdir(parents=True, exist_ok=True)
+
+race_telemetry_audit_HDFS_V4.py | Line 80
+  os.environ["TEMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4.py | Line 81
+  os.environ["TMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4.py | Line 82
+  os.environ["TMPDIR"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4.py | Line 83
+  tempfile.tempdir = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4.py | Line 85
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit_HDFS_V4.py | Line 86
+  from pyspark.sql.types import (
+
+race_telemetry_audit_HDFS_V4.py | Line 123
+  # PySpark settings for a 16 GB Windows development machine.
+
+race_telemetry_audit_HDFS_V4.py | Line 934
+  SparkSession.builder
+
+race_telemetry_audit_HDFS_V4_1.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit_HDFS_V4_1.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit_HDFS_V4_1.py | Line 75
+  PYSPARK_TEMP_ROOT = RUNTIME_ROOT / "python_temp"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 79
+  PYSPARK_TEMP_ROOT.mkdir(parents=True, exist_ok=True)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 82
+  os.environ["TEMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 83
+  os.environ["TMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 84
+  os.environ["TMPDIR"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 86
+  tempfile.tempdir = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 88
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit_HDFS_V4_1.py | Line 89
+  from pyspark.sql.types import (
+
+race_telemetry_audit_HDFS_V4_1.py | Line 126
+  # PySpark settings for a 16 GB Windows development machine.
+
+race_telemetry_audit_HDFS_V4_1.py | Line 913
+  local_probe = PYSPARK_TEMP_ROOT / f"hdfs_write_probe_{probe_id}.txt"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1018
+  SparkSession.builder
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 10
+  4. Flatten valid telemetry samples with PySpark.
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 47
+  pyspark, Java, Hadoop/HDFS configured and running.
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 75
+  PYSPARK_TEMP_ROOT = RUNTIME_ROOT / "python_temp"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 79
+  PYSPARK_TEMP_ROOT.mkdir(parents=True, exist_ok=True)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 82
+  os.environ["TEMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 83
+  os.environ["TMP"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 84
+  os.environ["TMPDIR"] = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 86
+  tempfile.tempdir = str(PYSPARK_TEMP_ROOT)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 88
+  from pyspark.sql import SparkSession
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 89
+  from pyspark.sql.types import (
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 126
+  # PySpark settings for a 16 GB Windows development machine.
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 912
+  local_probe = PYSPARK_TEMP_ROOT / f"hdfs_write_probe_{probe_id}.txt"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1017
+  SparkSession.builder
+
+telemetry_reader.py | Line 19
+  from pyspark.sql import SparkSession, functions as F
+
+telemetry_reader.py | Line 21
+  SparkSession = None  # type: ignore[assignment]
+
+telemetry_reader.py | Line 23
+  _PYSPARK_IMPORT_ERROR = exc
+
+telemetry_reader.py | Line 25
+  _PYSPARK_IMPORT_ERROR = None
+
+telemetry_reader.py | Line 59
+  def get_telemetry_spark() -> "SparkSession":
+
+telemetry_reader.py | Line 61
+  if _PYSPARK_IMPORT_ERROR is not None or SparkSession is None:
+
+telemetry_reader.py | Line 63
+  "PySpark is not installed in the Python environment running Streamlit. "
+
+telemetry_reader.py | Line 64
+  "Install the same PySpark version used by the For1Sight ETL environment."
+
+telemetry_reader.py | Line 65
+  ) from _PYSPARK_IMPORT_ERROR
+
+telemetry_reader.py | Line 69
+  SparkSession.builder
+
+telemetry_reader.py | Line 82
+  "Check Java, PySpark and Hadoop configuration."
+
+validate_telemetry_pair.py | Line 22
+  from pyspark.sql import SparkSession
+
+validate_telemetry_pair.py | Line 23
+  from pyspark.sql import functions as F
+
+validate_telemetry_pair.py | Line 63
+  SparkSession.builder
+
+etl_pipelines\generate_quali_features.py | Line 2
+  from pyspark.sql import SparkSession
+
+etl_pipelines\generate_quali_features.py | Line 3
+  from pyspark.sql.functions import col, min as spark_min, explode, arrays_zip
+
+etl_pipelines\generate_quali_features.py | Line 9
+  spark = SparkSession.builder \
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 3
+  from pyspark.sql import SparkSession
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 4
+  from pyspark.sql.functions import col, to_timestamp
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 11
+  spark = SparkSession.builder \
+
+etl_pipelines\inspect_data.py | Line 2
+  from pyspark.sql import SparkSession
+
+etl_pipelines\inspect_data.py | Line 4
+  spark = SparkSession.builder \
+
+etl_pipelines\reingest_laptimes.py | Line 3
+  from pyspark.sql import SparkSession
+
+etl_pipelines\reingest_laptimes.py | Line 4
+  from pyspark.sql.functions import input_file_name, split, col, element_at, regexp_replace
+
+etl_pipelines\reingest_laptimes.py | Line 6
+  spark = SparkSession.builder \
+
+
+HDFS references: 144 matches
+-----------------------------------------------------------------
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 37
+  HDFS = "hdfs://localhost:9000"
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 37
+  HDFS_URI = "hdfs://localhost:9000"
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 38
+  SILVER_LAPS = f"{HDFS_URI}/for1sight_warehouse/silver/hf_laptimes"
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 216
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 221
+  emit(f"HDFS default: {HDFS_URI}")
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 39
+  HDFS_URI = "hdfs://localhost:9000"
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 41
+  "SILVER LAP TIMES": f"{HDFS_URI}/for1sight_warehouse/silver/hf_laptimes",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 42
+  "LEGACY COMBINED LAP TIMES": f"{HDFS_URI}/for1sight_warehouse/laps_2024_2026.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 43
+  "LEGACY USER LAP TIMES": f"{HDFS_URI}/user/for1sight/warehouse/hf_laptimes.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 44
+  "SILVER RACE TELEMETRY (SCHEMA ONLY)": f"{HDFS_URI}/for1sight_warehouse/silver/race_telemetry",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 45
+  "GOLD TELEMETRY AUDIT": f"{HDFS_URI}/for1sight_warehouse/gold/race_telemetry/telemetry_audit",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 46
+  "GOLD COMPARISON CANDIDATES": f"{HDFS_URI}/for1sight_warehouse/gold/race_telemetry/comparison_candidates",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 363
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 369
+  emit(f"Default HDFS: {HDFS_URI}")
+
+build_prediction_training_v2_6.py | Line 33
+  HDFS_URI = "hdfs://localhost:9000"
+
+build_prediction_training_v2_6.py | Line 34
+  HDFS_SILVER_LAPS = HDFS_URI + "/for1sight_warehouse/silver/hf_laptimes"
+
+build_prediction_training_v2_6.py | Line 35
+  HDFS_GOLD_OUTPUT = HDFS_URI + "/for1sight_warehouse/gold/prediction/race_winner_training_v2_6"
+
+build_prediction_training_v2_6.py | Line 36
+  HDFS_STAGING_ROOT = HDFS_URI + "/for1sight_warehouse/_staging/prediction_v2_6"
+
+build_prediction_training_v2_6.py | Line 410
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+etl_pipeline.py | Line 94
+  # We use the hdfs:// URI to route the save operation to your active Hadoop node
+
+etl_pipeline.py | Line 95
+  model_ready_df.write.mode("overwrite").parquet("hdfs://localhost:9000/for1sight_warehouse/laps_2024_2026.parquet")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 26
+  HDFS_DEFAULT_FS = "hdfs://localhost:9000"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 28
+  "hdfs://localhost:9000/user/for1sight/warehouse/hf_laptimes.parquet"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 31
+  "hdfs://localhost:9000/for1sight_warehouse/silver/hf_laptimes"
+
+inspect_cloud_compatibility.py | Line 23
+  "HDFS references": r"hdfs://|HDFS_URI",
+
+inspect_for1sight_dependencies.py | Line 74
+  or "hdfs://" in line.lower()
+
+inspect_for1sight_deployment.py | Line 203
+  if "hdfs://" in line.lower():
+
+inspect_race_telemetry_warehouse.py | Line 21
+  HDFS_URI = "hdfs://localhost:9000"
+
+inspect_race_telemetry_warehouse.py | Line 26
+  f"{HDFS_URI}/for1sight_warehouse/silver/race_telemetry",
+
+inspect_race_telemetry_warehouse.py | Line 37
+  f"{HDFS_URI}/for1sight_warehouse/gold/race_telemetry/telemetry_audit",
+
+inspect_race_telemetry_warehouse.py | Line 46
+  f"{HDFS_URI}/for1sight_warehouse/gold/race_telemetry/comparison_candidates",
+
+inspect_race_telemetry_warehouse.py | Line 64
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit.py | Line 91
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit.py | Line 339
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit.py | Line 345
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit.py | Line 747
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit.py | Line 753
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit.py | Line 774
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit.py | Line 779
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit.py | Line 816
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit.py | Line 920
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit.py | Line 933
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit.py | Line 943
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit.py | Line 957
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit.py | Line 958
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit.py | Line 962
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 91
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 339
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 345
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 747
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 753
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 774
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 779
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 816
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 923
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 936
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 946
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 960
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 961
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 965
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 105
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 353
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 359
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 761
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 767
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 788
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 793
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 830
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 949
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 963
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 974
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 988
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 989
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 993
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_V4.py | Line 107
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4.py | Line 363
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 369
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4.py | Line 771
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit_HDFS_V4.py | Line 777
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit_HDFS_V4.py | Line 801
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 837
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 851
+  source_uri = source_path if source_path.startswith("hdfs://") else f"{HDFS_URI}{source_path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 854
+  if destination_path.startswith("hdfs://")
+
+race_telemetry_audit_HDFS_V4.py | Line 855
+  else f"{HDFS_URI}{destination_path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 874
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit_HDFS_V4.py | Line 882
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit_HDFS_V4.py | Line 928
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{run_root}"])
+
+race_telemetry_audit_HDFS_V4.py | Line 944
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit_HDFS_V4.py | Line 955
+  staged_silver_uri = f"{HDFS_URI}{stage_silver_path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 956
+  staged_audit_uri = f"{HDFS_URI}{stage_audit_path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 957
+  staged_pairs_uri = f"{HDFS_URI}{stage_pairs_path}"
+
+race_telemetry_audit_HDFS_V4.py | Line 1267
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/silver"])
+
+race_telemetry_audit_HDFS_V4.py | Line 1268
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/gold/race_telemetry"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 110
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 371
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 377
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4_1.py | Line 779
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 785
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 809
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 845
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 859
+  source_uri = source_path if source_path.startswith("hdfs://") else f"{HDFS_URI}{source_path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 862
+  if destination_path.startswith("hdfs://")
+
+race_telemetry_audit_HDFS_V4_1.py | Line 863
+  else f"{HDFS_URI}{destination_path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 918
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{probe_path}"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 919
+  hdfs_run(["dfs", "-put", str(local_probe), f"{HDFS_URI}{probe_path}/probe.txt"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 921
+  ["dfs", "-cat", f"{HDFS_URI}{probe_path}/probe.txt"]
+
+race_telemetry_audit_HDFS_V4_1.py | Line 952
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit_HDFS_V4_1.py | Line 963
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1012
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{run_root}"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1028
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1040
+  staged_silver_uri = f"{HDFS_URI}{stage_silver_path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1041
+  staged_audit_uri = f"{HDFS_URI}{stage_audit_path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1042
+  staged_pairs_uri = f"{HDFS_URI}{stage_pairs_path}"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1449
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/silver"])
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1450
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/gold/race_telemetry"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 110
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 370
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 376
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 778
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{event_target}"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 784
+  "dfs", "-put", "-p", str(local_race_dir), f"{HDFS_URI}{event_target}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 808
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 844
+  uri = path if path.startswith("hdfs://") else f"{HDFS_URI}{path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 858
+  source_uri = source_path if source_path.startswith("hdfs://") else f"{HDFS_URI}{source_path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 861
+  if destination_path.startswith("hdfs://")
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 862
+  else f"{HDFS_URI}{destination_path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 917
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{probe_path}"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 918
+  hdfs_run(["dfs", "-put", str(local_probe), f"{HDFS_URI}{probe_path}/probe.txt"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 920
+  ["dfs", "-cat", f"{HDFS_URI}{probe_path}/probe.txt"]
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 951
+  print(f"HDFS         : {HDFS_URI}")
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 962
+  hdfs_run(["dfs", "-ls", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1011
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{run_root}"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1027
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1039
+  staged_silver_uri = f"{HDFS_URI}{stage_silver_path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1040
+  staged_audit_uri = f"{HDFS_URI}{stage_audit_path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1041
+  staged_pairs_uri = f"{HDFS_URI}{stage_pairs_path}"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1448
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/silver"])
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1449
+  hdfs_run(["dfs", "-mkdir", "-p", f"{HDFS_URI}{HDFS_WAREHOUSE_ROOT}/gold/race_telemetry"])
+
+telemetry_reader.py | Line 7
+  FOR1SIGHT_HDFS_URI: default hdfs://localhost:9000
+
+telemetry_reader.py | Line 27
+  HDFS_URI = os.getenv("FOR1SIGHT_HDFS_URI", "hdfs://localhost:9000").rstrip("/")
+
+telemetry_reader.py | Line 55
+  return f"{HDFS_URI}{path if path.startswith('/') else '/' + path}"
+
+telemetry_reader.py | Line 72
+  .config("spark.hadoop.fs.defaultFS", HDFS_URI)
+
+telemetry_reader.py | Line 81
+  f"Could not start the Spark session for HDFS URI {HDFS_URI}. "
+
+validate_telemetry_pair.py | Line 29
+  HDFS = "hdfs://localhost:9000"
+
+pages\3_Driver_Comparison (1).py | Line 976
+  "confirm the Race telemetry Silver/Gold outputs exist, and check FOR1SIGHT_HDFS_URI "
+
+
+Windows paths: 4 matches
+-----------------------------------------------------------------
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 88
+  # C:\\ path as a path inside the configured HDFS default filesystem.
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 351
+  emit("1. The V2.5.0 local Parquet read failure was caused by passing a Windows C:\\\\ path")
+
+inspect_cloud_compatibility.py | Line 24
+  "Windows paths": r"[A-Za-z]:\\\\|C:\\\\",
+
+inspect_for1sight_dependencies.py | Line 75
+  or "C:\\" in line
+
+
+Localhost references: 26 matches
+-----------------------------------------------------------------
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 37
+  HDFS = "hdfs://localhost:9000"
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 37
+  HDFS_URI = "hdfs://localhost:9000"
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 39
+  HDFS_URI = "hdfs://localhost:9000"
+
+build_prediction_training_v2_6.py | Line 33
+  HDFS_URI = "hdfs://localhost:9000"
+
+etl_pipeline.py | Line 95
+  model_ready_df.write.mode("overwrite").parquet("hdfs://localhost:9000/for1sight_warehouse/laps_2024_2026.parquet")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 26
+  HDFS_DEFAULT_FS = "hdfs://localhost:9000"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 28
+  "hdfs://localhost:9000/user/for1sight/warehouse/hf_laptimes.parquet"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 31
+  "hdfs://localhost:9000/for1sight_warehouse/silver/hf_laptimes"
+
+inspect_cloud_compatibility.py | Line 25
+  "Localhost references": r"localhost|127\.0\.0\.1",
+
+inspect_race_telemetry_warehouse.py | Line 21
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit.py | Line 91
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit.py | Line 345
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 91
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 345
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 105
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 359
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4.py | Line 107
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4.py | Line 369
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4_1.py | Line 110
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4_1.py | Line 377
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 110
+  HDFS_URI = "hdfs://localhost:9000"
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 376
+  # for example: drwxr-xr-x ... hdfs://localhost:9000/path
+
+telemetry_reader.py | Line 7
+  FOR1SIGHT_HDFS_URI: default hdfs://localhost:9000
+
+telemetry_reader.py | Line 27
+  HDFS_URI = os.getenv("FOR1SIGHT_HDFS_URI", "hdfs://localhost:9000").rstrip("/")
+
+validate_telemetry_pair.py | Line 29
+  HDFS = "hdfs://localhost:9000"
+
+pages\3_Driver_Comparison (1).py | Line 977
+  "if your NameNode is not localhost:9000."
+
+
+Parquet access: 270 matches
+-----------------------------------------------------------------
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 45
+  "EXISTING QUALIFYING ML TRAINING TABLE": WAREHOUSE / "ml_training_table.parquet",
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 46
+  "LOCAL CLEAN LAP TIMES": WAREHOUSE / "hf_laptimes_clean.parquet",
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 83
+  def inspect_local_parquet(label, path, spark):
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 95
+  dataset = ds.dataset(str(path), format="parquet")
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 124
+  df = spark.read.parquet(uri)
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 134
+  emit("Check the exact path, file/folder name, and whether the Parquet output exists.")
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 230
+  inspect_local_parquet(label, path, spark)
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 233
+  laps = spark.read.parquet(SILVER_LAPS)
+
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 365
+  emit("1. Local Parquet inspection prefers PyArrow to avoid Windows Spark URI issues.")
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 2
+  For1Sight V2.5.1 — Local Parquet + Race-Label Coverage Audit
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 3
+  READ-ONLY. Corrects the V2.5.0 Windows local-Parquet URI issue.
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 12
+  - reads local Parquet through explicit file:/// URIs;
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 33
+  LOCAL_PARQUET = {
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 34
+  "EXISTING QUALIFYING ML TRAINING TABLE": WAREHOUSE / "ml_training_table.parquet",
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 35
+  "LOCAL CLEAN LAP TIMES": WAREHOUSE / "hf_laptimes_clean.parquet",
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 80
+  def inspect_local_parquet(spark, label, path):
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 92
+  df = spark.read.parquet(local_uri)
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 224
+  for label, path in LOCAL_PARQUET.items():
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 225
+  local_dfs[label] = inspect_local_parquet(spark, label, path)
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 228
+  laps = spark.read.parquet(SILVER_LAPS)
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 351
+  emit("1. The V2.5.0 local Parquet read failure was caused by passing a Windows C:\\\\ path")
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 356
+  emit("5. No model-ready Parquet dataset is written yet. We review coverage and missingness first.")
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 3
+  READ-ONLY audit of existing local Parquet, HDFS Parquet, race-result JSON caches,
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 42
+  "LEGACY COMBINED LAP TIMES": f"{HDFS_URI}/for1sight_warehouse/laps_2024_2026.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 43
+  "LEGACY USER LAP TIMES": f"{HDFS_URI}/user/for1sight/warehouse/hf_laptimes.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 49
+  LOCAL_PARQUET_CANDIDATES = {
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 51
+  WAREHOUSE_LOCAL / "ml_training_table.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 52
+  PROJECT_ROOT / "ml_training_table.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 55
+  WAREHOUSE_LOCAL / "hf_laptimes_clean.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 56
+  PROJECT_ROOT / "hf_laptimes_clean.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 59
+  WAREHOUSE_LOCAL / "laps_2024_2026.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 60
+  PROJECT_ROOT / "laps_2024_2026.parquet",
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 194
+  df = spark.read.parquet(path)
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 299
+  for label, candidates in LOCAL_PARQUET_CANDIDATES.items():
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 373
+  training_path = find_first_existing(LOCAL_PARQUET_CANDIDATES["EXISTING QUALIFYING ML TRAINING TABLE"])
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 383
+  clean_path = find_first_existing(LOCAL_PARQUET_CANDIDATES["LOCAL CLEAN LAP TIMES"])
+
+audit_warehouse.py | Line 22
+  PARQUET_PATH = WAREHOUSE / "hf_laptimes.parquet"
+
+audit_warehouse.py | Line 24
+  HDFS_TARGET = "/user/for1sight/warehouse/hf_laptimes.parquet"
+
+audit_warehouse.py | Line 55
+  def inspect_parquet():
+
+audit_warehouse.py | Line 56
+  heading("1. LOCAL PARQUET WAREHOUSE (READ ONLY)")
+
+audit_warehouse.py | Line 59
+  print("Expected Parquet path:", PARQUET_PATH)
+
+audit_warehouse.py | Line 60
+  print("Parquet path exists:", PARQUET_PATH.exists())
+
+audit_warehouse.py | Line 62
+  if not PARQUET_PATH.exists():
+
+audit_warehouse.py | Line 63
+  print("RESULT: hf_laptimes.parquet was not found at the expected path.")
+
+audit_warehouse.py | Line 66
+  if PARQUET_PATH.is_file():
+
+audit_warehouse.py | Line 67
+  print("File size (MB):", round(PARQUET_PATH.stat().st_size / (1024 * 1024), 3))
+
+audit_warehouse.py | Line 69
+  files = list(PARQUET_PATH.rglob("*.parquet"))
+
+audit_warehouse.py | Line 70
+  print("Parquet dataset directory; part files:", len(files))
+
+audit_warehouse.py | Line 79
+  df = pd.read_parquet(PARQUET_PATH)
+
+audit_warehouse.py | Line 94
+  print("PARQUET READ ERROR:", repr(exc))
+
+audit_warehouse.py | Line 163
+  inspect_parquet()
+
+build_prediction_training_v2_6.py | Line 14
+  The script writes a versioned Gold Parquet dataset to HDFS and a local Parquet
+
+build_prediction_training_v2_6.py | Line 42
+  LOCAL_OUTPUT = WAREHOUSE / "prediction_training_v2_6.parquet"
+
+build_prediction_training_v2_6.py | Line 202
+  laps = spark.read.parquet(HDFS_SILVER_LAPS)
+
+build_prediction_training_v2_6.py | Line 377
+  emit(f"Local Parquet destination: {LOCAL_OUTPUT}")
+
+build_prediction_training_v2_6.py | Line 408
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+build_prediction_training_v2_6.py | Line 485
+  # Prepare the small local Parquet mirror before publishing anything to
+
+build_prediction_training_v2_6.py | Line 492
+  local_pdf.to_parquet(local_tmp, index=False, engine="pyarrow", compression="snappy")
+
+build_prediction_training_v2_6.py | Line 495
+  # Gold directory after reading the staged Parquet back and validating it.
+
+build_prediction_training_v2_6.py | Line 501
+  final.write.mode("errorifexists").option("compression", "snappy").partitionBy("year").parquet(staging_uri)
+
+build_prediction_training_v2_6.py | Line 502
+  readback = spark.read.parquet(staging_uri)
+
+build_prediction_training_v2_6.py | Line 519
+  # Publish the already-validated local Parquet mirror for Streamlit
+
+build_prediction_training_v2_6.py | Line 524
+  emit(f"Saved local Parquet mirror: {LOCAL_OUTPUT}")
+
+build_prediction_training_v2_6.py | Line 525
+  emit(f"Local Parquet rows: {len(local_pdf):,}")
+
+dashboard.py | Line 694
+  "warehouse (Parquet, CSV, JSON) → feature engineering → "
+
+etl_pipeline.py | Line 92
+  print("Writing to HDFS Parquet Data Warehouse...")
+
+etl_pipeline.py | Line 95
+  model_ready_df.write.mode("overwrite").parquet("hdfs://localhost:9000/for1sight_warehouse/laps_2024_2026.parquet")
+
+for1sight_shared.py | Line 21
+  PARQUET_PATH = WAREHOUSE_DIR / "hf_laptimes.parquet"
+
+for1sight_shared.py | Line 83
+  """Invalidate cached warehouse data whenever the Parquet file changes."""
+
+for1sight_shared.py | Line 84
+  return pd.read_parquet(path_str, engine="pyarrow")
+
+for1sight_shared.py | Line 86
+  def load_parquet_laps(season):
+
+for1sight_shared.py | Line 88
+  if not PARQUET_PATH.exists():
+
+for1sight_shared.py | Line 89
+  st.sidebar.error(f"❌ FILE NOT FOUND: {PARQUET_PATH.absolute()}")
+
+for1sight_shared.py | Line 90
+  st.sidebar.warning("Did the hf_laptimes.parquet file get moved or deleted?")
+
+for1sight_shared.py | Line 94
+  df = _read_laps_cached(str(PARQUET_PATH), PARQUET_PATH.stat().st_mtime_ns).copy()
+
+for1sight_shared.py | Line 97
+  with st.sidebar.expander("🛠️ Parquet Diagnostic Tool", expanded=False):
+
+for1sight_shared.py | Line 98
+  st.write(f"**Total Rows in Parquet:** {len(df)}")
+
+for1sight_shared.py | Line 105
+  st.write("❌ 'year' column is MISSING from Parquet.")
+
+for1sight_shared.py | Line 316
+  df = load_parquet_laps(season)
+
+for1sight_shared.py | Line 339
+  st.info("Lap-time consistency requires race laps in the local Parquet warehouse with driver_code, event_name and time fields.")
+
+for1sight_shared.py | Line 658
+  df = load_parquet_laps(season)
+
+for1sight_shared.py | Line 710
+  df = load_parquet_laps(season)
+
+for1sight_shared.py | Line 714
+  st.info(f"ℹ️ Qualifying telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+for1sight_shared.py | Line 717
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'time' metric is missing. The Parquet file might be corrupted.")
+
+for1sight_shared.py | Line 753
+  df = load_parquet_laps(season)
+
+for1sight_shared.py | Line 756
+  st.info(f"ℹ️ Race position telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+for1sight_shared.py | Line 759
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'pos' or 'lap' metrics are missing. The Parquet file might be corrupted.")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 2
+  For1Sight: safe local Parquet -> HDFS Silver synchronisation (Windows v2).
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 5
+  Parquet dataset into a temporary path without spaces before Spark reads it.
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 8
+  python for1sight_sync_local_parquet_to_hdfs_v2.py
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 11
+  - Original local Parquet dataset is never modified.
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 24
+  LOCAL_PARQUET = PROJECT_ROOT / "for1sight_warehouse" / "hf_laptimes.parquet"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 28
+  "hdfs://localhost:9000/user/for1sight/warehouse/hf_laptimes.parquet"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 88
+  heading("FOR1SIGHT LOCAL PARQUET -> HDFS SILVER SYNC (V2)")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 92
+  print("Local source:", LOCAL_PARQUET)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 93
+  print("Local source exists:", LOCAL_PARQUET.exists())
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 94
+  print("Local source is directory:", LOCAL_PARQUET.is_dir() if LOCAL_PARQUET.exists() else "N/A")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 98
+  if not LOCAL_PARQUET.exists():
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 99
+  expected_dir = LOCAL_PARQUET.parent
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 101
+  "Local Parquet source was not found.\n"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 102
+  f"Expected: {LOCAL_PARQUET}\n"
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 107
+  source_size = get_size_bytes(LOCAL_PARQUET)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 114
+  stage_dir, stage_source = stage_without_spaces(LOCAL_PARQUET)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 129
+  heading("2. READ AND VALIDATE LOCAL PARQUET COPY")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 130
+  local_df = spark.read.parquet(stage_uri)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 141
+  raise ValueError("Local Parquet dataset is empty. Sync cancelled.")
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 150
+  legacy_df = spark.read.parquet(LEGACY_HDFS_PATH)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 172
+  .parquet(NEW_HDFS_PATH)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 177
+  hdfs_df = spark.read.parquet(NEW_HDFS_PATH)
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 191
+  print("Original local Parquet dataset was not modified.")
+
+inspect_cloud_compatibility.py | Line 26
+  "Parquet access": r"read_parquet|\.parquet|parquet",
+
+inspect_for1sight_deployment.py | Line 137
+  # 6. Parquet datasets
+
+inspect_for1sight_deployment.py | Line 138
+  log("\n6. PARQUET DATASETS")
+
+inspect_for1sight_deployment.py | Line 140
+  parquet = [
+
+inspect_for1sight_deployment.py | Line 142
+  if name.lower().endswith(".parquet")
+
+inspect_for1sight_deployment.py | Line 145
+  for dataset in parquet:
+
+inspect_for1sight_deployment.py | Line 148
+  log(f"Total Parquet files: {len(parquet)}")
+
+inspect_for1sight_deployment.py | Line 155
+  "warehouse", "parquet"
+
+inspect_parquet.py | Line 3
+  # Update this path if your parquet file/folder name is different
+
+inspect_parquet.py | Line 4
+  path = "for1sight_warehouse/hf_laptimes.parquet"
+
+inspect_parquet.py | Line 7
+  df = pd.read_parquet(path)
+
+inspect_parquet.py | Line 19
+  print(f"Error reading Parquet file: {e}")
+
+inspect_race_telemetry_warehouse.py | Line 62
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+inspect_race_telemetry_warehouse.py | Line 84
+  df = spark.read.parquet(path)
+
+inspect_race_telemetry_warehouse.py | Line 89
+  print("\nACTUAL PARQUET SCHEMA")
+
+race_telemetry_audit.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit.py | Line 814
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit.py | Line 839
+  batch_df.write.mode("append").option("compression", "snappy").parquet(
+
+race_telemetry_audit.py | Line 887
+  # HDFS Parquet remains the main analytical storage.
+
+race_telemetry_audit.py | Line 911
+  silver_df = spark.read.parquet(str(staged_silver_path))
+
+race_telemetry_audit.py | Line 920
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit.py | Line 933
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit.py | Line 943
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit.py | Line 957
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit.py | Line 958
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit.py | Line 962
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 814
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 842
+  batch_df.write.mode("append").option("compression", "snappy").parquet(
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 890
+  # HDFS Parquet remains the main analytical storage.
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 914
+  silver_df = spark.read.parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 923
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 936
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 946
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 960
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 961
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v2.py | Line 965
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 828
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 846
+  logger.info("Local Parquet staging dir: %s", staging_dir)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 868
+  batch_df.write.mode("append").option("compression", "snappy").parquet(
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 916
+  # HDFS Parquet remains the main analytical storage.
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 940
+  silver_df = spark.read.parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 949
+  .parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 963
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 974
+  .parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 988
+  hdfs_silver_df = spark.read.parquet(f"{HDFS_URI}{HDFS_SILVER_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 989
+  hdfs_audit_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_AUDIT_PATH}")
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 993
+  hdfs_pairs_df = spark.read.parquet(f"{HDFS_URI}{HDFS_GOLD_PAIRS_PATH}")
+
+race_telemetry_audit_HDFS_V4.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit_HDFS_V4.py | Line 132
+  # create a second full Silver Parquet copy on the local C: drive.
+
+race_telemetry_audit_HDFS_V4.py | Line 941
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit_HDFS_V4.py | Line 984
+  .parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4.py | Line 1172
+  # HDFS Parquet remains the analytical warehouse.
+
+race_telemetry_audit_HDFS_V4.py | Line 1195
+  .parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4.py | Line 1207
+  .parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4.py | Line 1220
+  staged_silver_df = spark.read.parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4.py | Line 1227
+  staged_audit_df = spark.read.parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4.py | Line 1231
+  staged_pairs_df = spark.read.parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1025
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1070
+  .parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1257
+  .parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1270
+  .parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1278
+  pilot_silver_count = spark.read.parquet(staged_silver_uri).count()
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1279
+  pilot_audit_count = spark.read.parquet(staged_audit_uri).count()
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1281
+  spark.read.parquet(staged_pairs_uri).count() if pair_rows else 0
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1352
+  # HDFS Parquet remains the analytical warehouse.
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1376
+  .parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1389
+  .parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1402
+  staged_silver_df = spark.read.parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1409
+  staged_audit_df = spark.read.parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_1.py | Line 1413
+  staged_pairs_df = spark.read.parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 37
+  - Existing hf_laptimes_clean Parquet is never read or modified.
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1024
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1069
+  .parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1256
+  .parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1269
+  .parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1277
+  pilot_silver_count = spark.read.parquet(staged_silver_uri).count()
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1278
+  pilot_audit_count = spark.read.parquet(staged_audit_uri).count()
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1280
+  spark.read.parquet(staged_pairs_uri).count() if pair_rows else 0
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1351
+  # HDFS Parquet remains the analytical warehouse.
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1375
+  .parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1388
+  .parquet(staged_pairs_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1401
+  staged_silver_df = spark.read.parquet(staged_silver_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1408
+  staged_audit_df = spark.read.parquet(staged_audit_uri)
+
+race_telemetry_audit_HDFS_V4_2_FULL.py | Line 1412
+  staged_pairs_df = spark.read.parquet(staged_pairs_uri)
+
+telemetry_reader.py | Line 3
+  Reads the existing Silver and Gold Race telemetry Parquet datasets from HDFS.
+
+telemetry_reader.py | Line 74
+  .config("spark.sql.parquet.compression.codec", "snappy")
+
+telemetry_reader.py | Line 86
+  def _read_parquet(path: str):
+
+telemetry_reader.py | Line 90
+  return spark.read.parquet(uri)
+
+telemetry_reader.py | Line 93
+  f"Unable to read telemetry Parquet dataset: {uri}. "
+
+telemetry_reader.py | Line 114
+  _read_parquet(PAIRS_PATH)
+
+telemetry_reader.py | Line 147
+  _read_parquet(AUDIT_PATH)
+
+telemetry_reader.py | Line 180
+  source = _read_parquet(SILVER_PATH)
+
+validate_telemetry_pair.py | Line 86
+  candidates = spark.read.parquet(CANDIDATE_PATH)
+
+validate_telemetry_pair.py | Line 126
+  audit = spark.read.parquet(AUDIT_PATH)
+
+validate_telemetry_pair.py | Line 168
+  silver = spark.read.parquet(SILVER_PATH)
+
+validate_telemetry_pair.py | Line 351
+  print("No new Parquet datasets were written.")
+
+etl_pipelines\generate_quali_features.py | Line 19
+  print("Loading compressed Parquet lap times...")
+
+etl_pipelines\generate_quali_features.py | Line 20
+  laptimes_df = spark.read.parquet(f"{warehouse_dir}/hf_laptimes.parquet")
+
+etl_pipelines\generate_quali_features.py | Line 76
+  output_path = f"{warehouse_dir}/ml_training_table.parquet"
+
+etl_pipelines\generate_quali_features.py | Line 77
+  ml_training_table.write.mode("overwrite").parquet(output_path)
+
+etl_pipelines\ingest_hf_laptimes.py | Line 84
+  output_path = WAREHOUSE_DIR / "hf_laptimes.parquet"
+
+etl_pipelines\ingest_hf_laptimes.py | Line 86
+  print(f"Compressing {len(master_df):,} total lap records to Big Data Parquet format...")
+
+etl_pipelines\ingest_hf_laptimes.py | Line 87
+  master_df.to_parquet(
+
+etl_pipelines\ingest_hf_laptimes.py | Line 94
+  print(f"\n✅ SUCCESS! Ingested {processed_count:,} driver sessions into Parquet.")
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 68
+  df_car.write.mode("append").partitionBy("session_key").parquet("for1sight_warehouse/car_telemetry.parquet")
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 80
+  df_weather.write.mode("append").partitionBy("session_key").parquet("for1sight_warehouse/weather_telemetry.parquet")
+
+etl_pipelines\ingest_telemetry_parquet.py | Line 91
+  df_stints.write.mode("append").partitionBy("session_key").parquet("for1sight_warehouse/tyre_stints.parquet")
+
+etl_pipelines\inspect_data.py | Line 11
+  print("Ripping open Parquet warehouse...\n")
+
+etl_pipelines\inspect_data.py | Line 12
+  df = spark.read.parquet("for1sight_warehouse/hf_laptimes.parquet")
+
+etl_pipelines\reingest_laptimes.py | Line 32
+  df_fixed.write.mode("overwrite").parquet("for1sight_warehouse/hf_laptimes.parquet")
+
+etl_pipelines\reingest_laptimes.py | Line 33
+  print("✓ Successfully injected CORRECT Year, Event, and Session into Parquet warehouse!")
+
+pages\2_Drives_&_Teams (1).py | Line 34
+  PARQUET_PATH = WAREHOUSE_DIR / "hf_laptimes.parquet"
+
+pages\2_Drives_&_Teams (1).py | Line 96
+  """Invalidate cached warehouse data whenever the Parquet file changes."""
+
+pages\2_Drives_&_Teams (1).py | Line 97
+  return pd.read_parquet(path_str, engine="pyarrow")
+
+pages\2_Drives_&_Teams (1).py | Line 99
+  def load_parquet_laps(season):
+
+pages\2_Drives_&_Teams (1).py | Line 101
+  if not PARQUET_PATH.exists():
+
+pages\2_Drives_&_Teams (1).py | Line 102
+  st.sidebar.error(f"❌ FILE NOT FOUND: {PARQUET_PATH.absolute()}")
+
+pages\2_Drives_&_Teams (1).py | Line 103
+  st.sidebar.warning("Did the hf_laptimes.parquet file get moved or deleted?")
+
+pages\2_Drives_&_Teams (1).py | Line 107
+  df = _read_laps_cached(str(PARQUET_PATH), PARQUET_PATH.stat().st_mtime_ns).copy()
+
+pages\2_Drives_&_Teams (1).py | Line 110
+  with st.sidebar.expander("🛠️ Parquet Diagnostic Tool", expanded=False):
+
+pages\2_Drives_&_Teams (1).py | Line 111
+  st.write(f"**Total Rows in Parquet:** {len(df)}")
+
+pages\2_Drives_&_Teams (1).py | Line 118
+  st.write("❌ 'year' column is MISSING from Parquet.")
+
+pages\2_Drives_&_Teams (1).py | Line 329
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams (1).py | Line 352
+  st.info("Lap-time consistency requires race laps in the local Parquet warehouse with driver_code, event_name and time fields.")
+
+pages\2_Drives_&_Teams (1).py | Line 671
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams (1).py | Line 723
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams (1).py | Line 727
+  st.info(f"ℹ️ Qualifying telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+pages\2_Drives_&_Teams (1).py | Line 730
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'time' metric is missing. The Parquet file might be corrupted.")
+
+pages\2_Drives_&_Teams (1).py | Line 766
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams (1).py | Line 769
+  st.info(f"ℹ️ Race position telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+pages\2_Drives_&_Teams (1).py | Line 772
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'pos' or 'lap' metrics are missing. The Parquet file might be corrupted.")
+
+pages\2_Drives_&_Teams (1).py | Line 1843
+  st.info("Pace gap needs race laps for at least three teams in the local Parquet warehouse.")
+
+pages\2_Drives_&_Teams.py | Line 34
+  PARQUET_PATH = WAREHOUSE_DIR / "hf_laptimes.parquet"
+
+pages\2_Drives_&_Teams.py | Line 96
+  """Invalidate cached warehouse data whenever the Parquet file changes."""
+
+pages\2_Drives_&_Teams.py | Line 97
+  return pd.read_parquet(path_str, engine="pyarrow")
+
+pages\2_Drives_&_Teams.py | Line 99
+  def load_parquet_laps(season):
+
+pages\2_Drives_&_Teams.py | Line 101
+  if not PARQUET_PATH.exists():
+
+pages\2_Drives_&_Teams.py | Line 102
+  st.sidebar.error(f"❌ FILE NOT FOUND: {PARQUET_PATH.absolute()}")
+
+pages\2_Drives_&_Teams.py | Line 103
+  st.sidebar.warning("Did the hf_laptimes.parquet file get moved or deleted?")
+
+pages\2_Drives_&_Teams.py | Line 107
+  df = _read_laps_cached(str(PARQUET_PATH), PARQUET_PATH.stat().st_mtime_ns).copy()
+
+pages\2_Drives_&_Teams.py | Line 110
+  with st.sidebar.expander("🛠️ Parquet Diagnostic Tool", expanded=False):
+
+pages\2_Drives_&_Teams.py | Line 111
+  st.write(f"**Total Rows in Parquet:** {len(df)}")
+
+pages\2_Drives_&_Teams.py | Line 118
+  st.write("❌ 'year' column is MISSING from Parquet.")
+
+pages\2_Drives_&_Teams.py | Line 329
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams.py | Line 352
+  st.info("Lap-time consistency requires race laps in the local Parquet warehouse with driver_code, event_name and time fields.")
+
+pages\2_Drives_&_Teams.py | Line 671
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams.py | Line 723
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams.py | Line 727
+  st.info(f"ℹ️ Qualifying telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+pages\2_Drives_&_Teams.py | Line 730
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'time' metric is missing. The Parquet file might be corrupted.")
+
+pages\2_Drives_&_Teams.py | Line 766
+  df = load_parquet_laps(season)
+
+pages\2_Drives_&_Teams.py | Line 769
+  st.info(f"ℹ️ Race position telemetry has not been ingested into the Parquet warehouse yet for the {season} season.")
+
+pages\2_Drives_&_Teams.py | Line 772
+  st.warning(f"⚠️ Telemetry data found for {season}, but the 'pos' or 'lap' metrics are missing. The Parquet file might be corrupted.")
+
+pages\2_Drives_&_Teams.py | Line 1685
+  st.info("Pace gap needs race laps for at least three teams in the local Parquet warehouse.")
+
+pages\3_Driver_Comparison (1).py | Line 5
+  standings snapshots, driver images and the local Parquet lap warehouse.
+
+pages\4_Prediction_Analysis.py | Line 39
+  WAREHOUSE_PATH = ROOT / "for1sight_warehouse" / "prediction_training_v2_8_prerace.parquet"
+
+pages\4_Prediction_Analysis.py | Line 475
+  return pd.read_parquet(path, engine="pyarrow")
+
+pages\4_Prediction_Analysis.py | Line 1635
+  st.info("Place prediction_training_v2_8_prerace.parquet inside the project's for1sight_warehouse folder.")
+
+
+Model loading: 1 matches
+-----------------------------------------------------------------
+pages\4_Prediction_Analysis.py | Line 523
+  model = joblib.load(model_path)
+
+
+FastF1 cache: 3 matches
+-----------------------------------------------------------------
+inspect_cloud_compatibility.py | Line 28
+  "FastF1 cache": r"Cache\.enable_cache|enable_cache",
+
+update_recent_results.py | Line 9
+  fastf1.Cache.enable_cache('f1_cache')
+
+pages\4_Prediction_Analysis.py | Line 543
+  fastf1.Cache.enable_cache(str(cache_dir))
+
+
+Relative paths: 17 matches
+-----------------------------------------------------------------
+03F1_audit_for1sight_prediction_data_v2_5_2.py | Line 35
+  ROOT = Path(__file__).resolve().parent
+
+03F_audit_for1sight_prediction_data_v2_5_1.py | Line 26
+  PROJECT_ROOT = Path(__file__).resolve().parent
+
+03_audit_for1sight_prediction_data_v2_5_0.py | Line 23
+  PROJECT_ROOT = Path(__file__).resolve().parent
+
+audit_warehouse.py | Line 20
+  PROJECT_ROOT = Path(__file__).resolve().parent
+
+build_prediction_training_v2_6.py | Line 30
+  ROOT = Path(__file__).resolve().parent
+
+dashboard.py | Line 38
+  ROOT = Path(__file__).resolve().parent
+
+for1sight_shared.py | Line 19
+  PROJECT_ROOT = Path(__file__).resolve().parent.parent if Path(__file__).resolve().parent.name == "pages" else Path(__file__).resolve().parent
+
+for1sight_sync_local_parquet_to_hdfs_v2.py | Line 23
+  PROJECT_ROOT = Path(__file__).resolve().parent
+
+inspect_race_telemetry_warehouse.py | Line 6
+  PROJECT_ROOT = Path(__file__).resolve().parent
+
+race_telemetry_audit_HDFS_FIXED_v3.py | Line 71
+  RUNTIME_ROOT = Path(__file__).resolve().parent / "for1sight_runtime"
+
+race_telemetry_audit_HDFS_V4.py | Line 73
+  RUNTIME_ROOT = Path(__file__).resolve().parent / "for1sight_runtime"
+
+etl_pipelines\generate_quali_features.py | Line 6
+  temp_dir = os.path.join(os.getcwd(), "spark_temp")
+
+etl_pipelines\ingest_hf_laptimes.py | Line 7
+  SCRIPT_DIR = Path(__file__).parent.resolve()
+
+pages\2_Drives_&_Teams (1).py | Line 32
+  PROJECT_ROOT = Path(__file__).resolve().parent.parent if Path(__file__).resolve().parent.name == "pages" else Path(__file__).resolve().parent
+
+pages\2_Drives_&_Teams.py | Line 32
+  PROJECT_ROOT = Path(__file__).resolve().parent.parent if Path(__file__).resolve().parent.name == "pages" else Path(__file__).resolve().parent
+
+pages\3_Driver_Comparison (1).py | Line 26
+  ROOT = Path(__file__).resolve().parent.parent if Path(__file__).resolve().parent.name == "pages" else Path(__file__).resolve().parent
+
+pages\4_Prediction_Analysis.py | Line 38
+  ROOT = Path(__file__).resolve().parents[1]
+

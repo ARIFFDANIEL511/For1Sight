@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+*.bak
+
+# Big Data datasets
+raw_hf_data/
+for1sight_warehouse/
+for1sight_runtime/
+hadoop_data/
+spark-warehouse/
+metastore_db/
+
+# Big Data file formats
+*.parquet
+*.snappy
+*.orc
+*.avro
+
+# Editor files
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local backups
+*_backup.py

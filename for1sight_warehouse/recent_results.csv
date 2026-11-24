@@ -1,0 +1,1091 @@
+year,race_name,driver_name,grid,positionOrder,points,status
+2024,2024 Bahrain Grand Prix,Max Verstappen,1.0,1.0,26.0,Finished
+2024,2024 Bahrain Grand Prix,Sergio Perez,5.0,2.0,18.0,Finished
+2024,2024 Bahrain Grand Prix,Carlos Sainz,4.0,3.0,15.0,Finished
+2024,2024 Bahrain Grand Prix,Charles Leclerc,2.0,4.0,12.0,Finished
+2024,2024 Bahrain Grand Prix,George Russell,3.0,5.0,10.0,Finished
+2024,2024 Bahrain Grand Prix,Lando Norris,7.0,6.0,8.0,Finished
+2024,2024 Bahrain Grand Prix,Lewis Hamilton,9.0,7.0,6.0,Finished
+2024,2024 Bahrain Grand Prix,Oscar Piastri,8.0,8.0,4.0,Finished
+2024,2024 Bahrain Grand Prix,Fernando Alonso,6.0,9.0,2.0,Finished
+2024,2024 Bahrain Grand Prix,Lance Stroll,12.0,10.0,1.0,Finished
+2024,2024 Bahrain Grand Prix,Guanyu Zhou,17.0,11.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Kevin Magnussen,15.0,12.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Daniel Ricciardo,14.0,13.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Yuki Tsunoda,11.0,14.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Alexander Albon,13.0,15.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Nico Hulkenberg,10.0,16.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Esteban Ocon,19.0,17.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Pierre Gasly,20.0,18.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Valtteri Bottas,16.0,19.0,0.0,Lapped
+2024,2024 Bahrain Grand Prix,Logan Sargeant,18.0,20.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Sergio Perez,3.0,2.0,18.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Charles Leclerc,2.0,3.0,16.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Oscar Piastri,5.0,4.0,12.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Fernando Alonso,4.0,5.0,10.0,Finished
+2024,2024 Saudi Arabian Grand Prix,George Russell,7.0,6.0,8.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Oliver Bearman,11.0,7.0,6.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Lando Norris,6.0,8.0,4.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Lewis Hamilton,8.0,9.0,2.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Nico Hulkenberg,15.0,10.0,1.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Alexander Albon,12.0,11.0,0.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Kevin Magnussen,13.0,12.0,0.0,Finished
+2024,2024 Saudi Arabian Grand Prix,Esteban Ocon,17.0,13.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Logan Sargeant,19.0,14.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Yuki Tsunoda,9.0,15.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Daniel Ricciardo,14.0,16.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Valtteri Bottas,16.0,17.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Guanyu Zhou,20.0,18.0,0.0,Lapped
+2024,2024 Saudi Arabian Grand Prix,Lance Stroll,10.0,19.0,0.0,Retired
+2024,2024 Saudi Arabian Grand Prix,Pierre Gasly,18.0,20.0,0.0,Retired
+2024,2024 Australian Grand Prix,Carlos Sainz,2.0,1.0,25.0,Finished
+2024,2024 Australian Grand Prix,Charles Leclerc,4.0,2.0,19.0,Finished
+2024,2024 Australian Grand Prix,Lando Norris,3.0,3.0,15.0,Finished
+2024,2024 Australian Grand Prix,Oscar Piastri,5.0,4.0,12.0,Finished
+2024,2024 Australian Grand Prix,Sergio Perez,6.0,5.0,10.0,Finished
+2024,2024 Australian Grand Prix,Lance Stroll,9.0,6.0,8.0,Finished
+2024,2024 Australian Grand Prix,Yuki Tsunoda,8.0,7.0,6.0,Finished
+2024,2024 Australian Grand Prix,Fernando Alonso,10.0,8.0,4.0,Finished
+2024,2024 Australian Grand Prix,Nico Hulkenberg,16.0,9.0,2.0,Finished
+2024,2024 Australian Grand Prix,Kevin Magnussen,14.0,10.0,1.0,Lapped
+2024,2024 Australian Grand Prix,Alexander Albon,12.0,11.0,0.0,Lapped
+2024,2024 Australian Grand Prix,Daniel Ricciardo,18.0,12.0,0.0,Lapped
+2024,2024 Australian Grand Prix,Pierre Gasly,17.0,13.0,0.0,Lapped
+2024,2024 Australian Grand Prix,Valtteri Bottas,13.0,14.0,0.0,Lapped
+2024,2024 Australian Grand Prix,Guanyu Zhou,19.0,15.0,0.0,Lapped
+2024,2024 Australian Grand Prix,Esteban Ocon,15.0,16.0,0.0,Lapped
+2024,2024 Australian Grand Prix,George Russell,7.0,17.0,0.0,Retired
+2024,2024 Australian Grand Prix,Lewis Hamilton,11.0,18.0,0.0,Retired
+2024,2024 Australian Grand Prix,Max Verstappen,1.0,19.0,0.0,Retired
+2024,2024 Japanese Grand Prix,Max Verstappen,1.0,1.0,26.0,Finished
+2024,2024 Japanese Grand Prix,Sergio Perez,2.0,2.0,18.0,Finished
+2024,2024 Japanese Grand Prix,Carlos Sainz,4.0,3.0,15.0,Finished
+2024,2024 Japanese Grand Prix,Charles Leclerc,8.0,4.0,12.0,Finished
+2024,2024 Japanese Grand Prix,Lando Norris,3.0,5.0,10.0,Finished
+2024,2024 Japanese Grand Prix,Fernando Alonso,5.0,6.0,8.0,Finished
+2024,2024 Japanese Grand Prix,George Russell,9.0,7.0,6.0,Finished
+2024,2024 Japanese Grand Prix,Oscar Piastri,6.0,8.0,4.0,Finished
+2024,2024 Japanese Grand Prix,Lewis Hamilton,7.0,9.0,2.0,Finished
+2024,2024 Japanese Grand Prix,Yuki Tsunoda,10.0,10.0,1.0,Lapped
+2024,2024 Japanese Grand Prix,Nico Hulkenberg,12.0,11.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Lance Stroll,16.0,12.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Kevin Magnussen,18.0,13.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Valtteri Bottas,13.0,14.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Esteban Ocon,15.0,15.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Pierre Gasly,17.0,16.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Logan Sargeant,19.0,17.0,0.0,Lapped
+2024,2024 Japanese Grand Prix,Guanyu Zhou,20.0,18.0,0.0,Retired
+2024,2024 Japanese Grand Prix,Daniel Ricciardo,11.0,19.0,0.0,Retired
+2024,2024 Japanese Grand Prix,Alexander Albon,14.0,20.0,0.0,Retired
+2024,2024 Chinese Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2024,2024 Chinese Grand Prix,Lando Norris,4.0,2.0,18.0,Finished
+2024,2024 Chinese Grand Prix,Sergio Perez,2.0,3.0,15.0,Finished
+2024,2024 Chinese Grand Prix,Charles Leclerc,6.0,4.0,12.0,Finished
+2024,2024 Chinese Grand Prix,Carlos Sainz,7.0,5.0,10.0,Finished
+2024,2024 Chinese Grand Prix,George Russell,8.0,6.0,8.0,Finished
+2024,2024 Chinese Grand Prix,Fernando Alonso,3.0,7.0,7.0,Finished
+2024,2024 Chinese Grand Prix,Oscar Piastri,5.0,8.0,4.0,Finished
+2024,2024 Chinese Grand Prix,Lewis Hamilton,18.0,9.0,2.0,Finished
+2024,2024 Chinese Grand Prix,Nico Hulkenberg,9.0,10.0,1.0,Finished
+2024,2024 Chinese Grand Prix,Esteban Ocon,13.0,11.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Alexander Albon,14.0,12.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Pierre Gasly,15.0,13.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Guanyu Zhou,16.0,14.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Lance Stroll,11.0,15.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Kevin Magnussen,17.0,16.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Logan Sargeant,20.0,17.0,0.0,Finished
+2024,2024 Chinese Grand Prix,Daniel Ricciardo,12.0,18.0,0.0,Retired
+2024,2024 Chinese Grand Prix,Yuki Tsunoda,19.0,19.0,0.0,Retired
+2024,2024 Chinese Grand Prix,Valtteri Bottas,10.0,20.0,0.0,Retired
+2024,2024 Miami Grand Prix,Lando Norris,5.0,1.0,25.0,Finished
+2024,2024 Miami Grand Prix,Max Verstappen,1.0,2.0,18.0,Finished
+2024,2024 Miami Grand Prix,Charles Leclerc,2.0,3.0,15.0,Finished
+2024,2024 Miami Grand Prix,Sergio Perez,4.0,4.0,12.0,Finished
+2024,2024 Miami Grand Prix,Carlos Sainz,3.0,5.0,10.0,Finished
+2024,2024 Miami Grand Prix,Lewis Hamilton,8.0,6.0,8.0,Finished
+2024,2024 Miami Grand Prix,Yuki Tsunoda,10.0,7.0,6.0,Finished
+2024,2024 Miami Grand Prix,George Russell,7.0,8.0,4.0,Finished
+2024,2024 Miami Grand Prix,Fernando Alonso,15.0,9.0,2.0,Finished
+2024,2024 Miami Grand Prix,Esteban Ocon,13.0,10.0,1.0,Finished
+2024,2024 Miami Grand Prix,Nico Hulkenberg,9.0,11.0,0.0,Finished
+2024,2024 Miami Grand Prix,Pierre Gasly,12.0,12.0,0.0,Finished
+2024,2024 Miami Grand Prix,Oscar Piastri,6.0,13.0,0.0,Finished
+2024,2024 Miami Grand Prix,Guanyu Zhou,19.0,14.0,0.0,Finished
+2024,2024 Miami Grand Prix,Daniel Ricciardo,20.0,15.0,0.0,Finished
+2024,2024 Miami Grand Prix,Valtteri Bottas,16.0,16.0,0.0,Finished
+2024,2024 Miami Grand Prix,Lance Stroll,11.0,17.0,0.0,Finished
+2024,2024 Miami Grand Prix,Alexander Albon,14.0,18.0,0.0,Finished
+2024,2024 Miami Grand Prix,Kevin Magnussen,18.0,19.0,0.0,Finished
+2024,2024 Miami Grand Prix,Logan Sargeant,17.0,20.0,0.0,Retired
+2024,2024 Emilia Romagna Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Charles Leclerc,3.0,3.0,15.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Oscar Piastri,5.0,4.0,12.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Carlos Sainz,4.0,5.0,10.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Lewis Hamilton,8.0,6.0,8.0,Finished
+2024,2024 Emilia Romagna Grand Prix,George Russell,6.0,7.0,7.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Sergio Perez,11.0,8.0,4.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Lance Stroll,13.0,9.0,2.0,Finished
+2024,2024 Emilia Romagna Grand Prix,Yuki Tsunoda,7.0,10.0,1.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Nico Hulkenberg,10.0,11.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Kevin Magnussen,18.0,12.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Daniel Ricciardo,9.0,13.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Esteban Ocon,12.0,14.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Guanyu Zhou,17.0,15.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Pierre Gasly,15.0,16.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Logan Sargeant,19.0,17.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Valtteri Bottas,16.0,18.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Fernando Alonso,20.0,19.0,0.0,Lapped
+2024,2024 Emilia Romagna Grand Prix,Alexander Albon,14.0,20.0,0.0,Retired
+2024,2024 Monaco Grand Prix,Charles Leclerc,1.0,1.0,25.0,Finished
+2024,2024 Monaco Grand Prix,Oscar Piastri,2.0,2.0,18.0,Finished
+2024,2024 Monaco Grand Prix,Carlos Sainz,3.0,3.0,15.0,Finished
+2024,2024 Monaco Grand Prix,Lando Norris,4.0,4.0,12.0,Finished
+2024,2024 Monaco Grand Prix,George Russell,5.0,5.0,10.0,Finished
+2024,2024 Monaco Grand Prix,Max Verstappen,6.0,6.0,8.0,Finished
+2024,2024 Monaco Grand Prix,Lewis Hamilton,7.0,7.0,7.0,Finished
+2024,2024 Monaco Grand Prix,Yuki Tsunoda,8.0,8.0,4.0,Lapped
+2024,2024 Monaco Grand Prix,Alexander Albon,9.0,9.0,2.0,Lapped
+2024,2024 Monaco Grand Prix,Pierre Gasly,10.0,10.0,1.0,Lapped
+2024,2024 Monaco Grand Prix,Fernando Alonso,14.0,11.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Daniel Ricciardo,12.0,12.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Valtteri Bottas,17.0,13.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Lance Stroll,13.0,14.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Logan Sargeant,15.0,15.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Guanyu Zhou,18.0,16.0,0.0,Lapped
+2024,2024 Monaco Grand Prix,Esteban Ocon,11.0,17.0,0.0,Retired
+2024,2024 Monaco Grand Prix,Sergio Perez,16.0,18.0,0.0,Retired
+2024,2024 Monaco Grand Prix,Nico Hulkenberg,19.0,19.0,0.0,Retired
+2024,2024 Monaco Grand Prix,Kevin Magnussen,20.0,20.0,0.0,Retired
+2024,2024 Canadian Grand Prix,Max Verstappen,2.0,1.0,25.0,Finished
+2024,2024 Canadian Grand Prix,Lando Norris,3.0,2.0,18.0,Finished
+2024,2024 Canadian Grand Prix,George Russell,1.0,3.0,15.0,Finished
+2024,2024 Canadian Grand Prix,Lewis Hamilton,7.0,4.0,13.0,Finished
+2024,2024 Canadian Grand Prix,Oscar Piastri,4.0,5.0,10.0,Finished
+2024,2024 Canadian Grand Prix,Fernando Alonso,6.0,6.0,8.0,Finished
+2024,2024 Canadian Grand Prix,Lance Stroll,9.0,7.0,6.0,Finished
+2024,2024 Canadian Grand Prix,Daniel Ricciardo,5.0,8.0,4.0,Finished
+2024,2024 Canadian Grand Prix,Pierre Gasly,15.0,9.0,2.0,Finished
+2024,2024 Canadian Grand Prix,Esteban Ocon,18.0,10.0,1.0,Finished
+2024,2024 Canadian Grand Prix,Nico Hulkenberg,17.0,11.0,0.0,Finished
+2024,2024 Canadian Grand Prix,Kevin Magnussen,14.0,12.0,0.0,Finished
+2024,2024 Canadian Grand Prix,Valtteri Bottas,19.0,13.0,0.0,Finished
+2024,2024 Canadian Grand Prix,Yuki Tsunoda,8.0,14.0,0.0,Finished
+2024,2024 Canadian Grand Prix,Guanyu Zhou,20.0,15.0,0.0,Lapped
+2024,2024 Canadian Grand Prix,Carlos Sainz,12.0,16.0,0.0,Retired
+2024,2024 Canadian Grand Prix,Alexander Albon,10.0,17.0,0.0,Retired
+2024,2024 Canadian Grand Prix,Sergio Perez,16.0,18.0,0.0,Retired
+2024,2024 Canadian Grand Prix,Charles Leclerc,11.0,19.0,0.0,Retired
+2024,2024 Canadian Grand Prix,Logan Sargeant,13.0,20.0,0.0,Retired
+2024,2024 Spanish Grand Prix,Max Verstappen,2.0,1.0,25.0,Finished
+2024,2024 Spanish Grand Prix,Lando Norris,1.0,2.0,19.0,Finished
+2024,2024 Spanish Grand Prix,Lewis Hamilton,3.0,3.0,15.0,Finished
+2024,2024 Spanish Grand Prix,George Russell,4.0,4.0,12.0,Finished
+2024,2024 Spanish Grand Prix,Charles Leclerc,5.0,5.0,10.0,Finished
+2024,2024 Spanish Grand Prix,Carlos Sainz,6.0,6.0,8.0,Finished
+2024,2024 Spanish Grand Prix,Oscar Piastri,9.0,7.0,6.0,Finished
+2024,2024 Spanish Grand Prix,Sergio Perez,11.0,8.0,4.0,Finished
+2024,2024 Spanish Grand Prix,Pierre Gasly,7.0,9.0,2.0,Finished
+2024,2024 Spanish Grand Prix,Esteban Ocon,8.0,10.0,1.0,Finished
+2024,2024 Spanish Grand Prix,Nico Hulkenberg,13.0,11.0,0.0,Finished
+2024,2024 Spanish Grand Prix,Fernando Alonso,10.0,12.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Guanyu Zhou,15.0,13.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Lance Stroll,14.0,14.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Daniel Ricciardo,18.0,15.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Valtteri Bottas,12.0,16.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Kevin Magnussen,16.0,17.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Alexander Albon,20.0,18.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Yuki Tsunoda,17.0,19.0,0.0,Lapped
+2024,2024 Spanish Grand Prix,Logan Sargeant,19.0,20.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,George Russell,3.0,1.0,25.0,Finished
+2024,2024 Austrian Grand Prix,Oscar Piastri,7.0,2.0,18.0,Finished
+2024,2024 Austrian Grand Prix,Carlos Sainz,4.0,3.0,15.0,Finished
+2024,2024 Austrian Grand Prix,Lewis Hamilton,5.0,4.0,12.0,Finished
+2024,2024 Austrian Grand Prix,Max Verstappen,1.0,5.0,10.0,Finished
+2024,2024 Austrian Grand Prix,Nico Hulkenberg,9.0,6.0,8.0,Finished
+2024,2024 Austrian Grand Prix,Sergio Perez,8.0,7.0,6.0,Finished
+2024,2024 Austrian Grand Prix,Kevin Magnussen,12.0,8.0,4.0,Finished
+2024,2024 Austrian Grand Prix,Daniel Ricciardo,11.0,9.0,2.0,Finished
+2024,2024 Austrian Grand Prix,Pierre Gasly,13.0,10.0,1.0,Finished
+2024,2024 Austrian Grand Prix,Charles Leclerc,6.0,11.0,0.0,Finished
+2024,2024 Austrian Grand Prix,Esteban Ocon,10.0,12.0,0.0,Finished
+2024,2024 Austrian Grand Prix,Lance Stroll,17.0,13.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Yuki Tsunoda,14.0,14.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Alexander Albon,16.0,15.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Valtteri Bottas,18.0,16.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Guanyu Zhou,20.0,17.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Fernando Alonso,15.0,18.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Logan Sargeant,19.0,19.0,0.0,Lapped
+2024,2024 Austrian Grand Prix,Lando Norris,2.0,20.0,0.0,Lapped
+2024,2024 British Grand Prix,Lewis Hamilton,2.0,1.0,25.0,Finished
+2024,2024 British Grand Prix,Max Verstappen,4.0,2.0,18.0,Finished
+2024,2024 British Grand Prix,Lando Norris,3.0,3.0,15.0,Finished
+2024,2024 British Grand Prix,Oscar Piastri,5.0,4.0,12.0,Finished
+2024,2024 British Grand Prix,Carlos Sainz,7.0,5.0,11.0,Finished
+2024,2024 British Grand Prix,Nico Hulkenberg,6.0,6.0,8.0,Finished
+2024,2024 British Grand Prix,Lance Stroll,8.0,7.0,6.0,Finished
+2024,2024 British Grand Prix,Fernando Alonso,10.0,8.0,4.0,Finished
+2024,2024 British Grand Prix,Alexander Albon,9.0,9.0,2.0,Finished
+2024,2024 British Grand Prix,Yuki Tsunoda,13.0,10.0,1.0,Finished
+2024,2024 British Grand Prix,Logan Sargeant,12.0,11.0,0.0,Finished
+2024,2024 British Grand Prix,Kevin Magnussen,17.0,12.0,0.0,Finished
+2024,2024 British Grand Prix,Daniel Ricciardo,15.0,13.0,0.0,Lapped
+2024,2024 British Grand Prix,Charles Leclerc,11.0,14.0,0.0,Lapped
+2024,2024 British Grand Prix,Valtteri Bottas,16.0,15.0,0.0,Lapped
+2024,2024 British Grand Prix,Esteban Ocon,18.0,16.0,0.0,Lapped
+2024,2024 British Grand Prix,Sergio Perez,20.0,17.0,0.0,Lapped
+2024,2024 British Grand Prix,Guanyu Zhou,14.0,18.0,0.0,Lapped
+2024,2024 British Grand Prix,George Russell,1.0,19.0,0.0,Retired
+2024,2024 British Grand Prix,Pierre Gasly,19.0,20.0,0.0,Did not start
+2024,2024 Hungarian Grand Prix,Oscar Piastri,2.0,1.0,25.0,Finished
+2024,2024 Hungarian Grand Prix,Lando Norris,1.0,2.0,18.0,Finished
+2024,2024 Hungarian Grand Prix,Lewis Hamilton,5.0,3.0,15.0,Finished
+2024,2024 Hungarian Grand Prix,Charles Leclerc,6.0,4.0,12.0,Finished
+2024,2024 Hungarian Grand Prix,Max Verstappen,3.0,5.0,10.0,Finished
+2024,2024 Hungarian Grand Prix,Carlos Sainz,4.0,6.0,8.0,Finished
+2024,2024 Hungarian Grand Prix,Sergio Perez,16.0,7.0,6.0,Finished
+2024,2024 Hungarian Grand Prix,George Russell,17.0,8.0,5.0,Finished
+2024,2024 Hungarian Grand Prix,Yuki Tsunoda,10.0,9.0,2.0,Finished
+2024,2024 Hungarian Grand Prix,Lance Stroll,8.0,10.0,1.0,Finished
+2024,2024 Hungarian Grand Prix,Fernando Alonso,7.0,11.0,0.0,Finished
+2024,2024 Hungarian Grand Prix,Daniel Ricciardo,9.0,12.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Nico Hulkenberg,11.0,13.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Alexander Albon,13.0,14.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Kevin Magnussen,15.0,15.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Valtteri Bottas,12.0,16.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Logan Sargeant,14.0,17.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Esteban Ocon,19.0,18.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Guanyu Zhou,18.0,19.0,0.0,Lapped
+2024,2024 Hungarian Grand Prix,Pierre Gasly,20.0,20.0,0.0,Retired
+2024,2024 Belgian Grand Prix,Lewis Hamilton,3.0,1.0,25.0,Finished
+2024,2024 Belgian Grand Prix,Oscar Piastri,5.0,2.0,18.0,Finished
+2024,2024 Belgian Grand Prix,Charles Leclerc,1.0,3.0,15.0,Finished
+2024,2024 Belgian Grand Prix,Max Verstappen,11.0,4.0,12.0,Finished
+2024,2024 Belgian Grand Prix,Lando Norris,4.0,5.0,10.0,Finished
+2024,2024 Belgian Grand Prix,Carlos Sainz,7.0,6.0,8.0,Finished
+2024,2024 Belgian Grand Prix,Sergio Perez,2.0,7.0,7.0,Finished
+2024,2024 Belgian Grand Prix,Fernando Alonso,8.0,8.0,4.0,Finished
+2024,2024 Belgian Grand Prix,Esteban Ocon,9.0,9.0,2.0,Finished
+2024,2024 Belgian Grand Prix,Daniel Ricciardo,13.0,10.0,1.0,Finished
+2024,2024 Belgian Grand Prix,Lance Stroll,15.0,11.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Alexander Albon,10.0,12.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Pierre Gasly,12.0,13.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Kevin Magnussen,17.0,14.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Valtteri Bottas,14.0,15.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Yuki Tsunoda,20.0,16.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Logan Sargeant,18.0,17.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Nico Hulkenberg,16.0,18.0,0.0,Finished
+2024,2024 Belgian Grand Prix,Guanyu Zhou,19.0,19.0,0.0,Retired
+2024,2024 Belgian Grand Prix,George Russell,6.0,20.0,0.0,Disqualified
+2024,2024 Dutch Grand Prix,Lando Norris,1.0,1.0,26.0,Finished
+2024,2024 Dutch Grand Prix,Max Verstappen,2.0,2.0,18.0,Finished
+2024,2024 Dutch Grand Prix,Charles Leclerc,6.0,3.0,15.0,Finished
+2024,2024 Dutch Grand Prix,Oscar Piastri,3.0,4.0,12.0,Finished
+2024,2024 Dutch Grand Prix,Carlos Sainz,10.0,5.0,10.0,Finished
+2024,2024 Dutch Grand Prix,Sergio Perez,5.0,6.0,8.0,Finished
+2024,2024 Dutch Grand Prix,George Russell,4.0,7.0,6.0,Finished
+2024,2024 Dutch Grand Prix,Lewis Hamilton,14.0,8.0,4.0,Finished
+2024,2024 Dutch Grand Prix,Pierre Gasly,9.0,9.0,2.0,Lapped
+2024,2024 Dutch Grand Prix,Fernando Alonso,7.0,10.0,1.0,Lapped
+2024,2024 Dutch Grand Prix,Nico Hulkenberg,12.0,11.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Daniel Ricciardo,13.0,12.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Lance Stroll,8.0,13.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Alexander Albon,19.0,14.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Esteban Ocon,15.0,15.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Logan Sargeant,18.0,16.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Yuki Tsunoda,11.0,17.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Kevin Magnussen,20.0,18.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Valtteri Bottas,16.0,19.0,0.0,Lapped
+2024,2024 Dutch Grand Prix,Guanyu Zhou,17.0,20.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Charles Leclerc,4.0,1.0,25.0,Finished
+2024,2024 Italian Grand Prix,Oscar Piastri,2.0,2.0,18.0,Finished
+2024,2024 Italian Grand Prix,Lando Norris,1.0,3.0,16.0,Finished
+2024,2024 Italian Grand Prix,Carlos Sainz,5.0,4.0,12.0,Finished
+2024,2024 Italian Grand Prix,Lewis Hamilton,6.0,5.0,10.0,Finished
+2024,2024 Italian Grand Prix,Max Verstappen,7.0,6.0,8.0,Finished
+2024,2024 Italian Grand Prix,George Russell,3.0,7.0,6.0,Finished
+2024,2024 Italian Grand Prix,Sergio Perez,8.0,8.0,4.0,Finished
+2024,2024 Italian Grand Prix,Alexander Albon,9.0,9.0,2.0,Finished
+2024,2024 Italian Grand Prix,Kevin Magnussen,13.0,10.0,1.0,Finished
+2024,2024 Italian Grand Prix,Fernando Alonso,11.0,11.0,0.0,Finished
+2024,2024 Italian Grand Prix,Franco Colapinto,18.0,12.0,0.0,Finished
+2024,2024 Italian Grand Prix,Daniel Ricciardo,12.0,13.0,0.0,Finished
+2024,2024 Italian Grand Prix,Esteban Ocon,15.0,14.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Pierre Gasly,14.0,15.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Valtteri Bottas,19.0,16.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Nico Hulkenberg,10.0,17.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Guanyu Zhou,20.0,18.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Lance Stroll,17.0,19.0,0.0,Lapped
+2024,2024 Italian Grand Prix,Yuki Tsunoda,16.0,20.0,0.0,Retired
+2024,2024 Azerbaijan Grand Prix,Oscar Piastri,2.0,1.0,25.0,Finished
+2024,2024 Azerbaijan Grand Prix,Charles Leclerc,1.0,2.0,18.0,Finished
+2024,2024 Azerbaijan Grand Prix,George Russell,5.0,3.0,15.0,Finished
+2024,2024 Azerbaijan Grand Prix,Lando Norris,15.0,4.0,13.0,Finished
+2024,2024 Azerbaijan Grand Prix,Max Verstappen,6.0,5.0,10.0,Finished
+2024,2024 Azerbaijan Grand Prix,Fernando Alonso,7.0,6.0,8.0,Finished
+2024,2024 Azerbaijan Grand Prix,Alexander Albon,9.0,7.0,6.0,Finished
+2024,2024 Azerbaijan Grand Prix,Franco Colapinto,8.0,8.0,4.0,Finished
+2024,2024 Azerbaijan Grand Prix,Lewis Hamilton,19.0,9.0,2.0,Finished
+2024,2024 Azerbaijan Grand Prix,Oliver Bearman,10.0,10.0,1.0,Finished
+2024,2024 Azerbaijan Grand Prix,Nico Hulkenberg,12.0,11.0,0.0,Finished
+2024,2024 Azerbaijan Grand Prix,Pierre Gasly,18.0,12.0,0.0,Finished
+2024,2024 Azerbaijan Grand Prix,Daniel Ricciardo,14.0,13.0,0.0,Finished
+2024,2024 Azerbaijan Grand Prix,Guanyu Zhou,17.0,14.0,0.0,Finished
+2024,2024 Azerbaijan Grand Prix,Esteban Ocon,20.0,15.0,0.0,Lapped
+2024,2024 Azerbaijan Grand Prix,Valtteri Bottas,16.0,16.0,0.0,Lapped
+2024,2024 Azerbaijan Grand Prix,Sergio Perez,4.0,17.0,0.0,Retired
+2024,2024 Azerbaijan Grand Prix,Carlos Sainz,3.0,18.0,0.0,Retired
+2024,2024 Azerbaijan Grand Prix,Lance Stroll,13.0,19.0,0.0,Retired
+2024,2024 Azerbaijan Grand Prix,Yuki Tsunoda,11.0,20.0,0.0,Retired
+2024,2024 Singapore Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2024,2024 Singapore Grand Prix,Max Verstappen,2.0,2.0,18.0,Finished
+2024,2024 Singapore Grand Prix,Oscar Piastri,5.0,3.0,15.0,Finished
+2024,2024 Singapore Grand Prix,George Russell,4.0,4.0,12.0,Finished
+2024,2024 Singapore Grand Prix,Charles Leclerc,9.0,5.0,10.0,Finished
+2024,2024 Singapore Grand Prix,Lewis Hamilton,3.0,6.0,8.0,Finished
+2024,2024 Singapore Grand Prix,Carlos Sainz,10.0,7.0,6.0,Finished
+2024,2024 Singapore Grand Prix,Fernando Alonso,7.0,8.0,4.0,Lapped
+2024,2024 Singapore Grand Prix,Nico Hulkenberg,6.0,9.0,2.0,Lapped
+2024,2024 Singapore Grand Prix,Sergio Perez,13.0,10.0,1.0,Lapped
+2024,2024 Singapore Grand Prix,Franco Colapinto,12.0,11.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Yuki Tsunoda,8.0,12.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Esteban Ocon,15.0,13.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Lance Stroll,17.0,14.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Guanyu Zhou,20.0,15.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Valtteri Bottas,19.0,16.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Pierre Gasly,18.0,17.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Daniel Ricciardo,16.0,18.0,0.0,Lapped
+2024,2024 Singapore Grand Prix,Kevin Magnussen,14.0,19.0,0.0,Retired
+2024,2024 Singapore Grand Prix,Alexander Albon,11.0,20.0,0.0,Retired
+2024,2024 United States Grand Prix,Charles Leclerc,4.0,1.0,25.0,Finished
+2024,2024 United States Grand Prix,Carlos Sainz,3.0,2.0,18.0,Finished
+2024,2024 United States Grand Prix,Max Verstappen,2.0,3.0,15.0,Finished
+2024,2024 United States Grand Prix,Lando Norris,1.0,4.0,12.0,Finished
+2024,2024 United States Grand Prix,Oscar Piastri,5.0,5.0,10.0,Finished
+2024,2024 United States Grand Prix,George Russell,20.0,6.0,8.0,Finished
+2024,2024 United States Grand Prix,Sergio Perez,9.0,7.0,6.0,Finished
+2024,2024 United States Grand Prix,Nico Hulkenberg,11.0,8.0,4.0,Finished
+2024,2024 United States Grand Prix,Liam Lawson,19.0,9.0,2.0,Finished
+2024,2024 United States Grand Prix,Franco Colapinto,15.0,10.0,1.0,Finished
+2024,2024 United States Grand Prix,Kevin Magnussen,8.0,11.0,0.0,Finished
+2024,2024 United States Grand Prix,Pierre Gasly,6.0,12.0,0.0,Finished
+2024,2024 United States Grand Prix,Fernando Alonso,7.0,13.0,0.0,Lapped
+2024,2024 United States Grand Prix,Yuki Tsunoda,10.0,14.0,0.0,Lapped
+2024,2024 United States Grand Prix,Lance Stroll,13.0,15.0,0.0,Lapped
+2024,2024 United States Grand Prix,Alexander Albon,14.0,16.0,0.0,Lapped
+2024,2024 United States Grand Prix,Valtteri Bottas,16.0,17.0,0.0,Lapped
+2024,2024 United States Grand Prix,Esteban Ocon,12.0,18.0,0.0,Lapped
+2024,2024 United States Grand Prix,Guanyu Zhou,18.0,19.0,0.0,Lapped
+2024,2024 United States Grand Prix,Lewis Hamilton,17.0,20.0,0.0,Retired
+2024,2024 Mexico City Grand Prix,Carlos Sainz,1.0,1.0,25.0,Finished
+2024,2024 Mexico City Grand Prix,Lando Norris,3.0,2.0,18.0,Finished
+2024,2024 Mexico City Grand Prix,Charles Leclerc,4.0,3.0,16.0,Finished
+2024,2024 Mexico City Grand Prix,Lewis Hamilton,6.0,4.0,12.0,Finished
+2024,2024 Mexico City Grand Prix,George Russell,5.0,5.0,10.0,Finished
+2024,2024 Mexico City Grand Prix,Max Verstappen,2.0,6.0,8.0,Finished
+2024,2024 Mexico City Grand Prix,Kevin Magnussen,7.0,7.0,6.0,Finished
+2024,2024 Mexico City Grand Prix,Oscar Piastri,17.0,8.0,4.0,Finished
+2024,2024 Mexico City Grand Prix,Nico Hulkenberg,10.0,9.0,2.0,Lapped
+2024,2024 Mexico City Grand Prix,Pierre Gasly,8.0,10.0,1.0,Lapped
+2024,2024 Mexico City Grand Prix,Lance Stroll,14.0,11.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Franco Colapinto,16.0,12.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Esteban Ocon,0.0,13.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Valtteri Bottas,15.0,14.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Guanyu Zhou,19.0,15.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Liam Lawson,12.0,16.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Sergio Perez,18.0,17.0,0.0,Lapped
+2024,2024 Mexico City Grand Prix,Fernando Alonso,13.0,18.0,0.0,Retired
+2024,2024 Mexico City Grand Prix,Alexander Albon,9.0,19.0,0.0,Retired
+2024,2024 Mexico City Grand Prix,Yuki Tsunoda,11.0,20.0,0.0,Retired
+2024,2024 São Paulo Grand Prix,Max Verstappen,17.0,1.0,26.0,Finished
+2024,2024 São Paulo Grand Prix,Esteban Ocon,4.0,2.0,18.0,Finished
+2024,2024 São Paulo Grand Prix,Pierre Gasly,13.0,3.0,15.0,Finished
+2024,2024 São Paulo Grand Prix,George Russell,2.0,4.0,12.0,Finished
+2024,2024 São Paulo Grand Prix,Charles Leclerc,6.0,5.0,10.0,Finished
+2024,2024 São Paulo Grand Prix,Lando Norris,1.0,6.0,8.0,Finished
+2024,2024 São Paulo Grand Prix,Yuki Tsunoda,3.0,7.0,6.0,Finished
+2024,2024 São Paulo Grand Prix,Oscar Piastri,8.0,8.0,4.0,Finished
+2024,2024 São Paulo Grand Prix,Liam Lawson,5.0,9.0,2.0,Finished
+2024,2024 São Paulo Grand Prix,Lewis Hamilton,14.0,10.0,1.0,Finished
+2024,2024 São Paulo Grand Prix,Sergio Perez,12.0,11.0,0.0,Finished
+2024,2024 São Paulo Grand Prix,Oliver Bearman,15.0,12.0,0.0,Finished
+2024,2024 São Paulo Grand Prix,Valtteri Bottas,11.0,13.0,0.0,Finished
+2024,2024 São Paulo Grand Prix,Fernando Alonso,9.0,14.0,0.0,Finished
+2024,2024 São Paulo Grand Prix,Guanyu Zhou,19.0,15.0,0.0,Finished
+2024,2024 São Paulo Grand Prix,Carlos Sainz,20.0,16.0,0.0,Retired
+2024,2024 São Paulo Grand Prix,Franco Colapinto,16.0,17.0,0.0,Retired
+2024,2024 São Paulo Grand Prix,Alexander Albon,7.0,18.0,0.0,Did not start
+2024,2024 São Paulo Grand Prix,Lance Stroll,10.0,19.0,0.0,Did not start
+2024,2024 São Paulo Grand Prix,Nico Hulkenberg,18.0,20.0,0.0,Disqualified
+2024,2024 Las Vegas Grand Prix,George Russell,1.0,1.0,25.0,Finished
+2024,2024 Las Vegas Grand Prix,Lewis Hamilton,10.0,2.0,18.0,Finished
+2024,2024 Las Vegas Grand Prix,Carlos Sainz,2.0,3.0,15.0,Finished
+2024,2024 Las Vegas Grand Prix,Charles Leclerc,4.0,4.0,12.0,Finished
+2024,2024 Las Vegas Grand Prix,Max Verstappen,5.0,5.0,10.0,Finished
+2024,2024 Las Vegas Grand Prix,Lando Norris,6.0,6.0,9.0,Finished
+2024,2024 Las Vegas Grand Prix,Oscar Piastri,8.0,7.0,6.0,Finished
+2024,2024 Las Vegas Grand Prix,Nico Hulkenberg,9.0,8.0,4.0,Finished
+2024,2024 Las Vegas Grand Prix,Yuki Tsunoda,7.0,9.0,2.0,Finished
+2024,2024 Las Vegas Grand Prix,Sergio Perez,15.0,10.0,1.0,Finished
+2024,2024 Las Vegas Grand Prix,Fernando Alonso,16.0,11.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Kevin Magnussen,12.0,12.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Guanyu Zhou,13.0,13.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Franco Colapinto,20.0,14.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Lance Stroll,18.0,15.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Liam Lawson,14.0,16.0,0.0,Finished
+2024,2024 Las Vegas Grand Prix,Esteban Ocon,11.0,17.0,0.0,Lapped
+2024,2024 Las Vegas Grand Prix,Valtteri Bottas,19.0,18.0,0.0,Lapped
+2024,2024 Las Vegas Grand Prix,Alexander Albon,17.0,19.0,0.0,Retired
+2024,2024 Las Vegas Grand Prix,Pierre Gasly,3.0,20.0,0.0,Retired
+2024,2024 Qatar Grand Prix,Max Verstappen,2.0,1.0,25.0,Finished
+2024,2024 Qatar Grand Prix,Charles Leclerc,5.0,2.0,18.0,Finished
+2024,2024 Qatar Grand Prix,Oscar Piastri,4.0,3.0,15.0,Finished
+2024,2024 Qatar Grand Prix,George Russell,1.0,4.0,12.0,Finished
+2024,2024 Qatar Grand Prix,Pierre Gasly,11.0,5.0,10.0,Finished
+2024,2024 Qatar Grand Prix,Carlos Sainz,7.0,6.0,8.0,Finished
+2024,2024 Qatar Grand Prix,Fernando Alonso,8.0,7.0,6.0,Finished
+2024,2024 Qatar Grand Prix,Guanyu Zhou,12.0,8.0,4.0,Finished
+2024,2024 Qatar Grand Prix,Kevin Magnussen,10.0,9.0,2.0,Finished
+2024,2024 Qatar Grand Prix,Lando Norris,3.0,10.0,2.0,Finished
+2024,2024 Qatar Grand Prix,Valtteri Bottas,13.0,11.0,0.0,Finished
+2024,2024 Qatar Grand Prix,Lewis Hamilton,6.0,12.0,0.0,Finished
+2024,2024 Qatar Grand Prix,Yuki Tsunoda,14.0,13.0,0.0,Finished
+2024,2024 Qatar Grand Prix,Liam Lawson,17.0,14.0,0.0,Finished
+2024,2024 Qatar Grand Prix,Alexander Albon,16.0,15.0,0.0,Lapped
+2024,2024 Qatar Grand Prix,Nico Hulkenberg,18.0,16.0,0.0,Retired
+2024,2024 Qatar Grand Prix,Sergio Perez,9.0,17.0,0.0,Retired
+2024,2024 Qatar Grand Prix,Lance Stroll,15.0,18.0,0.0,Retired
+2024,2024 Qatar Grand Prix,Franco Colapinto,19.0,19.0,0.0,Retired
+2024,2024 Qatar Grand Prix,Esteban Ocon,20.0,20.0,0.0,Retired
+2024,2024 Abu Dhabi Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Carlos Sainz,3.0,2.0,18.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Charles Leclerc,19.0,3.0,15.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Lewis Hamilton,16.0,4.0,12.0,Finished
+2024,2024 Abu Dhabi Grand Prix,George Russell,6.0,5.0,10.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Max Verstappen,4.0,6.0,8.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Pierre Gasly,5.0,7.0,6.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Nico Hulkenberg,7.0,8.0,4.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Fernando Alonso,8.0,9.0,2.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Oscar Piastri,2.0,10.0,1.0,Finished
+2024,2024 Abu Dhabi Grand Prix,Alexander Albon,18.0,11.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Yuki Tsunoda,11.0,12.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Guanyu Zhou,15.0,13.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Lance Stroll,13.0,14.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Jack Doohan,17.0,15.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Kevin Magnussen,14.0,16.0,0.0,Lapped
+2024,2024 Abu Dhabi Grand Prix,Liam Lawson,12.0,17.0,0.0,Retired
+2024,2024 Abu Dhabi Grand Prix,Valtteri Bottas,9.0,18.0,0.0,Retired
+2024,2024 Abu Dhabi Grand Prix,Franco Colapinto,20.0,19.0,0.0,Retired
+2024,2024 Abu Dhabi Grand Prix,Sergio Perez,10.0,20.0,0.0,Retired
+2025,2025 Australian Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2025,2025 Australian Grand Prix,Max Verstappen,3.0,2.0,18.0,Finished
+2025,2025 Australian Grand Prix,George Russell,4.0,3.0,15.0,Finished
+2025,2025 Australian Grand Prix,Andrea Kimi Antonelli,16.0,4.0,12.0,Finished
+2025,2025 Australian Grand Prix,Alexander Albon,6.0,5.0,10.0,Finished
+2025,2025 Australian Grand Prix,Lance Stroll,13.0,6.0,8.0,Finished
+2025,2025 Australian Grand Prix,Nico Hülkenberg,17.0,7.0,6.0,Finished
+2025,2025 Australian Grand Prix,Charles Leclerc,7.0,8.0,4.0,Finished
+2025,2025 Australian Grand Prix,Oscar Piastri,2.0,9.0,2.0,Finished
+2025,2025 Australian Grand Prix,Lewis Hamilton,8.0,10.0,1.0,Finished
+2025,2025 Australian Grand Prix,Pierre Gasly,9.0,11.0,0.0,Finished
+2025,2025 Australian Grand Prix,Yuki Tsunoda,5.0,12.0,0.0,Finished
+2025,2025 Australian Grand Prix,Esteban Ocon,19.0,13.0,0.0,Finished
+2025,2025 Australian Grand Prix,Oliver Bearman,20.0,14.0,0.0,Finished
+2025,2025 Australian Grand Prix,Liam Lawson,18.0,15.0,0.0,Retired
+2025,2025 Australian Grand Prix,Gabriel Bortoleto,15.0,16.0,0.0,Retired
+2025,2025 Australian Grand Prix,Fernando Alonso,12.0,17.0,0.0,Retired
+2025,2025 Australian Grand Prix,Carlos Sainz,10.0,18.0,0.0,Retired
+2025,2025 Australian Grand Prix,Jack Doohan,14.0,19.0,0.0,Retired
+2025,2025 Australian Grand Prix,Isack Hadjar,11.0,20.0,0.0,Retired
+2025,2025 Chinese Grand Prix,Oscar Piastri,1.0,1.0,25.0,Finished
+2025,2025 Chinese Grand Prix,Lando Norris,3.0,2.0,18.0,Finished
+2025,2025 Chinese Grand Prix,George Russell,2.0,3.0,15.0,Finished
+2025,2025 Chinese Grand Prix,Max Verstappen,4.0,4.0,12.0,Finished
+2025,2025 Chinese Grand Prix,Esteban Ocon,11.0,5.0,10.0,Finished
+2025,2025 Chinese Grand Prix,Kimi Antonelli,8.0,6.0,8.0,Finished
+2025,2025 Chinese Grand Prix,Alexander Albon,10.0,7.0,6.0,Finished
+2025,2025 Chinese Grand Prix,Oliver Bearman,17.0,8.0,4.0,Finished
+2025,2025 Chinese Grand Prix,Lance Stroll,14.0,9.0,2.0,Finished
+2025,2025 Chinese Grand Prix,Carlos Sainz,15.0,10.0,1.0,Finished
+2025,2025 Chinese Grand Prix,Isack Hadjar,7.0,11.0,0.0,Finished
+2025,2025 Chinese Grand Prix,Liam Lawson,20.0,12.0,0.0,Finished
+2025,2025 Chinese Grand Prix,Jack Doohan,18.0,13.0,0.0,Finished
+2025,2025 Chinese Grand Prix,Gabriel Bortoleto,19.0,14.0,0.0,Lapped
+2025,2025 Chinese Grand Prix,Nico Hulkenberg,12.0,15.0,0.0,Lapped
+2025,2025 Chinese Grand Prix,Yuki Tsunoda,9.0,16.0,0.0,Lapped
+2025,2025 Chinese Grand Prix,Fernando Alonso,13.0,17.0,0.0,Retired
+2025,2025 Chinese Grand Prix,Charles Leclerc,6.0,18.0,0.0,Disqualified
+2025,2025 Chinese Grand Prix,Lewis Hamilton,5.0,19.0,0.0,Disqualified
+2025,2025 Chinese Grand Prix,Pierre Gasly,16.0,20.0,0.0,Disqualified
+2025,2025 Japanese Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2025,2025 Japanese Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2025,2025 Japanese Grand Prix,Oscar Piastri,3.0,3.0,15.0,Finished
+2025,2025 Japanese Grand Prix,Charles Leclerc,4.0,4.0,12.0,Finished
+2025,2025 Japanese Grand Prix,George Russell,5.0,5.0,10.0,Finished
+2025,2025 Japanese Grand Prix,Kimi Antonelli,6.0,6.0,8.0,Finished
+2025,2025 Japanese Grand Prix,Lewis Hamilton,8.0,7.0,6.0,Finished
+2025,2025 Japanese Grand Prix,Isack Hadjar,7.0,8.0,4.0,Finished
+2025,2025 Japanese Grand Prix,Alexander Albon,9.0,9.0,2.0,Finished
+2025,2025 Japanese Grand Prix,Oliver Bearman,10.0,10.0,1.0,Finished
+2025,2025 Japanese Grand Prix,Fernando Alonso,12.0,11.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Yuki Tsunoda,14.0,12.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Pierre Gasly,11.0,13.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Carlos Sainz,15.0,14.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Jack Doohan,19.0,15.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Nico Hulkenberg,16.0,16.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Liam Lawson,13.0,17.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Esteban Ocon,18.0,18.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Gabriel Bortoleto,17.0,19.0,0.0,Finished
+2025,2025 Japanese Grand Prix,Lance Stroll,20.0,20.0,0.0,Lapped
+2025,2025 Bahrain Grand Prix,Oscar Piastri,1.0,1.0,25.0,Finished
+2025,2025 Bahrain Grand Prix,George Russell,3.0,2.0,18.0,Finished
+2025,2025 Bahrain Grand Prix,Lando Norris,6.0,3.0,15.0,Finished
+2025,2025 Bahrain Grand Prix,Charles Leclerc,2.0,4.0,12.0,Finished
+2025,2025 Bahrain Grand Prix,Lewis Hamilton,9.0,5.0,10.0,Finished
+2025,2025 Bahrain Grand Prix,Max Verstappen,7.0,6.0,8.0,Finished
+2025,2025 Bahrain Grand Prix,Pierre Gasly,4.0,7.0,6.0,Finished
+2025,2025 Bahrain Grand Prix,Esteban Ocon,14.0,8.0,4.0,Finished
+2025,2025 Bahrain Grand Prix,Yuki Tsunoda,10.0,9.0,2.0,Finished
+2025,2025 Bahrain Grand Prix,Oliver Bearman,20.0,10.0,1.0,Finished
+2025,2025 Bahrain Grand Prix,Kimi Antonelli,5.0,11.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Alexander Albon,15.0,12.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Isack Hadjar,12.0,13.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Jack Doohan,11.0,14.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Fernando Alonso,13.0,15.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Liam Lawson,17.0,16.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Lance Stroll,19.0,17.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Gabriel Bortoleto,18.0,18.0,0.0,Finished
+2025,2025 Bahrain Grand Prix,Carlos Sainz,8.0,19.0,0.0,Retired
+2025,2025 Bahrain Grand Prix,Nico Hulkenberg,16.0,20.0,0.0,Disqualified
+2025,2025 Saudi Arabian Grand Prix,Oscar Piastri,2.0,1.0,25.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Max Verstappen,1.0,2.0,18.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Charles Leclerc,4.0,3.0,15.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Lando Norris,10.0,4.0,12.0,Finished
+2025,2025 Saudi Arabian Grand Prix,George Russell,3.0,5.0,10.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Kimi Antonelli,5.0,6.0,8.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Lewis Hamilton,7.0,7.0,6.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Carlos Sainz,6.0,8.0,4.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Alexander Albon,11.0,9.0,2.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Isack Hadjar,14.0,10.0,1.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Fernando Alonso,13.0,11.0,0.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Liam Lawson,12.0,12.0,0.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Oliver Bearman,15.0,13.0,0.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Esteban Ocon,19.0,14.0,0.0,Finished
+2025,2025 Saudi Arabian Grand Prix,Nico Hulkenberg,18.0,15.0,0.0,Lapped
+2025,2025 Saudi Arabian Grand Prix,Lance Stroll,16.0,16.0,0.0,Lapped
+2025,2025 Saudi Arabian Grand Prix,Jack Doohan,17.0,17.0,0.0,Lapped
+2025,2025 Saudi Arabian Grand Prix,Gabriel Bortoleto,20.0,18.0,0.0,Lapped
+2025,2025 Saudi Arabian Grand Prix,Yuki Tsunoda,8.0,19.0,0.0,Retired
+2025,2025 Saudi Arabian Grand Prix,Pierre Gasly,9.0,20.0,0.0,Retired
+2025,2025 Miami Grand Prix,Oscar Piastri,4.0,1.0,25.0,Finished
+2025,2025 Miami Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2025,2025 Miami Grand Prix,George Russell,5.0,3.0,15.0,Finished
+2025,2025 Miami Grand Prix,Max Verstappen,1.0,4.0,12.0,Finished
+2025,2025 Miami Grand Prix,Alexander Albon,7.0,5.0,10.0,Finished
+2025,2025 Miami Grand Prix,Kimi Antonelli,3.0,6.0,8.0,Finished
+2025,2025 Miami Grand Prix,Charles Leclerc,8.0,7.0,6.0,Finished
+2025,2025 Miami Grand Prix,Lewis Hamilton,12.0,8.0,4.0,Finished
+2025,2025 Miami Grand Prix,Carlos Sainz,6.0,9.0,2.0,Finished
+2025,2025 Miami Grand Prix,Yuki Tsunoda,10.0,10.0,1.0,Finished
+2025,2025 Miami Grand Prix,Isack Hadjar,11.0,11.0,0.0,Finished
+2025,2025 Miami Grand Prix,Esteban Ocon,9.0,12.0,0.0,Finished
+2025,2025 Miami Grand Prix,Pierre Gasly,20.0,13.0,0.0,Finished
+2025,2025 Miami Grand Prix,Nico Hulkenberg,16.0,14.0,0.0,Lapped
+2025,2025 Miami Grand Prix,Fernando Alonso,17.0,15.0,0.0,Lapped
+2025,2025 Miami Grand Prix,Lance Stroll,18.0,16.0,0.0,Lapped
+2025,2025 Miami Grand Prix,Liam Lawson,15.0,17.0,0.0,Retired
+2025,2025 Miami Grand Prix,Gabriel Bortoleto,13.0,18.0,0.0,Retired
+2025,2025 Miami Grand Prix,Oliver Bearman,19.0,19.0,0.0,Retired
+2025,2025 Miami Grand Prix,Jack Doohan,14.0,20.0,0.0,Retired
+2025,2025 Emilia Romagna Grand Prix,Max Verstappen,2.0,1.0,25.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Lando Norris,4.0,2.0,18.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Oscar Piastri,1.0,3.0,15.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Lewis Hamilton,12.0,4.0,12.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Alexander Albon,7.0,5.0,10.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Charles Leclerc,11.0,6.0,8.0,Finished
+2025,2025 Emilia Romagna Grand Prix,George Russell,3.0,7.0,6.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Carlos Sainz,6.0,8.0,4.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Isack Hadjar,9.0,9.0,2.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Yuki Tsunoda,20.0,10.0,1.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Fernando Alonso,5.0,11.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Nico Hulkenberg,17.0,12.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Pierre Gasly,10.0,13.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Liam Lawson,15.0,14.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Lance Stroll,8.0,15.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Franco Colapinto,16.0,16.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Oliver Bearman,19.0,17.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Gabriel Bortoleto,14.0,18.0,0.0,Finished
+2025,2025 Emilia Romagna Grand Prix,Kimi Antonelli,13.0,19.0,0.0,Retired
+2025,2025 Emilia Romagna Grand Prix,Esteban Ocon,18.0,20.0,0.0,Retired
+2025,2025 Monaco Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2025,2025 Monaco Grand Prix,Charles Leclerc,2.0,2.0,18.0,Finished
+2025,2025 Monaco Grand Prix,Oscar Piastri,3.0,3.0,15.0,Finished
+2025,2025 Monaco Grand Prix,Max Verstappen,4.0,4.0,12.0,Finished
+2025,2025 Monaco Grand Prix,Lewis Hamilton,7.0,5.0,10.0,Finished
+2025,2025 Monaco Grand Prix,Isack Hadjar,5.0,6.0,8.0,Lapped
+2025,2025 Monaco Grand Prix,Esteban Ocon,8.0,7.0,6.0,Lapped
+2025,2025 Monaco Grand Prix,Liam Lawson,9.0,8.0,4.0,Lapped
+2025,2025 Monaco Grand Prix,Alexander Albon,10.0,9.0,2.0,Lapped
+2025,2025 Monaco Grand Prix,Carlos Sainz,11.0,10.0,1.0,Lapped
+2025,2025 Monaco Grand Prix,George Russell,14.0,11.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Oliver Bearman,20.0,12.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Franco Colapinto,18.0,13.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Gabriel Bortoleto,16.0,14.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Lance Stroll,19.0,15.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Nico Hulkenberg,13.0,16.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Yuki Tsunoda,12.0,17.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Kimi Antonelli,15.0,18.0,0.0,Lapped
+2025,2025 Monaco Grand Prix,Fernando Alonso,6.0,19.0,0.0,Retired
+2025,2025 Monaco Grand Prix,Pierre Gasly,17.0,20.0,0.0,Retired
+2025,2025 Spanish Grand Prix,Oscar Piastri,1.0,1.0,25.0,Finished
+2025,2025 Spanish Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2025,2025 Spanish Grand Prix,Charles Leclerc,7.0,3.0,15.0,Finished
+2025,2025 Spanish Grand Prix,George Russell,4.0,4.0,12.0,Finished
+2025,2025 Spanish Grand Prix,Nico Hulkenberg,15.0,5.0,10.0,Finished
+2025,2025 Spanish Grand Prix,Lewis Hamilton,5.0,6.0,8.0,Finished
+2025,2025 Spanish Grand Prix,Isack Hadjar,9.0,7.0,6.0,Finished
+2025,2025 Spanish Grand Prix,Pierre Gasly,8.0,8.0,4.0,Finished
+2025,2025 Spanish Grand Prix,Fernando Alonso,10.0,9.0,2.0,Finished
+2025,2025 Spanish Grand Prix,Max Verstappen,3.0,10.0,1.0,Finished
+2025,2025 Spanish Grand Prix,Liam Lawson,13.0,11.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Gabriel Bortoleto,12.0,12.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Yuki Tsunoda,19.0,13.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Carlos Sainz,17.0,14.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Franco Colapinto,18.0,15.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Esteban Ocon,16.0,16.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Oliver Bearman,14.0,17.0,0.0,Finished
+2025,2025 Spanish Grand Prix,Kimi Antonelli,6.0,18.0,0.0,Retired
+2025,2025 Spanish Grand Prix,Alexander Albon,11.0,19.0,0.0,Retired
+2025,2025 Canadian Grand Prix,George Russell,1.0,1.0,25.0,Finished
+2025,2025 Canadian Grand Prix,Max Verstappen,2.0,2.0,18.0,Finished
+2025,2025 Canadian Grand Prix,Kimi Antonelli,4.0,3.0,15.0,Finished
+2025,2025 Canadian Grand Prix,Oscar Piastri,3.0,4.0,12.0,Finished
+2025,2025 Canadian Grand Prix,Charles Leclerc,8.0,5.0,10.0,Finished
+2025,2025 Canadian Grand Prix,Lewis Hamilton,5.0,6.0,8.0,Finished
+2025,2025 Canadian Grand Prix,Fernando Alonso,6.0,7.0,6.0,Finished
+2025,2025 Canadian Grand Prix,Nico Hulkenberg,11.0,8.0,4.0,Finished
+2025,2025 Canadian Grand Prix,Esteban Ocon,14.0,9.0,2.0,Lapped
+2025,2025 Canadian Grand Prix,Carlos Sainz,16.0,10.0,1.0,Lapped
+2025,2025 Canadian Grand Prix,Oliver Bearman,13.0,11.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Yuki Tsunoda,18.0,12.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Franco Colapinto,10.0,13.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Gabriel Bortoleto,15.0,14.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Pierre Gasly,20.0,15.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Isack Hadjar,12.0,16.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Lance Stroll,17.0,17.0,0.0,Lapped
+2025,2025 Canadian Grand Prix,Lando Norris,7.0,18.0,0.0,Retired
+2025,2025 Canadian Grand Prix,Liam Lawson,19.0,19.0,0.0,Retired
+2025,2025 Canadian Grand Prix,Alexander Albon,9.0,20.0,0.0,Retired
+2025,2025 Austrian Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2025,2025 Austrian Grand Prix,Oscar Piastri,3.0,2.0,18.0,Finished
+2025,2025 Austrian Grand Prix,Charles Leclerc,2.0,3.0,15.0,Finished
+2025,2025 Austrian Grand Prix,Lewis Hamilton,4.0,4.0,12.0,Finished
+2025,2025 Austrian Grand Prix,George Russell,5.0,5.0,10.0,Finished
+2025,2025 Austrian Grand Prix,Liam Lawson,6.0,6.0,8.0,Finished
+2025,2025 Austrian Grand Prix,Fernando Alonso,11.0,7.0,6.0,Lapped
+2025,2025 Austrian Grand Prix,Gabriel Bortoleto,8.0,8.0,4.0,Lapped
+2025,2025 Austrian Grand Prix,Nico Hulkenberg,20.0,9.0,2.0,Lapped
+2025,2025 Austrian Grand Prix,Esteban Ocon,17.0,10.0,1.0,Lapped
+2025,2025 Austrian Grand Prix,Oliver Bearman,15.0,11.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Isack Hadjar,13.0,12.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Pierre Gasly,10.0,13.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Lance Stroll,16.0,14.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Franco Colapinto,14.0,15.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Yuki Tsunoda,18.0,16.0,0.0,Lapped
+2025,2025 Austrian Grand Prix,Alexander Albon,12.0,17.0,0.0,Retired
+2025,2025 Austrian Grand Prix,Max Verstappen,7.0,18.0,0.0,Retired
+2025,2025 Austrian Grand Prix,Kimi Antonelli,9.0,19.0,0.0,Retired
+2025,2025 Austrian Grand Prix,Carlos Sainz,19.0,20.0,0.0,Did not start
+2025,2025 British Grand Prix,Lando Norris,3.0,1.0,25.0,Finished
+2025,2025 British Grand Prix,Oscar Piastri,2.0,2.0,18.0,Finished
+2025,2025 British Grand Prix,Nico Hulkenberg,19.0,3.0,15.0,Finished
+2025,2025 British Grand Prix,Lewis Hamilton,5.0,4.0,12.0,Finished
+2025,2025 British Grand Prix,Max Verstappen,1.0,5.0,10.0,Finished
+2025,2025 British Grand Prix,Pierre Gasly,8.0,6.0,8.0,Finished
+2025,2025 British Grand Prix,Lance Stroll,17.0,7.0,6.0,Finished
+2025,2025 British Grand Prix,Alexander Albon,13.0,8.0,4.0,Finished
+2025,2025 British Grand Prix,Fernando Alonso,7.0,9.0,2.0,Finished
+2025,2025 British Grand Prix,George Russell,4.0,10.0,1.0,Finished
+2025,2025 British Grand Prix,Oliver Bearman,18.0,11.0,0.0,Finished
+2025,2025 British Grand Prix,Carlos Sainz,9.0,12.0,0.0,Finished
+2025,2025 British Grand Prix,Esteban Ocon,14.0,13.0,0.0,Finished
+2025,2025 British Grand Prix,Charles Leclerc,6.0,14.0,0.0,Finished
+2025,2025 British Grand Prix,Yuki Tsunoda,11.0,15.0,0.0,Lapped
+2025,2025 British Grand Prix,Kimi Antonelli,10.0,16.0,0.0,Retired
+2025,2025 British Grand Prix,Isack Hadjar,12.0,17.0,0.0,Retired
+2025,2025 British Grand Prix,Gabriel Bortoleto,16.0,18.0,0.0,Retired
+2025,2025 British Grand Prix,Liam Lawson,15.0,19.0,0.0,Retired
+2025,2025 British Grand Prix,Franco Colapinto,20.0,20.0,0.0,Did not start
+2025,2025 Belgian Grand Prix,Oscar Piastri,2.0,1.0,25.0,Finished
+2025,2025 Belgian Grand Prix,Lando Norris,1.0,2.0,18.0,Finished
+2025,2025 Belgian Grand Prix,Charles Leclerc,3.0,3.0,15.0,Finished
+2025,2025 Belgian Grand Prix,Max Verstappen,4.0,4.0,12.0,Finished
+2025,2025 Belgian Grand Prix,George Russell,6.0,5.0,10.0,Finished
+2025,2025 Belgian Grand Prix,Alexander Albon,5.0,6.0,8.0,Finished
+2025,2025 Belgian Grand Prix,Lewis Hamilton,18.0,7.0,6.0,Finished
+2025,2025 Belgian Grand Prix,Liam Lawson,9.0,8.0,4.0,Finished
+2025,2025 Belgian Grand Prix,Gabriel Bortoleto,10.0,9.0,2.0,Finished
+2025,2025 Belgian Grand Prix,Pierre Gasly,13.0,10.0,1.0,Finished
+2025,2025 Belgian Grand Prix,Oliver Bearman,12.0,11.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Nico Hulkenberg,14.0,12.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Yuki Tsunoda,7.0,13.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Lance Stroll,16.0,14.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Esteban Ocon,11.0,15.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Kimi Antonelli,19.0,16.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Fernando Alonso,20.0,17.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Carlos Sainz,17.0,18.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Franco Colapinto,15.0,19.0,0.0,Finished
+2025,2025 Belgian Grand Prix,Isack Hadjar,8.0,20.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Lando Norris,3.0,1.0,25.0,Finished
+2025,2025 Hungarian Grand Prix,Oscar Piastri,2.0,2.0,18.0,Finished
+2025,2025 Hungarian Grand Prix,George Russell,4.0,3.0,15.0,Finished
+2025,2025 Hungarian Grand Prix,Charles Leclerc,1.0,4.0,12.0,Finished
+2025,2025 Hungarian Grand Prix,Fernando Alonso,5.0,5.0,10.0,Finished
+2025,2025 Hungarian Grand Prix,Gabriel Bortoleto,7.0,6.0,8.0,Finished
+2025,2025 Hungarian Grand Prix,Lance Stroll,6.0,7.0,6.0,Finished
+2025,2025 Hungarian Grand Prix,Liam Lawson,9.0,8.0,4.0,Finished
+2025,2025 Hungarian Grand Prix,Max Verstappen,8.0,9.0,2.0,Finished
+2025,2025 Hungarian Grand Prix,Kimi Antonelli,15.0,10.0,1.0,Lapped
+2025,2025 Hungarian Grand Prix,Isack Hadjar,10.0,11.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Lewis Hamilton,12.0,12.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Nico Hulkenberg,18.0,13.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Carlos Sainz,13.0,14.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Alexander Albon,19.0,15.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Esteban Ocon,17.0,16.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Yuki Tsunoda,20.0,17.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Franco Colapinto,14.0,18.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Pierre Gasly,16.0,19.0,0.0,Lapped
+2025,2025 Hungarian Grand Prix,Oliver Bearman,11.0,20.0,0.0,Retired
+2025,2025 Dutch Grand Prix,Oscar Piastri,1.0,1.0,25.0,Finished
+2025,2025 Dutch Grand Prix,Max Verstappen,3.0,2.0,18.0,Finished
+2025,2025 Dutch Grand Prix,Isack Hadjar,4.0,3.0,15.0,Finished
+2025,2025 Dutch Grand Prix,George Russell,5.0,4.0,12.0,Finished
+2025,2025 Dutch Grand Prix,Alexander Albon,15.0,5.0,10.0,Finished
+2025,2025 Dutch Grand Prix,Oliver Bearman,20.0,6.0,8.0,Finished
+2025,2025 Dutch Grand Prix,Lance Stroll,19.0,7.0,6.0,Finished
+2025,2025 Dutch Grand Prix,Fernando Alonso,10.0,8.0,4.0,Finished
+2025,2025 Dutch Grand Prix,Yuki Tsunoda,12.0,9.0,2.0,Finished
+2025,2025 Dutch Grand Prix,Esteban Ocon,18.0,10.0,1.0,Finished
+2025,2025 Dutch Grand Prix,Franco Colapinto,16.0,11.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Liam Lawson,8.0,12.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Carlos Sainz,9.0,13.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Nico Hulkenberg,17.0,14.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Gabriel Bortoleto,13.0,15.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Kimi Antonelli,11.0,16.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Pierre Gasly,14.0,17.0,0.0,Finished
+2025,2025 Dutch Grand Prix,Lando Norris,2.0,18.0,0.0,Retired
+2025,2025 Dutch Grand Prix,Charles Leclerc,6.0,19.0,0.0,Retired
+2025,2025 Dutch Grand Prix,Lewis Hamilton,7.0,20.0,0.0,Retired
+2025,2025 Italian Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2025,2025 Italian Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2025,2025 Italian Grand Prix,Oscar Piastri,3.0,3.0,15.0,Finished
+2025,2025 Italian Grand Prix,Charles Leclerc,4.0,4.0,12.0,Finished
+2025,2025 Italian Grand Prix,George Russell,5.0,5.0,10.0,Finished
+2025,2025 Italian Grand Prix,Lewis Hamilton,10.0,6.0,8.0,Finished
+2025,2025 Italian Grand Prix,Alexander Albon,14.0,7.0,6.0,Finished
+2025,2025 Italian Grand Prix,Gabriel Bortoleto,7.0,8.0,4.0,Finished
+2025,2025 Italian Grand Prix,Kimi Antonelli,6.0,9.0,2.0,Finished
+2025,2025 Italian Grand Prix,Isack Hadjar,19.0,10.0,1.0,Finished
+2025,2025 Italian Grand Prix,Carlos Sainz,13.0,11.0,0.0,Finished
+2025,2025 Italian Grand Prix,Oliver Bearman,11.0,12.0,0.0,Finished
+2025,2025 Italian Grand Prix,Yuki Tsunoda,9.0,13.0,0.0,Finished
+2025,2025 Italian Grand Prix,Liam Lawson,18.0,14.0,0.0,Finished
+2025,2025 Italian Grand Prix,Esteban Ocon,15.0,15.0,0.0,Lapped
+2025,2025 Italian Grand Prix,Pierre Gasly,20.0,16.0,0.0,Lapped
+2025,2025 Italian Grand Prix,Franco Colapinto,17.0,17.0,0.0,Lapped
+2025,2025 Italian Grand Prix,Lance Stroll,16.0,18.0,0.0,Lapped
+2025,2025 Italian Grand Prix,Fernando Alonso,8.0,19.0,0.0,Retired
+2025,2025 Italian Grand Prix,Nico Hulkenberg,12.0,20.0,0.0,Did not start
+2025,2025 Azerbaijan Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2025,2025 Azerbaijan Grand Prix,George Russell,5.0,2.0,18.0,Finished
+2025,2025 Azerbaijan Grand Prix,Carlos Sainz,2.0,3.0,15.0,Finished
+2025,2025 Azerbaijan Grand Prix,Kimi Antonelli,4.0,4.0,12.0,Finished
+2025,2025 Azerbaijan Grand Prix,Liam Lawson,3.0,5.0,10.0,Finished
+2025,2025 Azerbaijan Grand Prix,Yuki Tsunoda,6.0,6.0,8.0,Finished
+2025,2025 Azerbaijan Grand Prix,Lando Norris,7.0,7.0,6.0,Finished
+2025,2025 Azerbaijan Grand Prix,Lewis Hamilton,12.0,8.0,4.0,Finished
+2025,2025 Azerbaijan Grand Prix,Charles Leclerc,10.0,9.0,2.0,Finished
+2025,2025 Azerbaijan Grand Prix,Isack Hadjar,8.0,10.0,1.0,Finished
+2025,2025 Azerbaijan Grand Prix,Gabriel Bortoleto,13.0,11.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Oliver Bearman,15.0,12.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Alexander Albon,19.0,13.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Esteban Ocon,20.0,14.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Fernando Alonso,11.0,15.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Nico Hulkenberg,17.0,16.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Lance Stroll,14.0,17.0,0.0,Finished
+2025,2025 Azerbaijan Grand Prix,Pierre Gasly,18.0,18.0,0.0,Lapped
+2025,2025 Azerbaijan Grand Prix,Franco Colapinto,16.0,19.0,0.0,Lapped
+2025,2025 Azerbaijan Grand Prix,Oscar Piastri,9.0,20.0,0.0,Retired
+2025,2025 Singapore Grand Prix,George Russell,1.0,1.0,25.0,Finished
+2025,2025 Singapore Grand Prix,Max Verstappen,2.0,2.0,18.0,Finished
+2025,2025 Singapore Grand Prix,Lando Norris,5.0,3.0,15.0,Finished
+2025,2025 Singapore Grand Prix,Oscar Piastri,3.0,4.0,12.0,Finished
+2025,2025 Singapore Grand Prix,Kimi Antonelli,4.0,5.0,10.0,Finished
+2025,2025 Singapore Grand Prix,Charles Leclerc,7.0,6.0,8.0,Finished
+2025,2025 Singapore Grand Prix,Fernando Alonso,10.0,7.0,6.0,Finished
+2025,2025 Singapore Grand Prix,Lewis Hamilton,6.0,8.0,4.0,Finished
+2025,2025 Singapore Grand Prix,Oliver Bearman,9.0,9.0,2.0,Finished
+2025,2025 Singapore Grand Prix,Carlos Sainz,18.0,10.0,1.0,Lapped
+2025,2025 Singapore Grand Prix,Isack Hadjar,8.0,11.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Yuki Tsunoda,13.0,12.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Lance Stroll,15.0,13.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Alexander Albon,20.0,14.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Liam Lawson,12.0,15.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Franco Colapinto,16.0,16.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Gabriel Bortoleto,14.0,17.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Esteban Ocon,17.0,18.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Pierre Gasly,19.0,19.0,0.0,Lapped
+2025,2025 Singapore Grand Prix,Nico Hulkenberg,11.0,20.0,0.0,Lapped
+2025,2025 United States Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2025,2025 United States Grand Prix,Lando Norris,2.0,2.0,18.0,Finished
+2025,2025 United States Grand Prix,Charles Leclerc,3.0,3.0,15.0,Finished
+2025,2025 United States Grand Prix,Lewis Hamilton,5.0,4.0,12.0,Finished
+2025,2025 United States Grand Prix,Oscar Piastri,6.0,5.0,10.0,Finished
+2025,2025 United States Grand Prix,George Russell,4.0,6.0,8.0,Finished
+2025,2025 United States Grand Prix,Yuki Tsunoda,13.0,7.0,6.0,Finished
+2025,2025 United States Grand Prix,Nico Hulkenberg,11.0,8.0,4.0,Finished
+2025,2025 United States Grand Prix,Oliver Bearman,8.0,9.0,2.0,Finished
+2025,2025 United States Grand Prix,Fernando Alonso,10.0,10.0,1.0,Finished
+2025,2025 United States Grand Prix,Liam Lawson,12.0,11.0,0.0,Finished
+2025,2025 United States Grand Prix,Lance Stroll,19.0,12.0,0.0,Finished
+2025,2025 United States Grand Prix,Kimi Antonelli,7.0,13.0,0.0,Finished
+2025,2025 United States Grand Prix,Alexander Albon,18.0,14.0,0.0,Finished
+2025,2025 United States Grand Prix,Esteban Ocon,17.0,15.0,0.0,Finished
+2025,2025 United States Grand Prix,Isack Hadjar,20.0,16.0,0.0,Finished
+2025,2025 United States Grand Prix,Franco Colapinto,15.0,17.0,0.0,Lapped
+2025,2025 United States Grand Prix,Gabriel Bortoleto,16.0,18.0,0.0,Lapped
+2025,2025 United States Grand Prix,Pierre Gasly,14.0,19.0,0.0,Lapped
+2025,2025 United States Grand Prix,Carlos Sainz,9.0,20.0,0.0,Retired
+2025,2025 Mexico City Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2025,2025 Mexico City Grand Prix,Charles Leclerc,2.0,2.0,18.0,Finished
+2025,2025 Mexico City Grand Prix,Max Verstappen,5.0,3.0,15.0,Finished
+2025,2025 Mexico City Grand Prix,Oliver Bearman,9.0,4.0,12.0,Finished
+2025,2025 Mexico City Grand Prix,Oscar Piastri,7.0,5.0,10.0,Finished
+2025,2025 Mexico City Grand Prix,Kimi Antonelli,6.0,6.0,8.0,Finished
+2025,2025 Mexico City Grand Prix,George Russell,4.0,7.0,6.0,Finished
+2025,2025 Mexico City Grand Prix,Lewis Hamilton,3.0,8.0,4.0,Finished
+2025,2025 Mexico City Grand Prix,Esteban Ocon,11.0,9.0,2.0,Finished
+2025,2025 Mexico City Grand Prix,Gabriel Bortoleto,16.0,10.0,1.0,Finished
+2025,2025 Mexico City Grand Prix,Yuki Tsunoda,10.0,11.0,0.0,Finished
+2025,2025 Mexico City Grand Prix,Alexander Albon,17.0,12.0,0.0,Lapped
+2025,2025 Mexico City Grand Prix,Isack Hadjar,8.0,13.0,0.0,Lapped
+2025,2025 Mexico City Grand Prix,Lance Stroll,19.0,14.0,0.0,Lapped
+2025,2025 Mexico City Grand Prix,Pierre Gasly,18.0,15.0,0.0,Lapped
+2025,2025 Mexico City Grand Prix,Franco Colapinto,20.0,16.0,0.0,Lapped
+2025,2025 Mexico City Grand Prix,Carlos Sainz,12.0,17.0,0.0,Retired
+2025,2025 Mexico City Grand Prix,Fernando Alonso,14.0,18.0,0.0,Retired
+2025,2025 Mexico City Grand Prix,Nico Hulkenberg,13.0,19.0,0.0,Retired
+2025,2025 Mexico City Grand Prix,Liam Lawson,15.0,20.0,0.0,Retired
+2025,2025 São Paulo Grand Prix,Lando Norris,1.0,1.0,25.0,Finished
+2025,2025 São Paulo Grand Prix,Kimi Antonelli,2.0,2.0,18.0,Finished
+2025,2025 São Paulo Grand Prix,Max Verstappen,19.0,3.0,15.0,Finished
+2025,2025 São Paulo Grand Prix,George Russell,6.0,4.0,12.0,Finished
+2025,2025 São Paulo Grand Prix,Oscar Piastri,4.0,5.0,10.0,Finished
+2025,2025 São Paulo Grand Prix,Oliver Bearman,8.0,6.0,8.0,Finished
+2025,2025 São Paulo Grand Prix,Liam Lawson,7.0,7.0,6.0,Finished
+2025,2025 São Paulo Grand Prix,Isack Hadjar,5.0,8.0,4.0,Finished
+2025,2025 São Paulo Grand Prix,Nico Hulkenberg,10.0,9.0,2.0,Finished
+2025,2025 São Paulo Grand Prix,Pierre Gasly,9.0,10.0,1.0,Finished
+2025,2025 São Paulo Grand Prix,Alexander Albon,12.0,11.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Esteban Ocon,20.0,12.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Carlos Sainz,15.0,13.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Fernando Alonso,11.0,14.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Franco Colapinto,16.0,15.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Lance Stroll,14.0,16.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Yuki Tsunoda,17.0,17.0,0.0,Finished
+2025,2025 São Paulo Grand Prix,Lewis Hamilton,13.0,18.0,0.0,Retired
+2025,2025 São Paulo Grand Prix,Charles Leclerc,3.0,19.0,0.0,Retired
+2025,2025 São Paulo Grand Prix,Gabriel Bortoleto,18.0,20.0,0.0,Retired
+2025,2025 Las Vegas Grand Prix,Max Verstappen,2.0,1.0,25.0,Finished
+2025,2025 Las Vegas Grand Prix,George Russell,4.0,2.0,18.0,Finished
+2025,2025 Las Vegas Grand Prix,Kimi Antonelli,17.0,3.0,15.0,Finished
+2025,2025 Las Vegas Grand Prix,Charles Leclerc,9.0,4.0,12.0,Finished
+2025,2025 Las Vegas Grand Prix,Carlos Sainz,3.0,5.0,10.0,Finished
+2025,2025 Las Vegas Grand Prix,Isack Hadjar,8.0,6.0,8.0,Finished
+2025,2025 Las Vegas Grand Prix,Nico Hulkenberg,11.0,7.0,6.0,Finished
+2025,2025 Las Vegas Grand Prix,Lewis Hamilton,19.0,8.0,4.0,Finished
+2025,2025 Las Vegas Grand Prix,Esteban Ocon,13.0,9.0,2.0,Finished
+2025,2025 Las Vegas Grand Prix,Oliver Bearman,14.0,10.0,1.0,Finished
+2025,2025 Las Vegas Grand Prix,Fernando Alonso,7.0,11.0,0.0,Finished
+2025,2025 Las Vegas Grand Prix,Yuki Tsunoda,20.0,12.0,0.0,Finished
+2025,2025 Las Vegas Grand Prix,Pierre Gasly,10.0,13.0,0.0,Finished
+2025,2025 Las Vegas Grand Prix,Liam Lawson,6.0,14.0,0.0,Lapped
+2025,2025 Las Vegas Grand Prix,Franco Colapinto,15.0,15.0,0.0,Lapped
+2025,2025 Las Vegas Grand Prix,Alexander Albon,16.0,16.0,0.0,Retired
+2025,2025 Las Vegas Grand Prix,Gabriel Bortoleto,18.0,17.0,0.0,Retired
+2025,2025 Las Vegas Grand Prix,Lance Stroll,12.0,18.0,0.0,Retired
+2025,2025 Las Vegas Grand Prix,Lando Norris,1.0,19.0,0.0,Disqualified
+2025,2025 Las Vegas Grand Prix,Oscar Piastri,5.0,20.0,0.0,Disqualified
+2025,2025 Qatar Grand Prix,Max Verstappen,3.0,1.0,25.0,Finished
+2025,2025 Qatar Grand Prix,Oscar Piastri,1.0,2.0,18.0,Finished
+2025,2025 Qatar Grand Prix,Carlos Sainz,7.0,3.0,15.0,Finished
+2025,2025 Qatar Grand Prix,Lando Norris,2.0,4.0,12.0,Finished
+2025,2025 Qatar Grand Prix,Kimi Antonelli,5.0,5.0,10.0,Finished
+2025,2025 Qatar Grand Prix,George Russell,4.0,6.0,8.0,Finished
+2025,2025 Qatar Grand Prix,Fernando Alonso,8.0,7.0,6.0,Finished
+2025,2025 Qatar Grand Prix,Charles Leclerc,10.0,8.0,4.0,Finished
+2025,2025 Qatar Grand Prix,Liam Lawson,12.0,9.0,2.0,Finished
+2025,2025 Qatar Grand Prix,Yuki Tsunoda,15.0,10.0,1.0,Finished
+2025,2025 Qatar Grand Prix,Alexander Albon,14.0,11.0,0.0,Finished
+2025,2025 Qatar Grand Prix,Lewis Hamilton,17.0,12.0,0.0,Finished
+2025,2025 Qatar Grand Prix,Gabriel Bortoleto,19.0,13.0,0.0,Finished
+2025,2025 Qatar Grand Prix,Franco Colapinto,20.0,14.0,0.0,Lapped
+2025,2025 Qatar Grand Prix,Esteban Ocon,16.0,15.0,0.0,Lapped
+2025,2025 Qatar Grand Prix,Pierre Gasly,9.0,16.0,0.0,Lapped
+2025,2025 Qatar Grand Prix,Lance Stroll,18.0,17.0,0.0,Retired
+2025,2025 Qatar Grand Prix,Isack Hadjar,6.0,18.0,0.0,Retired
+2025,2025 Qatar Grand Prix,Oliver Bearman,13.0,19.0,0.0,Retired
+2025,2025 Qatar Grand Prix,Nico Hulkenberg,11.0,20.0,0.0,Retired
+2025,2025 Abu Dhabi Grand Prix,Max Verstappen,1.0,1.0,25.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Oscar Piastri,3.0,2.0,18.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Lando Norris,2.0,3.0,15.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Charles Leclerc,5.0,4.0,12.0,Finished
+2025,2025 Abu Dhabi Grand Prix,George Russell,4.0,5.0,10.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Fernando Alonso,6.0,6.0,8.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Esteban Ocon,8.0,7.0,6.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Lewis Hamilton,16.0,8.0,4.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Nico Hulkenberg,18.0,9.0,2.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Lance Stroll,15.0,10.0,1.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Gabriel Bortoleto,7.0,11.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Oliver Bearman,11.0,12.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Carlos Sainz,12.0,13.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Yuki Tsunoda,10.0,14.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Kimi Antonelli,14.0,15.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Alexander Albon,17.0,16.0,0.0,Finished
+2025,2025 Abu Dhabi Grand Prix,Isack Hadjar,9.0,17.0,0.0,Lapped
+2025,2025 Abu Dhabi Grand Prix,Liam Lawson,13.0,18.0,0.0,Lapped
+2025,2025 Abu Dhabi Grand Prix,Pierre Gasly,19.0,19.0,0.0,Lapped
+2025,2025 Abu Dhabi Grand Prix,Franco Colapinto,20.0,20.0,0.0,Lapped
+2026,2026 Australian Grand Prix,George Russell,1.0,1.0,25.0,Finished
+2026,2026 Australian Grand Prix,Kimi Antonelli,2.0,2.0,18.0,Finished
+2026,2026 Australian Grand Prix,Charles Leclerc,4.0,3.0,15.0,Finished
+2026,2026 Australian Grand Prix,Lewis Hamilton,7.0,4.0,12.0,Finished
+2026,2026 Australian Grand Prix,Lando Norris,6.0,5.0,10.0,Finished
+2026,2026 Australian Grand Prix,Max Verstappen,20.0,6.0,8.0,Finished
+2026,2026 Australian Grand Prix,Oliver Bearman,12.0,7.0,6.0,Lapped
+2026,2026 Australian Grand Prix,Arvid Lindblad,9.0,8.0,4.0,Lapped
+2026,2026 Australian Grand Prix,Gabriel Bortoleto,10.0,9.0,2.0,Lapped
+2026,2026 Australian Grand Prix,Pierre Gasly,14.0,10.0,1.0,Lapped
+2026,2026 Australian Grand Prix,Esteban Ocon,13.0,11.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Alexander Albon,15.0,12.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Liam Lawson,8.0,13.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Franco Colapinto,16.0,14.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Carlos Sainz,21.0,15.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Sergio Perez,18.0,16.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Lance Stroll,22.0,17.0,0.0,Lapped
+2026,2026 Australian Grand Prix,Fernando Alonso,17.0,18.0,0.0,Retired
+2026,2026 Australian Grand Prix,Valtteri Bottas,19.0,19.0,0.0,Retired
+2026,2026 Australian Grand Prix,Isack Hadjar,3.0,20.0,0.0,Retired
+2026,2026 Australian Grand Prix,Oscar Piastri,5.0,21.0,0.0,Did not start
+2026,2026 Australian Grand Prix,Nico Hulkenberg,11.0,22.0,0.0,Did not start
+2026,2026 Chinese Grand Prix,Kimi Antonelli,1.0,1.0,25.0,Finished
+2026,2026 Chinese Grand Prix,George Russell,2.0,2.0,18.0,Finished
+2026,2026 Chinese Grand Prix,Lewis Hamilton,3.0,3.0,15.0,Finished
+2026,2026 Chinese Grand Prix,Charles Leclerc,4.0,4.0,12.0,Finished
+2026,2026 Chinese Grand Prix,Oliver Bearman,10.0,5.0,10.0,Finished
+2026,2026 Chinese Grand Prix,Pierre Gasly,7.0,6.0,8.0,Finished
+2026,2026 Chinese Grand Prix,Liam Lawson,14.0,7.0,6.0,Finished
+2026,2026 Chinese Grand Prix,Isack Hadjar,9.0,8.0,4.0,Finished
+2026,2026 Chinese Grand Prix,Carlos Sainz,17.0,9.0,2.0,Lapped
+2026,2026 Chinese Grand Prix,Franco Colapinto,12.0,10.0,1.0,Lapped
+2026,2026 Chinese Grand Prix,Nico Hulkenberg,11.0,11.0,0.0,Lapped
+2026,2026 Chinese Grand Prix,Arvid Lindblad,15.0,12.0,0.0,Lapped
+2026,2026 Chinese Grand Prix,Valtteri Bottas,19.0,13.0,0.0,Lapped
+2026,2026 Chinese Grand Prix,Esteban Ocon,13.0,14.0,0.0,Lapped
+2026,2026 Chinese Grand Prix,Sergio Perez,21.0,15.0,0.0,Lapped
+2026,2026 Chinese Grand Prix,Max Verstappen,8.0,16.0,0.0,Retired
+2026,2026 Chinese Grand Prix,Fernando Alonso,18.0,17.0,0.0,Retired
+2026,2026 Chinese Grand Prix,Lance Stroll,20.0,18.0,0.0,Retired
+2026,2026 Chinese Grand Prix,Oscar Piastri,5.0,19.0,0.0,Did not start
+2026,2026 Chinese Grand Prix,Lando Norris,6.0,20.0,0.0,Did not start
+2026,2026 Chinese Grand Prix,Gabriel Bortoleto,16.0,21.0,0.0,Did not start
+2026,2026 Chinese Grand Prix,Alexander Albon,22.0,22.0,0.0,Did not start
+2026,2026 Japanese Grand Prix,Kimi Antonelli,1.0,1.0,25.0,Finished
+2026,2026 Japanese Grand Prix,Oscar Piastri,3.0,2.0,18.0,Finished
+2026,2026 Japanese Grand Prix,Charles Leclerc,4.0,3.0,15.0,Finished
+2026,2026 Japanese Grand Prix,George Russell,2.0,4.0,12.0,Finished
+2026,2026 Japanese Grand Prix,Lando Norris,5.0,5.0,10.0,Finished
+2026,2026 Japanese Grand Prix,Lewis Hamilton,6.0,6.0,8.0,Finished
+2026,2026 Japanese Grand Prix,Pierre Gasly,7.0,7.0,6.0,Finished
+2026,2026 Japanese Grand Prix,Max Verstappen,11.0,8.0,4.0,Finished
+2026,2026 Japanese Grand Prix,Liam Lawson,14.0,9.0,2.0,Finished
+2026,2026 Japanese Grand Prix,Esteban Ocon,12.0,10.0,1.0,Finished
+2026,2026 Japanese Grand Prix,Nico Hulkenberg,13.0,11.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Isack Hadjar,8.0,12.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Gabriel Bortoleto,9.0,13.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Arvid Lindblad,10.0,14.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Carlos Sainz,16.0,15.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Franco Colapinto,15.0,16.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Sergio Perez,19.0,17.0,0.0,Finished
+2026,2026 Japanese Grand Prix,Fernando Alonso,21.0,18.0,0.0,Lapped
+2026,2026 Japanese Grand Prix,Valtteri Bottas,20.0,19.0,0.0,Lapped
+2026,2026 Japanese Grand Prix,Alexander Albon,17.0,20.0,0.0,Lapped
+2026,2026 Japanese Grand Prix,Lance Stroll,22.0,21.0,0.0,Retired
+2026,2026 Japanese Grand Prix,Oliver Bearman,18.0,22.0,0.0,Retired
+2026,2026 Miami Grand Prix,Kimi Antonelli,1.0,1.0,25.0,Finished
+2026,2026 Miami Grand Prix,Lando Norris,4.0,2.0,18.0,Finished
+2026,2026 Miami Grand Prix,Oscar Piastri,7.0,3.0,15.0,Finished
+2026,2026 Miami Grand Prix,George Russell,5.0,4.0,12.0,Finished
+2026,2026 Miami Grand Prix,Max Verstappen,2.0,5.0,10.0,Finished
+2026,2026 Miami Grand Prix,Lewis Hamilton,6.0,6.0,8.0,Finished
+2026,2026 Miami Grand Prix,Franco Colapinto,8.0,7.0,6.0,Finished
+2026,2026 Miami Grand Prix,Charles Leclerc,3.0,8.0,4.0,Finished
+2026,2026 Miami Grand Prix,Carlos Sainz,13.0,9.0,2.0,Finished
+2026,2026 Miami Grand Prix,Alexander Albon,15.0,10.0,1.0,Finished
+2026,2026 Miami Grand Prix,Oliver Bearman,12.0,11.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Gabriel Bortoleto,21.0,12.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Esteban Ocon,14.0,13.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Arvid Lindblad,16.0,14.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Fernando Alonso,17.0,15.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Sergio Perez,20.0,16.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Lance Stroll,18.0,17.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Valtteri Bottas,19.0,18.0,0.0,Lapped
+2026,2026 Miami Grand Prix,Nico Hulkenberg,10.0,19.0,0.0,Retired
+2026,2026 Miami Grand Prix,Liam Lawson,11.0,20.0,0.0,Retired
+2026,2026 Miami Grand Prix,Pierre Gasly,9.0,21.0,0.0,Retired
+2026,2026 Miami Grand Prix,Isack Hadjar,22.0,22.0,0.0,Retired
+2026,2026 Canadian Grand Prix,Kimi Antonelli,2.0,1.0,25.0,Finished
+2026,2026 Canadian Grand Prix,Lewis Hamilton,5.0,2.0,18.0,Finished
+2026,2026 Canadian Grand Prix,Max Verstappen,6.0,3.0,15.0,Finished
+2026,2026 Canadian Grand Prix,Charles Leclerc,8.0,4.0,12.0,Finished
+2026,2026 Canadian Grand Prix,Isack Hadjar,7.0,5.0,10.0,Lapped
+2026,2026 Canadian Grand Prix,Franco Colapinto,10.0,6.0,8.0,Lapped
+2026,2026 Canadian Grand Prix,Liam Lawson,12.0,7.0,6.0,Lapped
+2026,2026 Canadian Grand Prix,Pierre Gasly,14.0,8.0,4.0,Lapped
+2026,2026 Canadian Grand Prix,Carlos Sainz,15.0,9.0,2.0,Lapped
+2026,2026 Canadian Grand Prix,Oliver Bearman,16.0,10.0,1.0,Lapped
+2026,2026 Canadian Grand Prix,Oscar Piastri,4.0,11.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Nico Hulkenberg,11.0,12.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Gabriel Bortoleto,13.0,13.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Esteban Ocon,17.0,14.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Lance Stroll,22.0,15.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Valtteri Bottas,21.0,16.0,0.0,Lapped
+2026,2026 Canadian Grand Prix,Sergio Perez,20.0,17.0,0.0,Retired
+2026,2026 Canadian Grand Prix,Lando Norris,3.0,18.0,0.0,Retired
+2026,2026 Canadian Grand Prix,George Russell,1.0,19.0,0.0,Retired
+2026,2026 Canadian Grand Prix,Fernando Alonso,19.0,20.0,0.0,Retired
+2026,2026 Canadian Grand Prix,Alexander Albon,18.0,21.0,0.0,Retired
+2026,2026 Canadian Grand Prix,Arvid Lindblad,9.0,22.0,0.0,Did not start
+2026,2026 Monaco Grand Prix,Kimi Antonelli,1.0,1.0,25.0,Finished
+2026,2026 Monaco Grand Prix,Lewis Hamilton,3.0,2.0,18.0,Finished
+2026,2026 Monaco Grand Prix,Isack Hadjar,5.0,3.0,15.0,Finished
+2026,2026 Monaco Grand Prix,Oscar Piastri,7.0,4.0,12.0,Finished
+2026,2026 Monaco Grand Prix,Liam Lawson,10.0,5.0,10.0,Finished
+2026,2026 Monaco Grand Prix,Arvid Lindblad,15.0,6.0,8.0,Finished
+2026,2026 Monaco Grand Prix,Pierre Gasly,9.0,7.0,6.0,Finished
+2026,2026 Monaco Grand Prix,Alexander Albon,11.0,8.0,4.0,Finished
+2026,2026 Monaco Grand Prix,Esteban Ocon,17.0,9.0,2.0,Finished
+2026,2026 Monaco Grand Prix,Fernando Alonso,21.0,10.0,1.0,Finished
+2026,2026 Monaco Grand Prix,Gabriel Bortoleto,16.0,11.0,0.0,Finished
+2026,2026 Monaco Grand Prix,George Russell,6.0,12.0,0.0,Finished
+2026,2026 Monaco Grand Prix,Nico Hulkenberg,13.0,13.0,0.0,Finished
+2026,2026 Monaco Grand Prix,Franco Colapinto,14.0,14.0,0.0,Finished
+2026,2026 Monaco Grand Prix,Sergio Perez,18.0,15.0,0.0,Finished
+2026,2026 Monaco Grand Prix,Carlos Sainz,12.0,16.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Charles Leclerc,4.0,17.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Lance Stroll,22.0,18.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Lando Norris,8.0,19.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Oliver Bearman,19.0,20.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Valtteri Bottas,20.0,21.0,0.0,Retired
+2026,2026 Monaco Grand Prix,Max Verstappen,2.0,22.0,0.0,Retired

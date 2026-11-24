@@ -1,0 +1,24 @@
+{
+  "project": "For1Sight",
+  "version": "V2.7",
+  "stage": "Stage 4 - final unseen test",
+  "run_id": "20261113_221724",
+  "source_stage3_artifacts": "C:\\Users\\ayepd\\Desktop\\For1Sight Project\\models\\race_winner_v2_7\\stage3_validation_20261113_220702",
+  "training_season": 2024,
+  "validation_season": 2025,
+  "final_test_season": 2026,
+  "excluded_2026_event_keys": [
+    "bahraininmalaysia",
+    "unitedstates"
+  ],
+  "events_evaluated": 16,
+  "provisional_champion_from_2025": "Gradient Boosting",
+  "models_evaluated": [
+    "Logistic Regression",
+    "Random Forest",
+    "Gradient Boosting"
+  ],
+  "models_retrained": false,
+  "test_used_for_model_selection": false,
+  "scikit_learn_version": "1.9.0"
+}

@@ -1,0 +1,21 @@
+{
+    "project": "For1Sight",
+    "version": "V2.8",
+    "training_season": 2024,
+    "training_records": 478,
+    "training_events": 24,
+    "feature_count": 12,
+    "target": "target",
+    "models": [
+        "Logistic Regression",
+        "Random Forest",
+        "Gradient Boosting"
+    ],
+    "saved_models": {
+        "Logistic Regression": "c:\\Users\\ayepd\\Desktop\\For1Sight Project\\models\\v2_8\\logistic_regression_v2_8.joblib",
+        "Random Forest": "c:\\Users\\ayepd\\Desktop\\For1Sight Project\\models\\v2_8\\random_forest_v2_8.joblib",
+        "Gradient Boosting": "c:\\Users\\ayepd\\Desktop\\For1Sight Project\\models\\v2_8\\gradient_boosting_v2_8.joblib"
+    },
+    "validation_season": 2025,
+    "final_test_season": 2026
+}

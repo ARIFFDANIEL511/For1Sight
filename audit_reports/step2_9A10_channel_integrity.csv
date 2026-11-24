@@ -1,0 +1,27 @@
+Season,Event,Session,Driver,Lap,Samples,DataKey,Speed_Unique,Speed_Min,Speed_Max,Speed_Std,RPM_Unique,RPM_Min,RPM_Max,RPM_Std,Throttle_Unique,Throttle_Min,Throttle_Max,Gear_Unique,Gear_Min,Gear_Max,Brake_Unique,Distance_Monotonic,Relative_Distance_Valid,Speed_Valid,RPM_Valid,Throttle_Valid,Gear_Valid,Constant_Channels,Quality_Status
+2026,Australian Grand Prix,Race,BOT,18,3,2026-Australian Grand Prix-Race-BOT-18,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,0.0,0.0,1,0,0,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Austrian Grand Prix,Race,SAI,26,1155,2026-Austrian Grand Prix-Race-SAI-26,1,188.0,188.0,0.0,1,11574.0,11574.0,0.0,1,104.0,104.0,1,4,4,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Azerbaijan Grand Prix,Practice 1,HUL,24,1132,2026-Azerbaijan Grand Prix-Practice 1-HUL-24,1,282.0,282.0,0.0,1,11176.0,11176.0,0.0,1,104.0,104.0,1,7,7,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Azerbaijan Grand Prix,Race,GAS,38,4,2026-Azerbaijan Grand Prix-Race-GAS-38,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Azerbaijan Grand Prix,Race,NOR,38,3,2026-Azerbaijan Grand Prix-Race-NOR-38,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Bahrain Grand Prix,Practice 2,BOR,27,4,2026-Bahrain Grand Prix-Practice 2-BOR-27,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Bahrain Grand Prix,Race,ALB,44,3,2026-Bahrain Grand Prix-Race-ALB-44,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,0.0,0.0,1,5,5,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Bahrain Grand Prix,Race,BOT,10,3,2026-Bahrain Grand Prix-Race-BOT-10,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,0.0,0.0,1,0,0,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Bahrain Grand Prix,Race,RUS,52,3,2026-Bahrain Grand Prix-Race-RUS-52,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Barcelona Grand Prix,Race,ALO,40,3,2026-Barcelona Grand Prix-Race-ALO-40,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Barcelona Grand Prix,Race,ANT,64,1129,2026-Barcelona Grand Prix-Race-ANT-64,1,87.0,87.0,0.0,1,7327.0,7327.0,0.0,1,104.0,104.0,1,2,2,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,British Grand Prix,Race,HUL,39,4,2026-British Grand Prix-Race-HUL-39,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Canadian Grand Prix,Practice 1,LAW,7,3,2026-Canadian Grand Prix-Practice 1-LAW-7,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,5,5,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Canadian Grand Prix,Race,ALB,14,1124,2026-Canadian Grand Prix-Race-ALB-14,1,71.0,71.0,0.0,1,7258.0,7258.0,0.0,1,104.0,104.0,1,1,1,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Canadian Grand Prix,Race,NOR,41,3,2026-Canadian Grand Prix-Race-NOR-41,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Canadian Grand Prix,Race,RUS,32,1143,2026-Canadian Grand Prix-Race-RUS-32,1,278.0,278.0,0.0,1,10665.0,10665.0,0.0,1,104.0,104.0,1,7,7,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Hungarian Grand Prix,Race,PIA,58,1112,2026-Hungarian Grand Prix-Race-PIA-58,1,226.0,226.0,0.0,1,9779.0,9779.0,0.0,1,104.0,104.0,1,6,6,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Japanese Grand Prix,Race,BEA,23,3,2026-Japanese Grand Prix-Race-BEA-23,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,0.0,0.0,1,0,0,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Miami Grand Prix,Race,GAS,7,1111,2026-Miami Grand Prix-Race-GAS-7,1,10.0,10.0,0.0,1,4737.0,4737.0,0.0,1,104.0,104.0,1,1,1,1,True,True,True,True,False,True,"speed, rpm, throttle, gear",REQUIRES_INVESTIGATION
+2026,Monaco Grand Prix,Practice 1,STR,18,3,2026-Monaco Grand Prix-Practice 1-STR-18,1,0.0,0.0,0.0,3,3526.0,3589.0,28.649799477415026,1,0.0,0.0,1,0,0,1,True,True,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Monaco Grand Prix,Practice 2,BOT,30,3,2026-Monaco Grand Prix-Practice 2-BOT-30,1,0.0,0.0,0.0,3,3741.0,3880.0,56.79176169180729,1,0.0,0.0,1,0,0,1,True,True,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Monaco Grand Prix,Practice 2,PER,33,3,2026-Monaco Grand Prix-Practice 2-PER-33,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,0.0,0.0,1,0,0,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Monaco Grand Prix,Practice 3,BEA,20,3,2026-Monaco Grand Prix-Practice 3-BEA-20,1,0.0,0.0,0.0,3,2807.0,3462.0,267.41172659091234,1,0.0,0.0,1,0,0,1,True,False,True,True,True,True,,INSUFFICIENT_SAMPLES
+2026,Singapore Grand Prix,Race,COL,32,3,2026-Singapore Grand Prix-Race-COL-32,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Singapore Grand Prix,Race,STR,39,3,2026-Singapore Grand Prix-Race-STR-39,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES
+2026,Spanish Grand Prix,Race,STR,15,3,2026-Spanish Grand Prix-Race-STR-15,1,0.0,0.0,0.0,1,0.0,0.0,0.0,1,104.0,104.0,1,0,0,1,True,False,True,True,False,True,,INSUFFICIENT_SAMPLES

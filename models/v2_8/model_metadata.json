@@ -1,0 +1,43 @@
+{
+    "project": "For1Sight",
+    "version": "V2.8",
+    "model_purpose": "F1 Race Winner Classification",
+    "deployment_training_seasons": [
+        2024,
+        2025
+    ],
+    "training_records": 957,
+    "training_races": 48,
+    "feature_count": 8,
+    "features": [
+        "starting_grid",
+        "driver_prior_avg_finish_3",
+        "driver_prior_avg_points_3",
+        "constructor_prior_avg_finish_3",
+        "constructor_prior_avg_points_3",
+        "driver_code_norm",
+        "constructor",
+        "event_norm"
+    ],
+    "target": "target",
+    "target_description": "1 = Race Winner, 0 = Non-Winner",
+    "algorithms": {
+        "Logistic Regression": "logistic_regression_deployment_v2_8.joblib",
+        "Random Forest": "random_forest_deployment_v2_8.joblib",
+        "Gradient Boosting": "gradient_boosting_deployment_v2_8.joblib"
+    },
+    "preprocessing": {
+        "numeric_imputation": "median",
+        "numeric_scaling": "StandardScaler",
+        "categorical_imputation": "most_frequent",
+        "categorical_encoding": "OneHotEncoder",
+        "unknown_categories": "ignore"
+    },
+    "final_test_season": 2026,
+    "final_test_records": 352,
+    "final_test_races": 16,
+    "final_test_models_trained_on_2024_only": true,
+    "deployment_training_uses_2026": false,
+    "calibration_verified": false,
+    "created_at_utc": "2026-11-14T18:22:23.917374+00:00"
+}

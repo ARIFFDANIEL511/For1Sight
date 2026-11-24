@@ -1,0 +1,203 @@
+========================================================================
+FOR1SIGHT WAREHOUSE + HDFS AUDIT
+========================================================================
+Python: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+Working directory: C:\Users\ayepd\Desktop\For1Sight Project
+Script directory (project root assumed): C:\Users\ayepd\Desktop\For1Sight Project
+This is a READ-ONLY audit. No data will be changed.
+
+========================================================================
+1. LOCAL PARQUET WAREHOUSE (READ ONLY)
+========================================================================
+Project root: C:\Users\ayepd\Desktop\For1Sight Project
+Warehouse exists: True
+Expected Parquet path: C:\Users\ayepd\Desktop\For1Sight Project\for1sight_warehouse\hf_laptimes.parquet
+Parquet path exists: True
+Parquet dataset directory; part files: 21
+Total part-file size (MB): 18.233
+Rows: 197413
+Columns: ['time', 'lap', 'compound', 'stint', 's1', 's2', 's3', 'life', 'pos', 'status', 'pb', 'sesT', 'drv', 'dNum', 'pout', 'pin', 's1T', 's2T', 's3T', 'vi1', 'vi2', 'vfl', 'vst', 'fresh', 'team', 'lST', 'lSD', 'del', 'delR', 'ff1G', 'iacc', 'wT', 'wAT', 'wH', 'wP', 'wR', 'wTT', 'wWD', 'wWS', 'event_name', 'driver_code', 'ms1', 'ms2', 'ms3', 'qs', 'year', 'session_type']
+
+Dtypes:
+time             float64
+lap              float64
+compound          object
+stint            float64
+s1               float64
+s2               float64
+s3               float64
+life             float64
+pos              float64
+status            object
+pb                object
+sesT             float64
+drv               object
+dNum              object
+pout              object
+pin               object
+s1T               object
+s2T               object
+s3T               object
+vi1              float64
+vi2              float64
+vfl              float64
+vst              float64
+fresh             object
+team              object
+lST               object
+lSD               object
+del               object
+delR              object
+ff1G              object
+iacc              object
+wT                object
+wAT               object
+wH                object
+wP                object
+wR                object
+wTT               object
+wWD               object
+wWS               object
+event_name        object
+driver_code       object
+ms1               object
+ms2               object
+ms3               object
+qs                object
+year            category
+session_type    category
+
+year: non-null=197,413; sample unique=['2024', '2025', '2026']
+
+session_type: non-null=197,413; sample unique=['Practice 1', 'Practice 2', 'Practice 3', 'Qualifying', 'Race', 'Sprint Qualifying', 'Sprint']
+
+event_name: non-null=197,413; sample unique=['Abu Dhabi Grand Prix', 'Australian Grand Prix', 'Austrian Grand Prix', 'Azerbaijan Grand Prix', 'Bahrain Grand Prix', 'Belgian Grand Prix', 'British GrandPrix', 'Canadian Grand Prix', 'Chinese Grand Prix', 'Dutch Grand Prix', 'Emilia Romagna Grand Prix', 'Hungarian Grand Prix', 'ItalianGrand Prix', 'Japanese Grand Prix', 'Las Vegas Grand Prix', 'Mexico City Grand Prix', 'Miami Grand Prix', 'Monaco Grand Prix', 'Pre-Season Testing', 'Qatar Grand Prix']
+
+driver_code: non-null=197,413; sample unique=['ALO', 'BOT', 'BRO','COL', 'DOO', 'DRU', 'GAS', 'HAD', 'HAM', 'HIR', 'HUL', 'IWA', 'LAW', 'LEC', 'LEL', 'MAG', 'NOR', 'PER', 'RUS', 'ZHO']
+
+drv: non-null=197,413; sample unique=['ALO', 'BOT', 'BRO', 'COL', 'DOO', 'DRU', 'GAS', 'HAD', 'HAM', 'HIR', 'HUL', 'IWA', 'LAW', 'LEC', 'LEL', 'MAG', 'NOR', 'PER', 'RUS', 'ZHO']
+
+lap: non-null=197,413; sample unique=['1.0', '2.0', '3.0', '4.0', '5.0', '6.0', '7.0', '8.0', '9.0', '10.0', '11.0', '12.0', '13.0', '14.0', '15.0', '16.0', '17.0', '18.0', '19.0', '20.0']
+
+time: non-null=169,152; sample unique=['110.468', '102.201', '86.961', '142.617', '86.188', '146.191', '85.903', '113.307', '129.627', '86.044', '95.316', '85.504', '85.769', '106.065', '108.902', '88.881', '138.358', '87.723', '86.884', '132.561']
+
+pos: non-null=79,839; sample unique=['15.0', '14.0', '16.0', '13.0', '12.0', '11.0', '10.0', '9.0', '6.0', '7.0', '8.0', '18.0', '17.0', '19.0', '3.0', '4.0', '5.0', '1.0', '2.0', '20.0']
+
+compound: non-null=197,413; sample unique=['MEDIUM', 'SOFT', 'None', 'HARD', 'WET', 'INTERMEDIATE', 'UNKNOWN', 'TEST_UNKNOWN', '']
+
+stint: non-null=196,919; sample unique=['1.0', '2.0', '3.0', '4.0', '5.0', '6.0', '7.0', '8.0', '9.0', '10.0', '11.0', '12.0', '13.0', '14.0', '15.0', '16.0', '17.0', '18.0', '19.0', '20.0']
+
+s1: non-null=177,467; sample unique=['19.898', '19.15', '17.797', '30.638', '17.623', '23.597', '33.591', '17.668', '19.579', '63.944', '17.784', '17.58', '18.538', '17.464', '37.871', '29.982', '17.451', '19.179', '35.458', '18.795']
+
+s2: non-null=195,707; sample unique=['51.091', '51.764', '66.959','44.986', '47.015', '37.29', '62.243', '37.286', '78.229', '61.091', '36.973', '48.481', '48.226', '63.842', '37.136', '38.645', '56.78', '36.826', '82.543', '72.887']
+
+s3: non-null=192,455; sample unique=['36.672', '38.806', '38.263','38.065', '45.628', '31.874', '49.736', '31.279', '49.034', '51.509', '31.262', '45.247', '46.73', '48.001', '31.328', '38.133', '51.67', '31.214', '59.272', '50.662']
+
+First 3 rows:
+   time  lap compound  stint     s1     s2     s3  life  pos status    pb     sesT drv dNum     pout  ...  wAT   wH     wP    wR  wTT wWD  wWS           event_name driver_code ms1 ms2 ms3  qs year session_type
+    NaN  1.0   MEDIUM    1.0    NaN 51.091 36.672   1.0  NaN      1 False 1014.008 ALO   14  903.676  ... 27.8 58.0 1017.2 False 41.8  94  2.1 Abu Dhabi Grand Prix         ALO nan nan nan nan 2024   Practice 1
+110.468  2.0   MEDIUM    1.0 19.898 51.764 38.806   2.0  NaN      1 False 1124.476 ALO   14     None  ... 27.8 57.0 1017.1 False 41.8 111  3.4 Abu Dhabi Grand Prix         ALO nan nan nan nan 2024   Practice 1
+    NaN  3.0   MEDIUM    2.0    NaN 66.959 38.263   3.0  NaN     12 False 1553.043 ALO   14 1426.711  ... 27.9 57.0 1017.1 False 41.9 268  1.7 Abu Dhabi Grand Prix         ALO nan nan nan nan 2024   Practice 1
+
+========================================================================
+2. RAW HUGGINGFACE / TRACINGINSIGHTS FILES (READ ONLY)
+========================================================================
+Raw folder: C:\Users\ayepd\Desktop\For1Sight Project\raw_hf_data
+Raw folder exists: True
+laptimes.json files found: 6904
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\ALO\laptimes.json | 6.5 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\BOT\laptimes.json | 6.5 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\BRO\laptimes.json | 6.2 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\COL\laptimes.json | 6.7 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\DOO\laptimes.json | 6.7 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\DRU\laptimes.json | 6.2 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\GAS\laptimes.json | 6.7 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\HAD\laptimes.json | 6.3 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\HAM\laptimes.json | 7.5 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\HIR\laptimes.json | 5.4 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\HUL\laptimes.json | 6.5 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\IWA\laptimes.json | 6.6 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\LAW\laptimes.json | 7.3 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\LEC\laptimes.json | 5.3 KB
+- raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\LEL\laptimes.json | 6.1 KB
+
+Inspecting first file structure: raw_hf_data\2024\Abu Dhabi Grand Prix\Practice 1\ALO\laptimes.json
+Top-level keys: ['time', 'lap', 'compound', 'stint', 's1', 's2', 's3', 'life', 'pos', 'status', 'pb', 'sesT', 'drv', 'dNum', 'pout', 'pin', 's1T', 's2T', 's3T', 'vi1', 'vi2', 'vfl', 'vst', 'fresh', 'team', 'lST', 'lSD', 'del', 'delR', 'ff1G', 'iacc', 'wT', 'wAT', 'wH', 'wP', 'wR', 'wTT', 'wWD', 'wWS']
+  time: list length=23; first item=['None', 110.468]
+  lap: list length=23; first item=[1, 2]
+  compound: list length=23; first item=['MEDIUM', 'MEDIUM']
+  stint: list length=23; first item=[1, 1]
+  s1: list length=23; first item=['None', 19.898]
+  s2: list length=23; first item=[51.091, 51.764]
+  s3: list length=23; first item=[36.672, 38.806]
+  life: list length=23; first item=[1, 2]
+  pos: list length=23; first item=['None', 'None']
+  status: list length=23; first item=['1', '1']
+  pb: list length=23; first item=[False, False]
+  sesT: list length=23; first item=[1014.008, 1124.476]
+  drv: list length=23; first item=['ALO', 'ALO']
+  dNum: list length=23; first item=['14', '14']
+  pout: list length=23; first item=[903.676, 'None']
+  pin: list length=23; first item=['None', 1123.246]
+  s1T: list length=23; first item=['None', 1033.906]
+  s2T: list length=23; first item=[977.435, 1085.67]
+  s3T: list length=23; first item=[1014.065, 1124.476]
+  vi1: list length=23; first item=[268.0, 272.0]
+  vi2: list length=23; first item=[260.0, 156.0]
+  vfl: list length=23; first item=[207.0, 'None']
+  vst: list length=23; first item=[258.0, 263.0]
+  fresh: list length=23; first item=[True, True]
+  team: list length=23; first item=['Aston Martin', 'Aston Martin']
+  lST: list length=23; first item=[903.676, 1014.008]
+  lSD: list length=23; first item=['2024-12-06T09:30:03.688000000', '2024-12-06T09:31:54.020000000']
+  del: list length=23; first item=[False, False]
+  delR: list length=23; first item=['None', 'None']
+  ff1G: list length=23; first item=[False, False]
+  iacc: list length=23; first item=[False, False]
+  wT: list length=23; first item=[992.996, 1113.017]
+  wAT: list length=23; first item=[27.8, 27.8]
+  wH: list length=23; first item=[58.0, 57.0]
+  wP: list length=23; first item=[1017.2, 1017.1]
+  wR: list length=23; first item=[False, False]
+  wTT: list length=23; first item=[41.8, 41.8]
+  wWD: list length=23; first item=[94, 111]
+  wWS: list length=23; first item=[2.1, 3.4]
+
+========================================================================
+3. HDFS CONNECTIVITY AND EXISTING DATA (READ ONLY)
+========================================================================
+HDFS executable: C:\hadoop\bin\hdfs.CMD
+$ C:\hadoop\bin\hdfs.CMD getconf -confKey fs.defaultFS
+Return code: 0
+STDOUT:
+ hdfs://localhost:9000
+$ C:\hadoop\bin\hdfs.CMD dfs -ls /
+Return code: 0
+STDOUT:
+ Found 2 items
+drwxr-xr-x   - ayepd supergroup          0 2026-10-07 13:30 /for1sight_warehouse
+drwxr-xr-x   - ayepd supergroup          0 2026-10-25 15:24 /user
+$ C:\hadoop\bin\hdfs.CMD dfs -ls /user/for1sight
+Return code: 0
+STDOUT:
+ Found 1 items
+drwxr-xr-x   - ayepd supergroup          0 2026-10-25 15:24 /user/for1sight/warehouse
+$ C:\hadoop\bin\hdfs.CMD dfs -ls /user/for1sight/warehouse
+Return code: 0
+STDOUT:
+ Found 1 items
+drwxr-xr-x   - ayepd supergroup          0 2026-10-25 15:24 /user/for1sight/warehouse/hf_laptimes.parquet
+$ C:\hadoop\bin\hdfs.CMD dfs -count -q /user/for1sight/warehouse/hf_laptimes.parquet
+Return code: 0
+STDOUT:
+ none             inf            none             inf            1           2               7193 /user/for1sight/warehouse/hf_laptimes.parquet
+$ C:\hadoop\bin\hdfs.CMD dfs -du -h /user/for1sight/warehouse/hf_laptimes.parquet
+Return code: 0
+STDOUT:
+ 0      0       /user/for1sight/warehouse/hf_laptimes.parquet/_SUCCESS
+7.0 K  21.1 K  /user/for1sight/warehouse/hf_laptimes.parquet/part-00000-977d83e0-8047-4692-8000-9b5ed76ce3bc-c000.snappy.parquet
+
+========================================================================
+AUDIT FINISHED
+========================================================================
+Please share the complete terminal output or save it as a .txt file.

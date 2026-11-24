@@ -1,0 +1,9 @@
+Season,Event,Session,Driver,lap,time,compound,stint,s1,s2,s3,pos,status,pb,sesT,drv,dNum,pout,pin
+2026,Australian Grand Prix,Race,HUL,1,None,HARD,1,None,None,None,None,1,False,3831.908,HUL,27,None,None
+2026,Canadian Grand Prix,Race,LIN,1,None,MEDIUM,1,None,None,None,None,1,False,3838.725,LIN,41,None,None
+2026,Chinese Grand Prix,Race,ALB,1,None,HARD,1,None,None,None,None,12,False,3483.76,ALB,23,None,None
+2026,Chinese Grand Prix,Race,BOR,1,None,HARD,1,None,None,None,None,12,False,3483.76,BOR,5,None,None
+2026,Chinese Grand Prix,Race,NOR,1,None,HARD,1,None,None,None,None,12,False,3483.76,NOR,1,None,None
+2026,Chinese Grand Prix,Race,PIA,1,None,MEDIUM,1,None,None,None,None,12,False,3483.76,PIA,81,None,None
+2026,Miami Grand Prix,Sprint,HUL,1,None,MEDIUM,1,None,None,None,None,1,False,2745.655,HUL,27,None,None
+2026,Miami Grand Prix,Sprint,LIN,1,None,MEDIUM,1,None,None,None,None,1,False,2745.655,LIN,41,None,None
